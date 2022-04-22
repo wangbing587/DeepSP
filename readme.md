@@ -2,7 +2,7 @@
 DeepSP: A Deep Learning Framework for Spatial Proteomics
 
 
-### Install dependencies
+## Install dependencies
 ```powershell
 pip install -r requirements.txt
 ```

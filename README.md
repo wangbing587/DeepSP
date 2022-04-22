@@ -1,7 +1,7 @@
 # DeepSP
 DeepSP: A Deep Learning Framework for Spatial Proteomics
 
-
+## DeepSP help
 ```
 $ python DeepSP.py -h
 usage: DeepSP.py [-h] [-f F] [-r R] [-o O] [-p {Y,N}] [-q Q] [-n N] [-bs BS]
@@ -32,3 +32,11 @@ optional arguments:
   -nep NEP, --nepoch NEP
                         print the results every * times, default=20
 ```
+
+
+## DeepSP example
+```
+python.py nikolovski2014.csv -f -r 2
+```
+
+

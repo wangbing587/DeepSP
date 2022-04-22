@@ -1,6 +1,13 @@
 # DeepSP
 DeepSP: A Deep Learning Framework for Spatial Proteomics
 
+
+### Install dependencies
+```
+pip install -r requirements.txt
+```
+
+
 ## DeepSP help
 ```
 $ python DeepSP.py -h

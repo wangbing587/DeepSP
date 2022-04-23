@@ -317,7 +317,7 @@ def main():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description="DeepSP for Subcellular Localization")
+        description="DeepSP for Protein Subcellular Localization Prediction")
     parser.add_argument("-f",
                         "--file",
                         dest='f',

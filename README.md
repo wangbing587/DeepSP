@@ -18,7 +18,7 @@ $ python DeepSP.py -h
 usage: DeepSP.py [-h] [-f F] [-r R] [-o O] [-p {Y,N}] [-q Q] [-n N] [-bs BS]
                  [-s S] [-lr LR] [-l2 L2] [-eps EPS] [-nep NEP]
 
-DeepSP for Subcellular Localization
+DeepSP for Protein Subcellular Localization Prediction
 
 optional arguments:
   -h, --help            show this help message and exit

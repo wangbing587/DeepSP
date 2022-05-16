@@ -49,5 +49,5 @@ optional arguments:
 ## DeepSP example
 
 ```shell
-$ python DeepSP.py nikolovski2014.csv -f -r 2
+$ python DeepSP.py nikolovski2014.csv -f -r 2 -q 0.05
 ```

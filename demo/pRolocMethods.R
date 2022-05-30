@@ -15,7 +15,7 @@ pRolocMethods <-function(data,name){
 
 
   knnparams <- knnOptimisation(data, fcol = "markers",
-                                   times = 10, xval = 5)
+                                   times = 100, xval = 5)
   print(knnparams)
   save(knnparams, file = paste0("../input/", name, '/', name, "knn.rda"))
 

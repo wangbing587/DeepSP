@@ -1,0 +1,173 @@
+true_label,pred_label,pred_prob
+Large Protein Complex,Large Protein Complex,0.9998150765895844
+Large Protein Complex,Large Protein Complex,0.9709356725215912
+Large Protein Complex,Endosome,0.5087187588214874
+Large Protein Complex,Large Protein Complex,0.5039158686995506
+Large Protein Complex,Large Protein Complex,0.8513672351837158
+Large Protein Complex,Large Protein Complex,0.9987941533327103
+Large Protein Complex,Large Protein Complex,0.9970113188028336
+Large Protein Complex,Large Protein Complex,0.9981939047574997
+Large Protein Complex,Large Protein Complex,0.9370346218347549
+Large Protein Complex,Large Protein Complex,0.9238366186618805
+Large Protein Complex,Plasma membrane,0.7659112811088562
+Large Protein Complex,Large Protein Complex,0.9066545069217682
+Large Protein Complex,Large Protein Complex,0.9998094439506531
+Large Protein Complex,Large Protein Complex,0.9997905939817429
+Large Protein Complex,Large Protein Complex,0.5266925171017647
+Large Protein Complex,Large Protein Complex,0.4940407797694206
+Large Protein Complex,Large Protein Complex,0.7364209964871407
+Large Protein Complex,Large Protein Complex,0.999742403626442
+Large Protein Complex,Large Protein Complex,0.9992363601922989
+Large Protein Complex,Large Protein Complex,0.9958197623491287
+Large Protein Complex,Large Protein Complex,0.9698861539363861
+Large Protein Complex,Large Protein Complex,0.3874514102935791
+Large Protein Complex,Large Protein Complex,0.9999685883522034
+Large Protein Complex,Large Protein Complex,0.9998705238103867
+Large Protein Complex,Endosome,0.5491048991680145
+Large Protein Complex,Large Protein Complex,0.9995770156383514
+Large Protein Complex,Large Protein Complex,0.9263176023960114
+Large Protein Complex,Large Protein Complex,0.9996846467256546
+Large Protein Complex,Large Protein Complex,0.990850642323494
+Large Protein Complex,Large Protein Complex,0.9947791248559952
+Large Protein Complex,Large Protein Complex,0.9855858385562897
+Large Protein Complex,Large Protein Complex,0.9182661026716232
+Large Protein Complex,Large Protein Complex,0.9991669356822968
+Large Protein Complex,Large Protein Complex,0.9993657916784286
+Large Protein Complex,Large Protein Complex,0.7272803038358688
+Large Protein Complex,Large Protein Complex,0.9999814927577972
+Large Protein Complex,Large Protein Complex,0.9992330819368362
+Large Protein Complex,Large Protein Complex,0.9966074824333191
+Large Protein Complex,Large Protein Complex,0.9998597055673599
+Large Protein Complex,Large Protein Complex,0.9985059052705765
+Large Protein Complex,Large Protein Complex,0.9998148083686829
+Large Protein Complex,Large Protein Complex,0.9996735900640488
+Large Protein Complex,Large Protein Complex,0.9989051073789597
+Large Protein Complex,Large Protein Complex,0.6743357544764876
+Large Protein Complex,Large Protein Complex,0.9997846782207489
+Large Protein Complex,Large Protein Complex,0.7199133783578873
+Large Protein Complex,Large Protein Complex,0.9995856285095215
+Large Protein Complex,Large Protein Complex,0.9994633495807648
+Large Protein Complex,Large Protein Complex,0.9437327831983566
+Large Protein Complex,Large Protein Complex,0.770814411342144
+Large Protein Complex,Large Protein Complex,0.7863403856754303
+Large Protein Complex,Large Protein Complex,0.7697685174618982
+Large Protein Complex,Large Protein Complex,0.8900377005338669
+Large Protein Complex,Large Protein Complex,0.8203257769346237
+Large Protein Complex,Large Protein Complex,0.9938908070325851
+Large Protein Complex,Large Protein Complex,0.6911400482058525
+Large Protein Complex,Large Protein Complex,0.9991901218891144
+Actin binding proteins,Actin binding proteins,0.6726179824909195
+Actin binding proteins,Actin binding proteins,0.8692491799592972
+Actin binding proteins,Actin binding proteins,0.5621839240193367
+Actin binding proteins,Actin binding proteins,0.8358981013298035
+Actin binding proteins,Actin binding proteins,0.9503799378871918
+Mitochondrion,Mitochondrion,0.999827042222023
+Mitochondrion,Mitochondrion,0.9998020976781845
+Mitochondrion,Mitochondrion,0.9901863932609558
+Mitochondrion,Mitochondrion,0.9999089688062668
+Mitochondrion,Mitochondrion,0.9997205287218094
+Mitochondrion,Mitochondrion,0.99992735683918
+Mitochondrion,Mitochondrion,0.6858935579657555
+Mitochondrion,Mitochondrion,0.999614492058754
+Mitochondrion,Mitochondrion,0.9990545809268951
+Mitochondrion,Mitochondrion,0.9997921139001846
+Mitochondrion,Mitochondrion,0.9996722489595413
+Mitochondrion,Mitochondrion,0.9997885376214981
+Mitochondrion,Mitochondrion,0.9999121278524399
+Mitochondrion,Mitochondrion,0.9997752457857132
+Mitochondrion,Mitochondrion,0.9999664276838303
+Mitochondrion,Mitochondrion,0.9998265206813812
+Mitochondrion,Mitochondrion,0.9998564273118973
+Mitochondrion,Mitochondrion,0.9999262243509293
+Mitochondrion,Mitochondrion,0.9998858869075775
+Mitochondrion,Mitochondrion,0.9997007697820663
+Mitochondrion,Mitochondrion,0.9998161643743515
+Mitochondrion,Mitochondrion,0.9995030164718628
+Mitochondrion,Mitochondrion,0.9994673430919647
+Mitochondrion,Mitochondrion,0.9995758533477783
+Mitochondrion,Mitochondrion,0.9998978078365326
+Mitochondrion,Mitochondrion,0.9996260851621628
+Mitochondrion,Mitochondrion,0.9793364554643631
+Mitochondrion,Mitochondrion,0.9998432099819183
+Mitochondrion,Mitochondrion,0.9995121508836746
+Mitochondrion,Mitochondrion,0.9998439848423004
+Mitochondrion,Mitochondrion,0.9989442229270935
+Mitochondrion,Mitochondrion,0.9987039566040039
+Mitochondrion,Mitochondrion,0.9998696893453598
+Mitochondrion,Mitochondrion,0.8504204154014587
+Mitochondrion,Mitochondrion,0.9999198913574219
+Mitochondrion,Mitochondrion,0.9998371750116348
+Mitochondrion,Mitochondrion,0.9957130551338196
+Mitochondrion,Mitochondrion,0.9998650848865509
+Mitochondrion,Mitochondrion,0.998265728354454
+Mitochondrion,Mitochondrion,0.9998097121715546
+Mitochondrion,Mitochondrion,0.9992794692516327
+ER,ER,0.9467865228652954
+ER,ER,0.8885574340820312
+ER,ER,0.9949303567409515
+ER,ER,0.8830818384885788
+ER,ER,0.9858292639255524
+ER,ER,0.8837578147649765
+ER,ER,0.9352535605430603
+ER,ER,0.9836369156837463
+ER,ER_high_curvature,0.5370186418294907
+ER,ER,0.9928906857967377
+ER,ER,0.6125566214323044
+ER,ER,0.9570762068033218
+ER,ER,0.9615988582372665
+ER,ER,0.9928041398525238
+ER,ER,0.9895803034305573
+ER,ER,0.9266441464424133
+ER,ER,0.9858119040727615
+ER,Peroxisome,0.51171899959445
+ER,ER,0.9977235794067383
+ER_high_curvature,Ergic/cisGolgi,0.47933994233608246
+ER_high_curvature,ER_high_curvature,0.6353506669402122
+Golgi,Golgi,0.7783018946647644
+Golgi,Golgi,0.9943393766880035
+Golgi,Golgi,0.9044544696807861
+Golgi,Golgi,0.9992066323757172
+Golgi,Golgi,0.9996967911720276
+Plasma membrane,Plasma membrane,0.9437822252511978
+Plasma membrane,Plasma membrane,0.7574936300516129
+Plasma membrane,Plasma membrane,0.9498330503702164
+Plasma membrane,Plasma membrane,0.705017164349556
+Plasma membrane,Plasma membrane,0.964311957359314
+Plasma membrane,Endosome,0.5290814265608788
+Plasma membrane,Plasma membrane,0.9539127945899963
+Plasma membrane,Plasma membrane,0.9673115909099579
+Plasma membrane,Plasma membrane,0.6108977124094963
+Plasma membrane,Plasma membrane,0.5762463137507439
+Plasma membrane,Plasma membrane,0.9153339266777039
+Endosome,Plasma membrane,0.8417198359966278
+Endosome,Endosome,0.8909847140312195
+Endosome,Endosome,0.7844721525907516
+Endosome,Endosome,0.727034404873848
+Endosome,Endosome,0.4760707740788348
+Endosome,Large Protein Complex,0.45842839777469635
+Endosome,Golgi,0.7592401206493378
+Endosome,Endosome,0.5742311403155327
+Endosome,Endosome,0.7353967949748039
+Endosome,Endosome,0.6100255027413368
+Endosome,Ergic/cisGolgi,0.37087899073958397
+Endosome,Endosome,0.897734522819519
+Endosome,Endosome,0.6776288226246834
+Endosome,Endosome,0.761655330657959
+Peroxisome,Peroxisome,0.9874745309352875
+Peroxisome,Peroxisome,0.9680492728948593
+Peroxisome,Peroxisome,0.9415466040372849
+Peroxisome,Peroxisome,0.5264688581228256
+Nuclear pore complex,Nuclear pore complex,0.9999642968177795
+Nuclear pore complex,Nuclear pore complex,0.9999962151050568
+Nuclear pore complex,Nuclear pore complex,0.9999978244304657
+Nuclear pore complex,Nuclear pore complex,0.8547788709402084
+Ergic/cisGolgi,Ergic/cisGolgi,0.8623964637517929
+Ergic/cisGolgi,Ergic/cisGolgi,0.6115793660283089
+Ergic/cisGolgi,Ergic/cisGolgi,0.8977450430393219
+Ergic/cisGolgi,Ergic/cisGolgi,0.9675272405147552
+Lysosome,Lysosome,0.9681472927331924
+Lysosome,Lysosome,0.9666045606136322
+Lysosome,Lysosome,0.9950622320175171
+Lysosome,Lysosome,0.9984360933303833
+Lysosome,Lysosome,0.9020765423774719
+Lysosome,Lysosome,0.9903002381324768

@@ -1,0 +1,2678 @@
+cv_index,true_label,pred_label,pred_prob
+1.0,Plasma Membrane,Nucleus (Nucleolus),0.3188477158546448
+2.0,Cytosol_4,Cytosol_4,0.8007038831710815
+5.0,Cytosol_4,Cytosol_4,0.7447212934494019
+5.0,Cytosol_5,Cytosol_5,0.7470797300338745
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5443578958511353
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8019908666610718
+2.0,Mitochondria membrane,Mitochondria membrane,0.8675031661987305
+1.0,Mitochondria membrane,Mitochondria membrane,0.5384034514427185
+4.0,Plasma Membrane,Mitochondria membrane,0.6066821217536926
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9060983657836914
+5.0,Plasma Membrane,Plasma Membrane,0.5802523493766785
+4.0,Plasma Membrane,Plasma Membrane,0.5120317935943604
+1.0,Plasma Membrane,Plasma Membrane,0.4883400797843933
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.49472731351852417
+1.0,"ER, peroxisome","ER, peroxisome",0.6223459839820862
+1.0,"ER, peroxisome","ER, peroxisome",0.5142955183982849
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9242054224014282
+4.0,Cytosol_3,Cytosol_5,0.6412702798843384
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.48035332560539246
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.6186492443084717
+2.0,"ER, peroxisome","ER, peroxisome",0.43337881565093994
+5.0,"ER, peroxisome","ER, peroxisome",0.5450618863105774
+1.0,Cytosol_3,Cytosol_3,0.5714291930198669
+1.0,Cytosol_1,Cytosol_3,0.5023937821388245
+2.0,Cytosol_4,Cytosol_4,0.9400393962860107
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5249346494674683
+4.0,Mitochondria matrix,Mitochondria matrix,0.9123673439025879
+5.0,Cytosol_3,Cytosol_3,0.5437654256820679
+5.0,"ER, peroxisome","ER, peroxisome",0.6620774865150452
+4.0,Cytosol_5,Cytosol_5,0.4096771776676178
+2.0,Nucleus (speckles),Nucleus (speckles),0.9929106831550598
+4.0,Cytosol_5,Cytosol_2,0.5655179023742676
+5.0,Cytosol_4,Cytosol_5,0.3790074586868286
+2.0,Cytosol_4,Cytosol_4,0.5234559178352356
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.4717984199523926
+3.0,"ER, peroxisome","ER, peroxisome",0.4870445430278778
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8744310140609741
+4.0,Cytosol_2,Cytosol_1,0.38229724764823914
+4.0,Plasma Membrane,Plasma Membrane,0.27514731884002686
+5.0,Cytosol_4,Cytosol_4,0.8035212159156799
+2.0,Cytosol_1,Cytosol_5,0.6667008996009827
+3.0,Plasma Membrane,Plasma Membrane,0.7201840281486511
+1.0,"ER, peroxisome","ER, peroxisome",0.38245224952697754
+2.0,"ER, peroxisome","ER, peroxisome",0.682964026927948
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6214618682861328
+2.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.656284511089325
+5.0,Cytosol_5,Cytosol_5,0.7106500864028931
+2.0,Mitochondria membrane,Mitochondria membrane,0.4957215487957001
+4.0,Plasma Membrane,Plasma Membrane,0.4870906472206116
+5.0,Plasma Membrane,Plasma Membrane,0.7501980662345886
+1.0,Cytosol_4,Cytosol_4,0.6055836081504822
+5.0,Cytosol_4,Cytosol_4,0.6060056686401367
+1.0,"ER, peroxisome",Plasma Membrane,0.6467487215995789
+3.0,Nucleus (speckles),Nucleosol,0.9246626496315002
+3.0,Cytosol_5,Cytosol_3,0.5865007638931274
+5.0,Cytosol_5,Cytosol_2,0.6670793890953064
+3.0,Cytosol_4,Cytosol_5,0.42292869091033936
+3.0,Cytosol_5,Cytosol_5,0.4754989445209503
+4.0,Nucleosol,Nucleosol,0.6457704305648804
+4.0,Mitochondria membrane,Mitochondria membrane,0.7796932458877563
+2.0,Cytosol_4,Cytosol_4,0.5442816019058228
+5.0,Cytosol_2,Cytosol_1,0.6731263399124146
+2.0,Cytosol_1,Cytosol_1,0.3056350350379944
+2.0,Nucleosol,Nucleosol,0.9169905781745911
+3.0,Mitochondria membrane,Mitochondria membrane,0.8339422941207886
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8095296025276184
+1.0,"ER, peroxisome","ER, peroxisome",0.4580034613609314
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5626893639564514
+3.0,Cytosol_3,Cytosol_3,0.7002875208854675
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5032224059104919
+4.0,Cytosol_3,Cytosol_3,0.3795758783817291
+2.0,Mitochondria membrane,Mitochondria membrane,0.9861445426940918
+5.0,Cytosol_4,Cytosol_4,0.5828154683113098
+1.0,Nucleosol,Nucleosol,0.9424598217010498
+2.0,Mitochondria membrane,Mitochondria membrane,0.920936107635498
+1.0,Cytosol_2,Cytosol_3,0.40949946641921997
+2.0,Nucleosol,"Nucleosol, Ribosome",0.4322679936885834
+2.0,Cytosol_5,Cytosol_5,0.4913245439529419
+4.0,Cytosol_1,Cytosol_2,0.3147554397583008
+4.0,Cytosol_1,Cytosol_1,0.5034908056259155
+1.0,Cytosol_1,Cytosol_3,0.30866819620132446
+5.0,Plasma Membrane,Mitochondria membrane,0.5451172590255737
+2.0,Cytosol_4,Cytosol_4,0.7183594107627869
+5.0,Cytosol_1,Cytosol_1,0.8050076365470886
+4.0,Cytosol_4,Cytosol_4,0.5087350606918335
+1.0,"ER, peroxisome","ER, peroxisome",0.5782169699668884
+4.0,"ER, peroxisome","ER, peroxisome",0.6082072257995605
+1.0,Plasma Membrane,"ER, Mitochondrion",0.38123819231987
+2.0,"ER, peroxisome","ER, Mitochondrion",0.6652616262435913
+3.0,"ER, peroxisome",Plasma Membrane,0.7211698293685913
+2.0,Cytosol_5,Cytosol_2,0.37709397077560425
+5.0,Cytosol_3,Cytosol_3,0.41520440578460693
+4.0,"ER, peroxisome","ER, peroxisome",0.7438094019889832
+5.0,Cytosol_4,Cytosol_4,0.48218199610710144
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.62201327085495
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6603624224662781
+4.0,Cytosol_1,Cytosol_1,0.632014274597168
+1.0,"ER, peroxisome","ER, peroxisome",0.5311723351478577
+5.0,Cytosol_5,Cytosol_5,0.8444138169288635
+3.0,Cytosol_4,Cytosol_3,0.6240684986114502
+5.0,"ER, peroxisome","ER, peroxisome",0.5830931067466736
+5.0,"ER, peroxisome","ER, peroxisome",0.4917428493499756
+4.0,Plasma Membrane,Nucleus (speckles),0.44196081161499023
+2.0,"ER, Mitochondrion",Mitochondria membrane,0.2941213846206665
+4.0,Cytosol_1,Cytosol_1,0.566665530204773
+3.0,Cytosol_1,Cytosol_1,0.41600993275642395
+2.0,Cytosol_1,Cytosol_1,0.9977052807807922
+3.0,"ER, peroxisome","ER, peroxisome",0.4515536427497864
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6407713294029236
+4.0,"ER, Mitochondrion","ER, peroxisome",0.47584906220436096
+3.0,Cytosol_1,Cytosol_1,0.61729496717453
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.485994815826416
+1.0,Cytosol_1,Cytosol_3,0.40714436769485474
+1.0,Cytosol_5,Cytosol_4,0.554051399230957
+1.0,Cytosol_2,Cytosol_1,0.4826310873031616
+1.0,Cytosol_1,Cytosol_1,0.43022623658180237
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.948457658290863
+3.0,Cytosol_3,Cytosol_3,0.3681923449039459
+5.0,Cytosol_3,Cytosol_3,0.5671905279159546
+2.0,"ER, Mitochondrion",Mitochondria matrix,0.6245599985122681
+4.0,Cytosol_1,Cytosol_3,0.3917742371559143
+5.0,Cytosol_4,Cytosol_4,0.827170729637146
+1.0,"ER, Mitochondrion","Nucleosol, Ribosome",0.5354973077774048
+1.0,Cytosol_1,Cytosol_1,0.4197012186050415
+1.0,Nucleosol,Nucleosol,0.8896767497062683
+3.0,Cytosol_5,Cytosol_5,0.8467975854873657
+3.0,Cytosol_5,Cytosol_3,0.48334065079689026
+1.0,Plasma Membrane,Plasma Membrane,0.3739306926727295
+2.0,Cytosol_1,Cytosol_1,0.43382182717323303
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.4179213345050812
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9417222738265991
+5.0,Cytosol_3,Cytosol_3,0.4841020107269287
+4.0,Mitochondria membrane,Mitochondria membrane,0.8617199659347534
+5.0,Cytosol_3,Cytosol_4,0.6053180694580078
+4.0,"ER, peroxisome","ER, peroxisome",0.4567930996417999
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9663011431694031
+4.0,Cytosol_1,Cytosol_3,0.4198742210865021
+2.0,Cytosol_2,Cytosol_2,0.5300694108009338
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5684895515441895
+4.0,Nucleosol,Nucleosol,0.7533825039863586
+1.0,Cytosol_4,Cytosol_4,0.41414204239845276
+5.0,"ER, peroxisome","ER, peroxisome",0.6127030253410339
+4.0,Cytosol_5,Cytosol_2,0.35395923256874084
+1.0,Cytosol_5,Cytosol_4,0.46454569697380066
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.9048829674720764
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7392631769180298
+1.0,Mitochondria membrane,Mitochondria membrane,0.599120557308197
+1.0,Mitochondria membrane,Mitochondria membrane,0.5690392255783081
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7615458369255066
+4.0,Cytosol_5,Cytosol_4,0.4052707552909851
+2.0,Nucleosol,Nucleosol,0.9786385893821716
+1.0,Nucleus (Nucleolus),Mitochondria matrix,0.5540640950202942
+2.0,"ER, Mitochondrion","ER, peroxisome",0.6044959425926208
+5.0,Cytosol_3,Cytosol_1,0.3729371428489685
+3.0,Cytosol_3,Cytosol_3,0.4408666491508484
+1.0,Cytosol_3,Cytosol_3,0.5305827260017395
+4.0,Cytosol_4,Cytosol_4,0.45769017934799194
+3.0,Cytosol_4,Cytosol_4,0.83222496509552
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.8313770890235901
+3.0,Cytosol_4,Cytosol_4,0.5435299873352051
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9304075837135315
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6649104356765747
+3.0,"ER, peroxisome","ER, peroxisome",0.7716328501701355
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8056396245956421
+3.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.6386127471923828
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8326752185821533
+4.0,Plasma Membrane,Mitochondria membrane,0.541204035282135
+4.0,Plasma Membrane,Mitochondria membrane,0.4926280379295349
+5.0,"ER, peroxisome","ER, Mitochondrion",0.4989928603172302
+3.0,Plasma Membrane,Plasma Membrane,0.524527370929718
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9338050484657288
+4.0,Mitochondria membrane,Mitochondria membrane,0.7962080240249634
+3.0,Mitochondria membrane,Mitochondria membrane,0.5586032271385193
+3.0,Mitochondria membrane,Mitochondria membrane,0.7968013286590576
+1.0,Mitochondria membrane,Mitochondria matrix,0.5801238417625427
+3.0,Mitochondria membrane,Mitochondria membrane,0.8233695030212402
+1.0,Mitochondria membrane,Mitochondria membrane,0.7998847365379333
+1.0,Mitochondria membrane,Mitochondria membrane,0.8260645866394043
+5.0,Mitochondria membrane,Mitochondria membrane,0.9045049548149109
+2.0,Mitochondria membrane,Mitochondria membrane,0.5950864553451538
+2.0,"ER, peroxisome","ER, Mitochondrion",0.44739505648612976
+1.0,"ER, Mitochondrion","ER, peroxisome",0.5746203660964966
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9290887713432312
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7926589250564575
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8889270424842834
+2.0,"ER, peroxisome","ER, peroxisome",0.5238937139511108
+5.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.46516504883766174
+5.0,Plasma Membrane,Plasma Membrane,0.7995564341545105
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.556585967540741
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9263907074928284
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.5873720645904541
+4.0,Nucleus (speckles),Nucleus (speckles),0.989819347858429
+4.0,Nucleosol,Nucleosol,0.7734872698783875
+4.0,Cytosol_3,Cytosol_3,0.47140347957611084
+3.0,"ER, Mitochondrion","ER, peroxisome",0.23654407262802124
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.5917893648147583
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9487573504447937
+5.0,"ER, Mitochondrion",Plasma Membrane,0.616044819355011
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6339454054832458
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9133309721946716
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8463024497032166
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9138383865356445
+3.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.5273723602294922
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9515401721000671
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.977212131023407
+2.0,Cytosol_5,Cytosol_5,0.43003395199775696
+4.0,Cytosol_2,Cytosol_2,0.660522997379303
+4.0,Mitochondria membrane,Mitochondria membrane,0.6388524174690247
+4.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.4366118311882019
+3.0,Cytosol_3,Cytosol_2,0.44461560249328613
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7702096700668335
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5681198835372925
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6327099204063416
+2.0,Mitochondria membrane,"ER, Mitochondrion",0.5889459252357483
+5.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.5283253192901611
+5.0,Cytosol_3,Cytosol_3,0.4975365102291107
+3.0,Cytosol_3,Cytosol_3,0.36185699701309204
+1.0,Cytosol_4,Cytosol_4,0.639805793762207
+5.0,Mitochondria membrane,Plasma Membrane,0.6335038542747498
+1.0,Mitochondria membrane,Mitochondria membrane,0.8354644775390625
+5.0,Nucleosol,Nucleosol,0.9974498152732849
+2.0,Nucleus (speckles),Nucleus (speckles),0.997241735458374
+5.0,Mitochondria membrane,Mitochondria membrane,0.7846119403839111
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7820329070091248
+1.0,Cytosol_3,Cytosol_3,0.43084263801574707
+4.0,Cytosol_3,Cytosol_4,0.3721064627170563
+1.0,Cytosol_1,Cytosol_1,0.4519169330596924
+2.0,Cytosol_1,Cytosol_1,0.37622958421707153
+5.0,Cytosol_1,Cytosol_1,0.9232257008552551
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9922658801078796
+2.0,Cytosol_5,Cytosol_3,0.483824759721756
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5517175793647766
+2.0,Plasma Membrane,Mitochondria membrane,0.7590413689613342
+5.0,Plasma Membrane,Plasma Membrane,0.5772161483764648
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.733639121055603
+1.0,"ER, peroxisome","ER, peroxisome",0.5133663415908813
+1.0,Mitochondria membrane,"ER, peroxisome",0.39548105001449585
+2.0,Cytosol_5,Cytosol_4,0.9063235521316528
+4.0,Cytosol_3,Cytosol_1,0.45317718386650085
+5.0,Cytosol_2,Cytosol_3,0.5141885876655579
+4.0,Nucleus (speckles),Nucleus (speckles),0.9938828945159912
+2.0,Nucleosol,Nucleosol,0.7487343549728394
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7253329157829285
+3.0,Cytosol_5,Cytosol_5,0.6737128496170044
+3.0,Nucleus (speckles),Nucleus (Nucleolus),0.5557770729064941
+2.0,"ER, peroxisome","ER, peroxisome",0.8967363238334656
+4.0,Plasma Membrane,Mitochondria membrane,0.5414549708366394
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.49640047550201416
+4.0,Cytosol_5,Cytosol_5,0.6438168883323669
+3.0,Cytosol_5,Cytosol_5,0.9673931002616882
+5.0,Cytosol_3,Cytosol_3,0.5321002006530762
+4.0,Cytosol_5,Cytosol_1,0.29949483275413513
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8443982005119324
+1.0,"ER, Mitochondrion","ER, peroxisome",0.4663495421409607
+4.0,Cytosol_2,Cytosol_1,0.5997958183288574
+5.0,Cytosol_5,Cytosol_5,0.7218735218048096
+5.0,Mitochondria membrane,Plasma Membrane,0.6074602603912354
+1.0,Cytosol_3,Cytosol_3,0.484808087348938
+2.0,Cytosol_4,Cytosol_3,0.5138179659843445
+4.0,Cytosol_2,Cytosol_3,0.2685377895832062
+3.0,Nucleosol,Nucleosol,0.7732558250427246
+1.0,Cytosol_4,Cytosol_4,0.6571500897407532
+1.0,Cytosol_5,Cytosol_5,0.3498687744140625
+2.0,Mitochondria membrane,Mitochondria membrane,0.5193799734115601
+1.0,Cytosol_5,Cytosol_5,0.4881432354450226
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5357295870780945
+3.0,Cytosol_4,Cytosol_3,0.5999931693077087
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9503324031829834
+2.0,"ER, peroxisome","ER, peroxisome",0.6232837438583374
+2.0,Mitochondria membrane,Mitochondria membrane,0.9752849340438843
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5894399285316467
+5.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.6364472508430481
+5.0,Nucleosol,Nucleosol,0.795383870601654
+2.0,"ER, peroxisome","ER, peroxisome",0.7965564131736755
+1.0,Mitochondria membrane,Mitochondria membrane,0.5482347011566162
+1.0,Mitochondria membrane,Mitochondria membrane,0.7997604608535767
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9911690950393677
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.953689694404602
+2.0,Nucleus (speckles),Nucleus (Nucleolus),0.5855657458305359
+4.0,"ER, peroxisome",Plasma Membrane,0.3990338146686554
+3.0,Cytosol_2,Cytosol_2,0.7819406986236572
+5.0,"ER, peroxisome","ER, peroxisome",0.5388242602348328
+3.0,Cytosol_5,Cytosol_5,0.9028961658477783
+3.0,Mitochondria matrix,Mitochondria matrix,0.9985675811767578
+3.0,"ER, peroxisome","ER, peroxisome",0.7624642252922058
+3.0,Cytosol_5,Cytosol_3,0.6887664794921875
+3.0,"ER, peroxisome","ER, peroxisome",0.4731365442276001
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6642199158668518
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.975286066532135
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.399422287940979
+3.0,Mitochondria membrane,Mitochondria membrane,0.4767598807811737
+5.0,Nucleosol,Nucleosol,0.9982762336730957
+5.0,Cytosol_1,Cytosol_1,0.7633477449417114
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.47876372933387756
+5.0,Mitochondria membrane,Mitochondria matrix,0.7496094703674316
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8296964764595032
+3.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.43065670132637024
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9876509308815002
+3.0,Nucleus (speckles),Nucleus (speckles),0.8677895069122314
+2.0,Cytosol_4,Cytosol_4,0.5213003158569336
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8575091361999512
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.7588798999786377
+2.0,Cytosol_5,Cytosol_5,0.7961738705635071
+1.0,Cytosol_5,Cytosol_5,0.48151320219039917
+3.0,Nucleosol,Nucleosol,0.9841488003730774
+2.0,Cytosol_3,Cytosol_3,0.4867439270019531
+4.0,Cytosol_1,Cytosol_1,0.9513360261917114
+2.0,Plasma Membrane,Mitochondria membrane,0.6139997839927673
+1.0,Cytosol_1,Cytosol_2,0.5168696045875549
+4.0,Nucleosol,Nucleosol,0.9129830598831177
+2.0,Nucleosol,Nucleosol,0.9438319802284241
+3.0,Cytosol_1,Cytosol_2,0.5527809262275696
+3.0,"ER, peroxisome","ER, peroxisome",0.499776691198349
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9779600501060486
+1.0,Cytosol_4,Cytosol_4,0.4360470175743103
+1.0,Cytosol_4,Cytosol_3,0.451396107673645
+1.0,Plasma Membrane,Plasma Membrane,0.43114641308784485
+3.0,Cytosol_4,Cytosol_4,0.5159685015678406
+4.0,Mitochondria matrix,Mitochondria matrix,0.5075843930244446
+5.0,Cytosol_5,Cytosol_5,0.48334038257598877
+1.0,Plasma Membrane,Plasma Membrane,0.6834510564804077
+4.0,Cytosol_5,Cytosol_1,0.3998984396457672
+2.0,Cytosol_4,Cytosol_3,0.48416635394096375
+5.0,Cytosol_5,Cytosol_5,0.3799605667591095
+3.0,Cytosol_4,Cytosol_3,0.5099011063575745
+1.0,Nucleosol,Nucleosol,0.9129754304885864
+1.0,Nucleus (speckles),Nucleus (speckles),0.8838649988174438
+1.0,Nucleosol,Nucleosol,0.9761680960655212
+4.0,Nucleosol,"Nucleosol, Ribosome",0.9427692294120789
+5.0,Cytosol_5,Cytosol_5,0.5029882192611694
+5.0,Mitochondria membrane,Mitochondria membrane,0.7182022929191589
+1.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.34496352076530457
+2.0,Nucleosol,Nucleosol,0.97078537940979
+2.0,Cytosol_1,Cytosol_2,0.6327622532844543
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.835997998714447
+5.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.5325254201889038
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8006452918052673
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6934197545051575
+4.0,Cytosol_1,Cytosol_2,0.736930787563324
+4.0,Cytosol_5,Cytosol_4,0.3351622521877289
+1.0,"ER, peroxisome","ER, peroxisome",0.6762468814849854
+5.0,Cytosol_3,Cytosol_3,0.4899768829345703
+4.0,Mitochondria membrane,Mitochondria membrane,0.5197390913963318
+5.0,Nucleosol,Nucleosol,0.9965595602989197
+3.0,Cytosol_5,Cytosol_5,0.4998062551021576
+2.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.7256008386611938
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7327162027359009
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6881715655326843
+3.0,Cytosol_5,Cytosol_5,0.5814916491508484
+5.0,Cytosol_1,Cytosol_2,0.419688880443573
+3.0,Cytosol_2,Cytosol_2,0.8727450370788574
+4.0,Cytosol_2,Cytosol_2,0.44157564640045166
+5.0,Nucleosol,Nucleosol,0.9938773512840271
+2.0,Nucleosol,Nucleosol,0.6617032289505005
+2.0,Nucleosol,Nucleosol,0.6457317471504211
+5.0,Plasma Membrane,Mitochondria membrane,0.5369887351989746
+3.0,"ER, peroxisome","ER, peroxisome",0.5760111808776855
+2.0,Cytosol_3,Cytosol_5,0.40035247802734375
+3.0,Cytosol_1,Cytosol_1,0.7608561515808105
+3.0,Cytosol_1,Cytosol_1,0.844327986240387
+3.0,Cytosol_1,Cytosol_1,0.8169468641281128
+4.0,Cytosol_1,Cytosol_1,0.8452392220497131
+1.0,Cytosol_1,Cytosol_1,0.8534345030784607
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6122891902923584
+3.0,Plasma Membrane,Plasma Membrane,0.6068029999732971
+4.0,Cytosol_5,Cytosol_5,0.3638968765735626
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.923777163028717
+1.0,Plasma Membrane,Plasma Membrane,0.6432197093963623
+4.0,"ER, peroxisome",Plasma Membrane,0.5070446729660034
+3.0,"ER, Mitochondrion",Plasma Membrane,0.4111357629299164
+1.0,Plasma Membrane,Plasma Membrane,0.6024141311645508
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8378241062164307
+5.0,"ER, peroxisome","ER, peroxisome",0.5822840929031372
+2.0,Plasma Membrane,Plasma Membrane,0.7243139743804932
+3.0,Cytosol_3,Cytosol_3,0.5138856768608093
+3.0,Cytosol_3,Cytosol_2,0.37091484665870667
+3.0,Cytosol_4,Cytosol_3,0.5200881958007812
+3.0,Cytosol_1,Cytosol_5,0.5693691372871399
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5653363466262817
+2.0,Cytosol_2,Cytosol_2,0.8722507953643799
+4.0,Cytosol_2,Cytosol_5,0.2749464809894562
+4.0,Nucleosol,Nucleosol,0.6769549250602722
+4.0,Nucleus (speckles),Nucleus (speckles),0.625962495803833
+1.0,Nucleus (speckles),Nucleus (speckles),0.6776185035705566
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.682641863822937
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6935142874717712
+2.0,Cytosol_5,Cytosol_5,0.3405913710594177
+4.0,"ER, Mitochondrion",Cytosol_2,0.2895106077194214
+2.0,"ER, peroxisome","ER, peroxisome",0.8565877079963684
+2.0,Cytosol_5,Cytosol_5,0.3102191388607025
+2.0,Nucleosol,Nucleus (speckles),0.4499105215072632
+1.0,"ER, peroxisome","ER, peroxisome",0.4279309809207916
+4.0,Nucleosol,Nucleosol,0.673057496547699
+4.0,"ER, peroxisome","ER, Mitochondrion",0.417842298746109
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.6457780003547668
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7809679508209229
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.516032338142395
+4.0,"ER, Mitochondrion","ER, peroxisome",0.39421412348747253
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.606270968914032
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5456629395484924
+2.0,Nucleus (speckles),Nucleus (Nucleolus),0.566017210483551
+4.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.4183397889137268
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6528444290161133
+3.0,Cytosol_2,Cytosol_3,0.5361369848251343
+3.0,Mitochondria membrane,Mitochondria membrane,0.7143633365631104
+3.0,Cytosol_2,Cytosol_2,0.5197094082832336
+2.0,Cytosol_1,Cytosol_1,0.626134991645813
+4.0,Cytosol_1,Cytosol_1,0.8009591102600098
+4.0,Cytosol_3,Cytosol_3,0.46662279963493347
+4.0,Plasma Membrane,"ER, Mitochondrion",0.2809700071811676
+2.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.4185919463634491
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.5256896018981934
+4.0,Cytosol_4,Cytosol_4,0.6343019008636475
+3.0,"ER, peroxisome","ER, peroxisome",0.7123159170150757
+4.0,Nucleus (speckles),Nucleus (Nucleolus),0.521076500415802
+3.0,Mitochondria membrane,Mitochondria membrane,0.9806580543518066
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7210708260536194
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7147524356842041
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9834887385368347
+5.0,Nucleus (speckles),Nucleosol,0.8912426233291626
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7856853008270264
+2.0,Nucleosol,Nucleosol,0.7340919375419617
+2.0,Mitochondria membrane,Mitochondria membrane,0.9632068276405334
+2.0,Nucleus (speckles),Nucleus (speckles),0.8899382948875427
+2.0,Plasma Membrane,Mitochondria membrane,0.864107072353363
+5.0,Cytosol_3,Cytosol_5,0.5813879370689392
+2.0,Cytosol_1,Cytosol_2,0.5244554281234741
+5.0,Cytosol_4,Cytosol_5,0.4297754764556885
+5.0,Cytosol_5,Cytosol_3,0.4820973575115204
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.45758068561553955
+2.0,Cytosol_4,Cytosol_4,0.4828389286994934
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4924265146255493
+5.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.6669337153434753
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5295804142951965
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8742940425872803
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7531186938285828
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9822813272476196
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.894622266292572
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5178940296173096
+4.0,Cytosol_3,Cytosol_3,0.37042805552482605
+3.0,Cytosol_5,Cytosol_3,0.41985589265823364
+1.0,"ER, peroxisome","ER, peroxisome",0.6282348036766052
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.499519407749176
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.591316819190979
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.3199611008167267
+3.0,"ER, peroxisome","ER, peroxisome",0.6117377281188965
+4.0,Cytosol_4,Cytosol_4,0.5202585458755493
+5.0,Cytosol_5,Cytosol_5,0.59931480884552
+1.0,"ER, peroxisome","ER, peroxisome",0.5314743518829346
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6626704335212708
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9285594820976257
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9016424417495728
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6311988234519958
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8194490075111389
+3.0,"ER, peroxisome",Plasma Membrane,0.638899028301239
+4.0,Cytosol_4,Cytosol_4,0.5236972570419312
+3.0,Cytosol_4,Cytosol_4,0.554360032081604
+5.0,Cytosol_4,Cytosol_4,0.6180442571640015
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9461626410484314
+3.0,Mitochondria matrix,Mitochondria matrix,0.9454705715179443
+5.0,"ER, peroxisome","ER, peroxisome",0.7113748788833618
+1.0,Cytosol_5,Cytosol_5,0.3502148389816284
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6536480188369751
+5.0,Cytosol_5,Cytosol_5,0.5295470356941223
+4.0,Mitochondria matrix,"ER, Mitochondrion",0.37196215987205505
+2.0,Cytosol_4,Cytosol_4,0.5967929363250732
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6199953556060791
+5.0,Cytosol_2,Cytosol_2,0.7211717367172241
+4.0,"ER, peroxisome",Plasma Membrane,0.6386250853538513
+1.0,Cytosol_3,Cytosol_3,0.554557204246521
+4.0,"ER, peroxisome",Plasma Membrane,0.7661414742469788
+1.0,Plasma Membrane,Mitochondria membrane,0.4965669512748718
+5.0,Cytosol_5,Cytosol_5,0.6439457535743713
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9560277462005615
+3.0,Nucleosol,Nucleosol,0.9765194654464722
+1.0,"ER, peroxisome","ER, peroxisome",0.6466390490531921
+2.0,Cytosol_2,Cytosol_1,0.603609561920166
+4.0,Mitochondria membrane,Plasma Membrane,0.6080877184867859
+5.0,Mitochondria membrane,Mitochondria membrane,0.8797706365585327
+1.0,Nucleosol,Mitochondria matrix,0.5210883021354675
+5.0,Cytosol_1,Cytosol_1,0.6573681831359863
+1.0,Cytosol_2,Cytosol_1,0.7368858456611633
+3.0,Cytosol_3,Cytosol_3,0.6382814049720764
+2.0,Cytosol_1,Cytosol_2,0.6283298134803772
+4.0,Cytosol_1,Cytosol_1,0.5221863985061646
+1.0,Mitochondria membrane,Mitochondria membrane,0.7980806827545166
+1.0,Cytosol_1,Cytosol_1,0.6399585604667664
+5.0,Cytosol_2,Cytosol_2,0.5296413898468018
+4.0,Cytosol_2,Cytosol_2,0.5126897096633911
+2.0,Cytosol_2,Cytosol_2,0.8654645681381226
+2.0,Cytosol_2,Cytosol_2,0.6897917985916138
+1.0,Cytosol_2,Cytosol_1,0.3619566559791565
+3.0,Mitochondria membrane,Mitochondria membrane,0.7973446846008301
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.42908695340156555
+2.0,Mitochondria matrix,Mitochondria matrix,0.752020537853241
+4.0,Mitochondria membrane,"ER, peroxisome",0.44467979669570923
+3.0,Mitochondria membrane,Mitochondria membrane,0.5275934338569641
+3.0,Mitochondria membrane,Mitochondria membrane,0.8532748222351074
+5.0,Mitochondria membrane,Mitochondria membrane,0.551858127117157
+1.0,Mitochondria membrane,Mitochondria matrix,0.3571459650993347
+4.0,Nucleosol,Nucleosol,0.884840726852417
+2.0,Mitochondria membrane,Mitochondria membrane,0.6348720788955688
+4.0,Mitochondria membrane,Mitochondria membrane,0.7708774209022522
+2.0,Mitochondria membrane,Mitochondria membrane,0.7377429604530334
+1.0,Mitochondria membrane,Mitochondria membrane,0.714486837387085
+1.0,Mitochondria membrane,Mitochondria matrix,0.6994390487670898
+2.0,Mitochondria membrane,Mitochondria membrane,0.942875325679779
+1.0,Mitochondria membrane,Mitochondria membrane,0.6409006118774414
+3.0,Mitochondria membrane,Mitochondria membrane,0.7905195951461792
+2.0,Mitochondria membrane,Mitochondria membrane,0.6151819825172424
+5.0,Mitochondria membrane,Mitochondria matrix,0.5145692825317383
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8785731196403503
+4.0,Cytosol_3,Cytosol_3,0.4728138744831085
+1.0,Nucleosol,Nucleosol,0.8538898825645447
+1.0,Nucleosol,Nucleosol,0.9617553353309631
+5.0,Mitochondria membrane,Mitochondria membrane,0.6209148168563843
+2.0,Mitochondria matrix,Mitochondria matrix,0.4925876557826996
+4.0,Cytosol_4,Cytosol_4,0.36390814185142517
+3.0,Cytosol_5,Cytosol_5,0.6346783638000488
+2.0,Nucleosol,Nucleosol,0.9876234531402588
+1.0,"ER, peroxisome",Plasma Membrane,0.6192384362220764
+2.0,"ER, Mitochondrion","ER, peroxisome",0.5266080498695374
+4.0,Cytosol_5,Cytosol_5,0.3796403110027313
+5.0,Cytosol_4,Cytosol_5,0.5928177833557129
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.4954598546028137
+4.0,Cytosol_4,Cytosol_4,0.6169518232345581
+3.0,Cytosol_5,Cytosol_2,0.5454368591308594
+4.0,Cytosol_1,Cytosol_1,0.34075915813446045
+4.0,Cytosol_3,Cytosol_3,0.48994699120521545
+5.0,Cytosol_4,Cytosol_4,0.5765713453292847
+3.0,Nucleus (speckles),Nucleus (speckles),0.9793535470962524
+1.0,Nucleosol,Nucleosol,0.9604003429412842
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.844115674495697
+4.0,Nucleosol,Nucleosol,0.8838754296302795
+1.0,Plasma Membrane,Mitochondria membrane,0.5956266522407532
+5.0,Mitochondria matrix,Mitochondria matrix,0.5824933052062988
+1.0,Cytosol_5,Cytosol_5,0.6471224427223206
+2.0,Cytosol_4,Cytosol_3,0.39133304357528687
+5.0,Cytosol_3,Cytosol_3,0.5178592205047607
+1.0,Nucleosol,Nucleus (speckles),0.6194904446601868
+4.0,Cytosol_5,Cytosol_5,0.45988550782203674
+4.0,Cytosol_4,Cytosol_5,0.39515358209609985
+4.0,Cytosol_5,Cytosol_5,0.4484322667121887
+3.0,Cytosol_2,Cytosol_2,0.49132418632507324
+1.0,Nucleus (speckles),Nucleus (speckles),0.7492676377296448
+2.0,Plasma Membrane,Plasma Membrane,0.8714320659637451
+4.0,Cytosol_3,Cytosol_1,0.46808937191963196
+5.0,Nucleosol,Nucleosol,0.9607277512550354
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5514993071556091
+2.0,"ER, peroxisome","ER, Mitochondrion",0.49523550271987915
+1.0,"ER, Mitochondrion","ER, peroxisome",0.4686652719974518
+2.0,"ER, peroxisome","ER, peroxisome",0.5182995200157166
+1.0,Cytosol_5,Cytosol_5,0.3058120906352997
+3.0,Mitochondria membrane,Mitochondria membrane,0.6000953316688538
+1.0,Nucleosol,Nucleosol,0.9806679487228394
+5.0,"ER, peroxisome","ER, Mitochondrion",0.5133612751960754
+2.0,"ER, peroxisome","ER, peroxisome",0.4905102252960205
+3.0,Cytosol_2,Cytosol_2,0.37908050417900085
+2.0,Cytosol_2,Cytosol_1,0.49098268151283264
+3.0,Plasma Membrane,Plasma Membrane,0.5392184853553772
+3.0,Cytosol_5,Cytosol_5,0.5894749760627747
+1.0,Cytosol_4,Cytosol_4,0.7022581696510315
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6379398703575134
+2.0,"ER, peroxisome",Plasma Membrane,0.8032163381576538
+4.0,Cytosol_1,Cytosol_1,0.5240043997764587
+4.0,Cytosol_1,Cytosol_1,0.5800670385360718
+3.0,Cytosol_2,Cytosol_2,0.39572617411613464
+4.0,Cytosol_1,Cytosol_1,0.39447858929634094
+5.0,Cytosol_1,Cytosol_3,0.3817673921585083
+1.0,Cytosol_5,Cytosol_5,0.49530884623527527
+4.0,Plasma Membrane,Plasma Membrane,0.5762593746185303
+1.0,Cytosol_5,Cytosol_4,0.4049893021583557
+3.0,Nucleosol,Nucleosol,0.9407976269721985
+5.0,Cytosol_1,Cytosol_1,0.7901648283004761
+4.0,"ER, peroxisome","ER, peroxisome",0.5803017020225525
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5793783664703369
+3.0,"ER, peroxisome","ER, peroxisome",0.5855767726898193
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7460259199142456
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7668218016624451
+4.0,Nucleus (speckles),Nucleus (speckles),0.8667661547660828
+5.0,Nucleus (speckles),Nucleus (speckles),0.8943256139755249
+1.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.4759029448032379
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7358804941177368
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6447868347167969
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.7865103483200073
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.835136353969574
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6754356622695923
+3.0,Cytosol_3,Cytosol_5,0.4962455928325653
+4.0,"ER, peroxisome","ER, peroxisome",0.5294332504272461
+1.0,Cytosol_2,Cytosol_1,0.4401969611644745
+4.0,Cytosol_4,Cytosol_4,0.7119159698486328
+2.0,Cytosol_2,Cytosol_2,0.9428045153617859
+3.0,"ER, peroxisome","ER, peroxisome",0.8586698174476624
+3.0,Cytosol_5,Cytosol_5,0.73223477602005
+2.0,"ER, Mitochondrion","ER, peroxisome",0.48763617873191833
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9756709337234497
+2.0,"ER, peroxisome",Nucleus (Nucleolus),0.44587212800979614
+1.0,"ER, peroxisome","ER, peroxisome",0.6437416672706604
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5055136680603027
+1.0,Cytosol_4,Cytosol_4,0.7217338681221008
+3.0,Mitochondria membrane,Mitochondria membrane,0.7478312253952026
+1.0,"ER, peroxisome","ER, peroxisome",0.4968360662460327
+3.0,"ER, peroxisome","ER, peroxisome",0.5215027928352356
+2.0,"ER, peroxisome","ER, peroxisome",0.7056159973144531
+2.0,"ER, peroxisome","ER, peroxisome",0.48189231753349304
+3.0,"Golgi, Endo/Lyosome",Nucleus (Nucleolus),0.5817293524742126
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.662247359752655
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9555853605270386
+2.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.7483181953430176
+2.0,Nucleosol,Nucleosol,0.6312692761421204
+2.0,Nucleosol,Nucleosol,0.5386587977409363
+1.0,Cytosol_2,Cytosol_1,0.5859032273292542
+1.0,Cytosol_1,Cytosol_1,0.7457181215286255
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.3130366802215576
+3.0,Mitochondria matrix,Mitochondria matrix,0.6616683602333069
+5.0,Cytosol_4,Cytosol_4,0.5897059440612793
+1.0,Nucleosol,Cytosol_5,0.4743671417236328
+2.0,Cytosol_2,Cytosol_3,0.5590006709098816
+2.0,Cytosol_4,Cytosol_3,0.4903888404369354
+2.0,Mitochondria membrane,Mitochondria membrane,0.9733869433403015
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.9058332443237305
+4.0,"ER, peroxisome","ER, peroxisome",0.7237160205841064
+4.0,"ER, peroxisome","ER, peroxisome",0.7691380977630615
+2.0,Cytosol_5,Cytosol_4,0.2952539324760437
+1.0,"ER, peroxisome","ER, peroxisome",0.5059109330177307
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.5523475408554077
+1.0,Mitochondria membrane,Mitochondria membrane,0.688873827457428
+2.0,"ER, peroxisome","ER, peroxisome",0.5597383379936218
+4.0,"ER, peroxisome","ER, peroxisome",0.7580799460411072
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.7819361686706543
+3.0,Mitochondria membrane,Mitochondria membrane,0.6143500804901123
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5461466908454895
+5.0,Cytosol_3,Cytosol_3,0.415396511554718
+1.0,Cytosol_3,Cytosol_3,0.2591114640235901
+5.0,Cytosol_1,Cytosol_2,0.5376617312431335
+4.0,"Nucleosol, Ribosome",Nucleus (speckles),0.8012493252754211
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6534354090690613
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.8725723624229431
+4.0,Cytosol_5,Cytosol_5,0.39745795726776123
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7448539733886719
+5.0,Nucleosol,Nucleosol,0.9766210317611694
+2.0,Cytosol_4,Cytosol_5,0.5244704484939575
+5.0,Cytosol_4,Cytosol_4,0.9051309823989868
+1.0,Cytosol_5,Cytosol_4,0.537278413772583
+1.0,Cytosol_5,Cytosol_5,0.4593987464904785
+1.0,"ER, peroxisome","ER, peroxisome",0.4428185820579529
+1.0,Cytosol_4,Cytosol_4,0.477051705121994
+4.0,"ER, peroxisome","ER, peroxisome",0.8014170527458191
+1.0,"ER, peroxisome","ER, peroxisome",0.4317784905433655
+4.0,"ER, peroxisome","ER, peroxisome",0.7918819189071655
+2.0,Cytosol_4,Cytosol_4,0.539887011051178
+4.0,Cytosol_4,Cytosol_3,0.45036590099334717
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5816027522087097
+2.0,Cytosol_2,Cytosol_2,0.8308850526809692
+1.0,Cytosol_4,Cytosol_4,0.615869402885437
+1.0,Cytosol_5,Cytosol_5,0.42754408717155457
+3.0,Mitochondria matrix,Nucleus (Nucleolus),0.3534025549888611
+5.0,Cytosol_2,Cytosol_2,0.46211788058280945
+3.0,Cytosol_1,Cytosol_1,0.41976428031921387
+2.0,Cytosol_2,Cytosol_3,0.5078171491622925
+2.0,Cytosol_5,Cytosol_5,0.39129117131233215
+5.0,Cytosol_1,Cytosol_1,0.8697873950004578
+2.0,Cytosol_1,Cytosol_1,0.72932368516922
+2.0,Cytosol_1,Cytosol_1,0.6559029221534729
+3.0,Cytosol_1,Cytosol_1,0.6357573866844177
+2.0,Cytosol_1,Cytosol_1,0.796237051486969
+1.0,Cytosol_1,Cytosol_1,0.7590121626853943
+1.0,Cytosol_2,Cytosol_3,0.5773159861564636
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.986641526222229
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9095705151557922
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8081966638565063
+4.0,Plasma Membrane,Plasma Membrane,0.7676705718040466
+5.0,Cytosol_1,Cytosol_4,0.4825453460216522
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6904017925262451
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9768291115760803
+1.0,Mitochondria membrane,Mitochondria membrane,0.747046947479248
+3.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.7410532832145691
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.49493786692619324
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.9253041744232178
+4.0,Cytosol_5,Cytosol_5,0.8075130581855774
+2.0,Cytosol_4,Cytosol_4,0.4329448938369751
+5.0,Cytosol_2,Cytosol_2,0.6718319058418274
+4.0,Cytosol_2,Cytosol_2,0.6941149234771729
+5.0,Cytosol_4,Cytosol_4,0.6490767598152161
+2.0,Cytosol_4,Cytosol_4,0.4660071134567261
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7286447286605835
+1.0,"ER, peroxisome",Mitochondria membrane,0.5062955021858215
+3.0,Plasma Membrane,Plasma Membrane,0.8339824080467224
+2.0,Cytosol_3,Cytosol_2,0.3409495949745178
+2.0,Plasma Membrane,Plasma Membrane,0.811651885509491
+4.0,Cytosol_5,Cytosol_5,0.590376079082489
+1.0,"ER, peroxisome","ER, peroxisome",0.5644872784614563
+4.0,Cytosol_2,Cytosol_2,0.515066385269165
+2.0,Cytosol_1,Cytosol_1,0.8718369007110596
+4.0,Cytosol_3,Cytosol_3,0.32493311166763306
+5.0,Cytosol_5,Cytosol_5,0.7677889466285706
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7935956716537476
+2.0,Nucleosol,Nucleosol,0.8223403096199036
+3.0,Cytosol_1,Cytosol_1,0.5721399188041687
+4.0,"ER, peroxisome","ER, peroxisome",0.4051324129104614
+3.0,"Nucleosol, Ribosome","ER, Mitochondrion",0.8278564214706421
+1.0,"ER, Mitochondrion","ER, peroxisome",0.6102908253669739
+3.0,"ER, peroxisome","ER, peroxisome",0.45827701687812805
+2.0,"ER, peroxisome","ER, peroxisome",0.650524377822876
+5.0,"ER, peroxisome","ER, peroxisome",0.7491883635520935
+4.0,Cytosol_2,Cytosol_2,0.8847817778587341
+2.0,Cytosol_5,Cytosol_2,0.37166309356689453
+5.0,"ER, peroxisome",Plasma Membrane,0.7395281791687012
+5.0,Cytosol_5,Cytosol_5,0.5383126139640808
+1.0,Cytosol_4,Cytosol_4,0.6241342425346375
+2.0,Cytosol_5,Cytosol_4,0.45806482434272766
+5.0,Cytosol_4,Cytosol_4,0.6489719152450562
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.968844473361969
+3.0,Mitochondria matrix,Mitochondria matrix,0.5097468495368958
+2.0,Plasma Membrane,Plasma Membrane,0.7440881729125977
+3.0,Plasma Membrane,Plasma Membrane,0.7634634971618652
+3.0,Plasma Membrane,Plasma Membrane,0.7756732702255249
+2.0,Plasma Membrane,Plasma Membrane,0.7447843551635742
+3.0,"ER, peroxisome","ER, peroxisome",0.5979611873626709
+4.0,Mitochondria matrix,"ER, Mitochondrion",0.5493291616439819
+3.0,Plasma Membrane,Plasma Membrane,0.754521906375885
+2.0,Mitochondria matrix,Mitochondria membrane,0.8054332137107849
+2.0,Cytosol_5,Cytosol_2,0.6881715059280396
+1.0,Cytosol_4,Cytosol_3,0.4999041259288788
+1.0,Cytosol_5,Cytosol_3,0.4948980510234833
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7528681755065918
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7468928694725037
+5.0,"ER, peroxisome","ER, peroxisome",0.7872321009635925
+5.0,"ER, peroxisome","ER, peroxisome",0.6425361633300781
+4.0,"ER, peroxisome",Plasma Membrane,0.4437757134437561
+5.0,"ER, Mitochondrion","ER, peroxisome",0.5082272887229919
+3.0,Nucleosol,Nucleosol,0.9704317450523376
+5.0,Nucleus (speckles),Nucleus (speckles),0.9032421708106995
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.618273138999939
+4.0,Nucleus (speckles),Mitochondria matrix,0.4909426271915436
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5266356468200684
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.407929927110672
+5.0,Cytosol_3,Cytosol_5,0.6059998273849487
+5.0,Mitochondria matrix,Mitochondria matrix,0.9991883635520935
+3.0,Mitochondria membrane,Mitochondria membrane,0.5652143359184265
+4.0,Mitochondria membrane,Mitochondria membrane,0.7773040533065796
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7946011424064636
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8047686815261841
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9008925557136536
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8541107177734375
+3.0,Cytosol_1,Cytosol_3,0.5124508738517761
+3.0,"ER, peroxisome","ER, peroxisome",0.8437138199806213
+1.0,Cytosol_4,Cytosol_5,0.7426279783248901
+2.0,Cytosol_3,Cytosol_4,0.5679519176483154
+1.0,Cytosol_3,Cytosol_3,0.6307253241539001
+3.0,Cytosol_4,Cytosol_4,0.646370530128479
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9194576144218445
+2.0,Cytosol_1,Cytosol_1,0.8286741375923157
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9945805668830872
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7499148845672607
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.9667415618896484
+5.0,Nucleosol,Nucleosol,0.9972192049026489
+3.0,Cytosol_2,Cytosol_1,0.4417502284049988
+2.0,Cytosol_1,Cytosol_1,0.7973112463951111
+4.0,Mitochondria membrane,Mitochondria membrane,0.752537190914154
+3.0,Cytosol_5,Cytosol_2,0.49186956882476807
+5.0,Mitochondria membrane,Mitochondria membrane,0.5215190649032593
+1.0,Mitochondria membrane,Mitochondria membrane,0.7085070013999939
+4.0,Cytosol_5,Cytosol_3,0.2457546889781952
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6344950795173645
+2.0,Nucleus (speckles),Nucleus (speckles),0.600094199180603
+4.0,Nucleus (Nucleolus),Nucleus (speckles),0.4684561789035797
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.38032159209251404
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.7153761386871338
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9022079706192017
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7899488806724548
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.2794363498687744
+5.0,Cytosol_1,Cytosol_1,0.5679663419723511
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9067795872688293
+2.0,Mitochondria membrane,Plasma Membrane,0.6330692172050476
+5.0,Nucleosol,Nucleosol,0.9757532477378845
+3.0,Nucleosol,Nucleosol,0.8473901152610779
+5.0,"ER, peroxisome","ER, Mitochondrion",0.5136070251464844
+2.0,Cytosol_1,Cytosol_1,0.5259334444999695
+3.0,"ER, peroxisome","ER, Mitochondrion",0.4764726161956787
+3.0,Mitochondria matrix,Mitochondria membrane,0.5896784663200378
+4.0,Nucleosol,Nucleosol,0.4184962213039398
+2.0,Nucleosol,Nucleosol,0.8927101492881775
+3.0,Plasma Membrane,Plasma Membrane,0.7889835238456726
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.558536171913147
+5.0,Mitochondria matrix,Mitochondria matrix,0.9377886652946472
+5.0,Mitochondria matrix,Mitochondria matrix,0.8092776536941528
+1.0,"ER, Mitochondrion",Plasma Membrane,0.4784785211086273
+2.0,Mitochondria matrix,Mitochondria matrix,0.648731529712677
+3.0,Nucleus (Nucleolus),Plasma Membrane,0.5859882831573486
+1.0,Cytosol_5,Cytosol_5,0.6765382289886475
+4.0,Nucleosol,Nucleosol,0.6810157895088196
+1.0,Mitochondria membrane,Mitochondria membrane,0.8749793171882629
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5541920065879822
+4.0,Nucleus (speckles),Nucleus (speckles),0.7276517748832703
+1.0,Cytosol_3,Cytosol_3,0.2738276720046997
+2.0,Cytosol_5,Cytosol_1,0.8535652756690979
+3.0,Nucleus (speckles),Nucleus (Nucleolus),0.545355498790741
+3.0,Cytosol_2,Cytosol_3,0.49986156821250916
+2.0,"ER, peroxisome","Nucleosol, Ribosome",0.5274991393089294
+5.0,Cytosol_3,Cytosol_3,0.4697932302951813
+4.0,Cytosol_2,Cytosol_2,0.5128760933876038
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.742761492729187
+4.0,Cytosol_1,Cytosol_3,0.4185532331466675
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.987958550453186
+3.0,Nucleosol,"ER, Mitochondrion",0.5621582269668579
+2.0,Cytosol_5,Cytosol_5,0.6049938201904297
+5.0,Cytosol_5,Cytosol_5,0.4730127155780792
+3.0,Cytosol_4,Cytosol_3,0.4624779522418976
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9716708064079285
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9645989537239075
+5.0,Cytosol_5,Cytosol_5,0.728281557559967
+3.0,Cytosol_5,Cytosol_5,0.9136432409286499
+5.0,"ER, peroxisome","ER, peroxisome",0.47765496373176575
+1.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.6573601961135864
+5.0,Plasma Membrane,Plasma Membrane,0.6141369938850403
+1.0,Plasma Membrane,Plasma Membrane,0.7204131484031677
+3.0,Cytosol_3,Cytosol_3,0.5656365156173706
+3.0,Cytosol_3,Cytosol_3,0.5343534350395203
+3.0,Nucleosol,Nucleosol,0.9896787405014038
+5.0,"ER, peroxisome","ER, peroxisome",0.8502102494239807
+3.0,"ER, peroxisome","ER, Mitochondrion",0.5505237579345703
+2.0,Cytosol_1,Cytosol_1,0.9508902430534363
+1.0,Nucleosol,Nucleosol,0.5971688628196716
+1.0,Nucleosol,Nucleosol,0.9799841046333313
+5.0,Mitochondria membrane,Mitochondria membrane,0.7178216576576233
+2.0,Plasma Membrane,Plasma Membrane,0.7199117541313171
+4.0,Plasma Membrane,Plasma Membrane,0.7460270524024963
+2.0,Cytosol_5,Cytosol_3,0.39373767375946045
+4.0,Mitochondria membrane,Mitochondria membrane,0.4792616069316864
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7864910960197449
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9482460021972656
+4.0,"Nucleosol, Ribosome","Golgi, Endo/Lyosome",0.7491657733917236
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6203110218048096
+1.0,"ER, Mitochondrion",Plasma Membrane,0.3678726553916931
+3.0,Plasma Membrane,"ER, peroxisome",0.6856565475463867
+3.0,Plasma Membrane,Plasma Membrane,0.46821340918540955
+2.0,Cytosol_4,Cytosol_4,0.5893310904502869
+3.0,Cytosol_1,Cytosol_2,0.4865855872631073
+5.0,Cytosol_3,Cytosol_2,0.7498428225517273
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.47861525416374207
+5.0,Cytosol_5,Cytosol_5,0.6670732498168945
+2.0,Cytosol_5,Cytosol_5,0.48788711428642273
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7818822860717773
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9787943363189697
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.958169162273407
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9592635035514832
+2.0,Cytosol_5,Cytosol_5,0.3665215075016022
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8905540108680725
+3.0,Cytosol_4,Cytosol_3,0.45991167426109314
+5.0,Cytosol_4,Cytosol_4,0.6838640570640564
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8600853681564331
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6016511917114258
+5.0,"ER, Mitochondrion","ER, peroxisome",0.3644312620162964
+5.0,Cytosol_5,Cytosol_5,0.8652845025062561
+5.0,Cytosol_4,Cytosol_4,0.4840368330478668
+4.0,Cytosol_4,Cytosol_1,0.39237335324287415
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8858476877212524
+1.0,Mitochondria matrix,Mitochondria matrix,0.9516624808311462
+4.0,Mitochondria membrane,Mitochondria membrane,0.8287372589111328
+4.0,Cytosol_4,Cytosol_3,0.44610413908958435
+3.0,"ER, peroxisome","ER, Mitochondrion",0.5015413761138916
+4.0,"ER, peroxisome","ER, peroxisome",0.4480842351913452
+5.0,Cytosol_1,Cytosol_1,0.8271403908729553
+4.0,Cytosol_2,Cytosol_2,0.4570767879486084
+1.0,Cytosol_2,Cytosol_1,0.42114946246147156
+2.0,Cytosol_4,Cytosol_4,0.8067141175270081
+2.0,"ER, peroxisome","ER, peroxisome",0.49103572964668274
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6637825965881348
+3.0,Cytosol_1,Cytosol_2,0.547519862651825
+1.0,Nucleosol,Nucleosol,0.9453176259994507
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8709797263145447
+4.0,"ER, peroxisome","ER, peroxisome",0.7417476773262024
+4.0,Cytosol_5,Cytosol_4,0.38280385732650757
+5.0,Mitochondria matrix,Mitochondria matrix,0.9960988759994507
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9769749641418457
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5672532320022583
+5.0,Cytosol_5,Cytosol_5,0.4199486970901489
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.5717061161994934
+4.0,Cytosol_4,Cytosol_4,0.36900854110717773
+3.0,Cytosol_5,Cytosol_5,0.4902482330799103
+5.0,Cytosol_5,Cytosol_5,0.32008662819862366
+1.0,Plasma Membrane,Plasma Membrane,0.5432115793228149
+5.0,Plasma Membrane,Plasma Membrane,0.622231125831604
+2.0,Plasma Membrane,Plasma Membrane,0.704186737537384
+5.0,Plasma Membrane,Plasma Membrane,0.8073130249977112
+4.0,Plasma Membrane,Plasma Membrane,0.6212311387062073
+4.0,Plasma Membrane,Plasma Membrane,0.5632969737052917
+1.0,Plasma Membrane,Plasma Membrane,0.5242757201194763
+2.0,Cytosol_5,Cytosol_5,0.3570882976055145
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5568407773971558
+4.0,"ER, peroxisome","ER, peroxisome",0.6835998296737671
+5.0,Cytosol_4,Cytosol_5,0.5178717970848083
+4.0,Cytosol_5,Cytosol_5,0.45651593804359436
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.822706401348114
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.6384747624397278
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.739954948425293
+3.0,Cytosol_2,Cytosol_2,0.8589925765991211
+1.0,Nucleosol,Nucleosol,0.7821430563926697
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.92154860496521
+2.0,Plasma Membrane,Plasma Membrane,0.7835536003112793
+4.0,Plasma Membrane,Plasma Membrane,0.8029651045799255
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9780138731002808
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9571150541305542
+5.0,Cytosol_2,Cytosol_2,0.6646243333816528
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5198976993560791
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8914055824279785
+5.0,Mitochondria membrane,Mitochondria membrane,0.8014525771141052
+4.0,"Nucleosol, Ribosome",Plasma Membrane,0.4418402314186096
+4.0,Nucleosol,Nucleosol,0.6666890978813171
+5.0,Cytosol_5,Cytosol_5,0.6477764844894409
+4.0,Cytosol_1,Cytosol_1,0.4271540343761444
+3.0,Mitochondria membrane,Mitochondria membrane,0.7845630049705505
+4.0,Cytosol_3,Cytosol_1,0.5801762938499451
+3.0,Cytosol_1,Cytosol_1,0.39638885855674744
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9536080956459045
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9655339121818542
+3.0,Plasma Membrane,Plasma Membrane,0.6821238398551941
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.6819688081741333
+1.0,Plasma Membrane,Plasma Membrane,0.5393497347831726
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9897454380989075
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8628872632980347
+5.0,Cytosol_3,Cytosol_3,0.6114078760147095
+3.0,Cytosol_3,Cytosol_4,0.7547357678413391
+5.0,Plasma Membrane,"ER, Mitochondrion",0.7151150107383728
+4.0,"ER, peroxisome","ER, peroxisome",0.6632790565490723
+5.0,"ER, peroxisome","ER, peroxisome",0.7456011772155762
+2.0,Cytosol_1,Cytosol_4,0.5647012591362
+3.0,Cytosol_5,Cytosol_5,0.44689637422561646
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.9130616784095764
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.38700148463249207
+1.0,Cytosol_3,Cytosol_3,0.4021965265274048
+3.0,Cytosol_4,Cytosol_4,0.5384040474891663
+5.0,Cytosol_5,Cytosol_3,0.44331422448158264
+3.0,Mitochondria matrix,Mitochondria matrix,0.974403977394104
+4.0,Cytosol_2,Cytosol_2,0.7958413362503052
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6829573512077332
+2.0,Mitochondria membrane,Mitochondria matrix,0.6383839845657349
+5.0,Mitochondria membrane,Mitochondria matrix,0.7007436752319336
+4.0,Mitochondria matrix,Mitochondria matrix,0.8724231719970703
+1.0,Cytosol_1,Cytosol_1,0.47851112484931946
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9205333590507507
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7394872307777405
+1.0,Mitochondria membrane,Mitochondria membrane,0.5347040295600891
+1.0,Cytosol_1,Cytosol_2,0.4323923885822296
+4.0,Cytosol_4,Cytosol_4,0.5210440754890442
+2.0,Cytosol_1,Cytosol_1,0.7300445437431335
+1.0,Cytosol_1,Cytosol_1,0.4471164643764496
+4.0,Mitochondria membrane,Plasma Membrane,0.43143534660339355
+2.0,Mitochondria membrane,Mitochondria membrane,0.9448623657226562
+3.0,Nucleosol,Nucleosol,0.9067079424858093
+4.0,Cytosol_2,Cytosol_1,0.3757607340812683
+1.0,Cytosol_5,Cytosol_5,0.7223606705665588
+4.0,Cytosol_5,Cytosol_5,0.616536557674408
+3.0,Nucleosol,Nucleosol,0.9094261527061462
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8170424103736877
+3.0,Cytosol_3,Cytosol_4,0.5564719438552856
+1.0,Cytosol_5,Cytosol_2,0.45448485016822815
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9731804132461548
+2.0,Cytosol_1,Cytosol_1,0.9985570311546326
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9910224676132202
+4.0,Mitochondria matrix,Mitochondria matrix,0.733944833278656
+4.0,Nucleosol,Nucleosol,0.8688126802444458
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7143315076828003
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8774992227554321
+4.0,"ER, peroxisome","ER, Mitochondrion",0.4381659924983978
+4.0,"ER, peroxisome","ER, peroxisome",0.7760281562805176
+4.0,"ER, peroxisome","ER, peroxisome",0.5065121650695801
+1.0,Nucleus (speckles),Nucleus (speckles),0.8936028480529785
+5.0,"ER, peroxisome","ER, peroxisome",0.8775211572647095
+2.0,Nucleus (speckles),Nucleus (speckles),0.9989305138587952
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.4965410828590393
+3.0,Cytosol_4,Cytosol_5,0.36866748332977295
+2.0,Nucleus (speckles),Nucleus (speckles),0.835444986820221
+5.0,"ER, peroxisome","ER, peroxisome",0.5637052655220032
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5531097054481506
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6722281575202942
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8731463551521301
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.620552659034729
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6382114887237549
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8804646730422974
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9618632793426514
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8336530327796936
+4.0,Nucleus (speckles),Nucleus (speckles),0.7346521019935608
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6979411244392395
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6954295635223389
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.670258641242981
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9868894815444946
+2.0,Cytosol_3,Cytosol_3,0.5457112789154053
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7684919834136963
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.5162156224250793
+5.0,Plasma Membrane,Plasma Membrane,0.5701132416725159
+1.0,Cytosol_4,Cytosol_4,0.6106075048446655
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9973830580711365
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5181909799575806
+3.0,Cytosol_5,Cytosol_3,0.3749522566795349
+4.0,"ER, peroxisome","ER, peroxisome",0.49908584356307983
+5.0,"ER, peroxisome","ER, peroxisome",0.5191877484321594
+4.0,Cytosol_5,Cytosol_5,0.6777390837669373
+2.0,Cytosol_5,Cytosol_4,0.48442867398262024
+2.0,Cytosol_5,Cytosol_5,0.8341304659843445
+3.0,Cytosol_5,Cytosol_5,0.7063963413238525
+4.0,Cytosol_5,Cytosol_5,0.3893977105617523
+1.0,Cytosol_3,Cytosol_4,0.6676710247993469
+1.0,Cytosol_3,Cytosol_3,0.38927528262138367
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.7331224083900452
+3.0,Cytosol_5,Cytosol_5,0.8518118262290955
+1.0,Cytosol_5,Cytosol_4,0.48025035858154297
+2.0,Cytosol_4,Cytosol_4,0.462726354598999
+5.0,Cytosol_5,Cytosol_1,0.5325154066085815
+4.0,Cytosol_4,Cytosol_4,0.4295825958251953
+4.0,"ER, peroxisome","ER, peroxisome",0.4959588348865509
+1.0,Cytosol_5,Cytosol_4,0.5903570652008057
+3.0,Cytosol_1,Cytosol_2,0.5083015561103821
+4.0,Cytosol_1,Cytosol_1,0.498929888010025
+5.0,Plasma Membrane,Plasma Membrane,0.6987816095352173
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9560210704803467
+3.0,Plasma Membrane,Plasma Membrane,0.7932851910591125
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.46900880336761475
+2.0,"ER, peroxisome","ER, peroxisome",0.5014838576316833
+5.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.4645361602306366
+1.0,Plasma Membrane,"ER, peroxisome",0.6793214678764343
+1.0,"ER, peroxisome","ER, peroxisome",0.6622060537338257
+1.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.6053452491760254
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5014375448226929
+2.0,"ER, peroxisome","ER, Mitochondrion",0.49407076835632324
+4.0,Mitochondria membrane,Mitochondria membrane,0.43906375765800476
+1.0,Mitochondria membrane,Mitochondria membrane,0.8362307548522949
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5228439569473267
+3.0,Cytosol_3,Cytosol_3,0.44752150774002075
+2.0,Cytosol_3,Cytosol_4,0.7230068445205688
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9789273738861084
+1.0,Cytosol_2,Cytosol_2,0.5611807107925415
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.45954394340515137
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5842276215553284
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.500567615032196
+5.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.3389829099178314
+4.0,Cytosol_5,Cytosol_5,0.4192834496498108
+1.0,Cytosol_3,Cytosol_3,0.5467900633811951
+4.0,Plasma Membrane,Plasma Membrane,0.7833688855171204
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8875143527984619
+4.0,"ER, peroxisome","ER, peroxisome",0.806923508644104
+1.0,Nucleosol,Nucleosol,0.8081800937652588
+5.0,Cytosol_2,Cytosol_1,0.4627027213573456
+2.0,Cytosol_3,Cytosol_3,0.519758403301239
+5.0,Cytosol_1,Cytosol_5,0.49719762802124023
+1.0,Nucleosol,Nucleosol,0.9502228498458862
+5.0,Nucleosol,Nucleosol,0.9953019618988037
+5.0,Cytosol_4,Cytosol_4,0.49716833233833313
+3.0,Cytosol_5,Cytosol_5,0.970311164855957
+3.0,Cytosol_3,Cytosol_3,0.5127332806587219
+1.0,Cytosol_1,Cytosol_2,0.44479280710220337
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7044340968132019
+5.0,Plasma Membrane,Plasma Membrane,0.459797203540802
+4.0,Plasma Membrane,Plasma Membrane,0.7098410725593567
+5.0,Plasma Membrane,Plasma Membrane,0.7537404298782349
+1.0,Plasma Membrane,Plasma Membrane,0.6794776320457458
+4.0,Plasma Membrane,Plasma Membrane,0.546889066696167
+4.0,Plasma Membrane,Plasma Membrane,0.8145790696144104
+2.0,Plasma Membrane,Plasma Membrane,0.4284995198249817
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7139900326728821
+4.0,Cytosol_3,Cytosol_3,0.4408807158470154
+1.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.45049095153808594
+5.0,"ER, peroxisome","ER, peroxisome",0.6047891974449158
+5.0,"ER, peroxisome","ER, peroxisome",0.5915743708610535
+4.0,Plasma Membrane,Plasma Membrane,0.6939690113067627
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8815130591392517
+5.0,Nucleosol,Nucleosol,0.9975067973136902
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.44898492097854614
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8686355352401733
+1.0,Mitochondria matrix,Mitochondria membrane,0.5855578184127808
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7351527810096741
+2.0,Nucleus (speckles),Nucleus (speckles),0.9953727126121521
+3.0,Cytosol_1,Cytosol_3,0.3770902156829834
+5.0,Nucleosol,Nucleosol,0.9485633969306946
+5.0,Nucleus (speckles),Nucleus (speckles),0.9866583943367004
+4.0,Nucleosol,Nucleosol,0.7893791198730469
+4.0,Nucleosol,Nucleosol,0.8582611083984375
+5.0,"ER, peroxisome","ER, peroxisome",0.7960853576660156
+1.0,Cytosol_5,Cytosol_5,0.512387752532959
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8582395315170288
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5032441020011902
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8459160923957825
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4539355933666229
+2.0,Nucleosol,Nucleosol,0.9776926636695862
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5180997252464294
+1.0,Plasma Membrane,Plasma Membrane,0.6621372103691101
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8034581542015076
+2.0,Cytosol_1,Cytosol_2,0.6287117004394531
+2.0,Cytosol_3,Cytosol_1,0.4831123352050781
+3.0,Nucleus (speckles),Nucleus (speckles),0.8691490888595581
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9865527749061584
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8809279203414917
+1.0,Cytosol_4,Cytosol_4,0.5955067276954651
+4.0,Plasma Membrane,Plasma Membrane,0.48580288887023926
+4.0,Cytosol_1,Cytosol_1,0.4329225718975067
+5.0,Plasma Membrane,"ER, Mitochondrion",0.8759396076202393
+4.0,Cytosol_4,Cytosol_3,0.42512330412864685
+1.0,Cytosol_3,Cytosol_4,0.46879372000694275
+5.0,Nucleus (speckles),Nucleus (speckles),0.9799503087997437
+2.0,Cytosol_3,Cytosol_3,0.42043691873550415
+5.0,Nucleosol,Nucleosol,0.9926840662956238
+1.0,Cytosol_4,Cytosol_4,0.42281755805015564
+2.0,Cytosol_3,Cytosol_3,0.4707348048686981
+3.0,Cytosol_3,Cytosol_3,0.4880926311016083
+2.0,Cytosol_1,Cytosol_2,0.6749889254570007
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6099786162376404
+4.0,Cytosol_3,Cytosol_1,0.6106387376785278
+1.0,Cytosol_1,Cytosol_1,0.39095425605773926
+3.0,Cytosol_2,Cytosol_2,0.36497265100479126
+5.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.5500481724739075
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8037799000740051
+4.0,Cytosol_2,Cytosol_2,0.48691144585609436
+1.0,"ER, peroxisome","ER, peroxisome",0.6281747817993164
+1.0,Mitochondria matrix,Mitochondria matrix,0.9209567308425903
+1.0,"ER, peroxisome","ER, peroxisome",0.4008334279060364
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4882802665233612
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5630432367324829
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9295299649238586
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.781528115272522
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8047217130661011
+3.0,"Nucleosol, Ribosome",Cytosol_1,0.9595121741294861
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9302794337272644
+3.0,Nucleosol,Nucleosol,0.9053894281387329
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5988701581954956
+2.0,Cytosol_4,Cytosol_4,0.598569393157959
+2.0,Cytosol_4,Cytosol_4,0.38769063353538513
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.44233906269073486
+3.0,Mitochondria matrix,Nucleus (speckles),0.404640793800354
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6751718521118164
+2.0,Nucleosol,Nucleosol,0.8340743780136108
+5.0,"ER, Mitochondrion",Nucleosol,0.7788863182067871
+5.0,"ER, peroxisome","ER, peroxisome",0.5815252661705017
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6565964818000793
+1.0,Mitochondria membrane,Mitochondria membrane,0.7924734354019165
+3.0,Cytosol_5,Cytosol_5,0.6979088187217712
+2.0,Cytosol_3,Cytosol_3,0.33863240480422974
+1.0,Cytosol_1,Cytosol_3,0.5675353407859802
+2.0,Plasma Membrane,Mitochondria membrane,0.528359055519104
+3.0,"ER, Mitochondrion",Plasma Membrane,0.5441510677337646
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5262964367866516
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7864994406700134
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7946862578392029
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9230536222457886
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9707632660865784
+2.0,Cytosol_4,Cytosol_4,0.5728365182876587
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.4773034453392029
+1.0,Nucleus (speckles),Nucleus (speckles),0.9120516777038574
+1.0,Nucleus (speckles),Nucleus (speckles),0.6248531341552734
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8328261971473694
+4.0,"ER, peroxisome","ER, peroxisome",0.7615856528282166
+3.0,"ER, peroxisome","ER, peroxisome",0.5394276976585388
+3.0,"ER, peroxisome","ER, peroxisome",0.7522169351577759
+2.0,"ER, peroxisome",Nucleus (Nucleolus),0.6094166040420532
+2.0,Cytosol_1,Cytosol_1,0.9815708994865417
+1.0,Cytosol_4,Cytosol_4,0.47013166546821594
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.590063750743866
+1.0,Nucleus (speckles),Nucleus (speckles),0.8138302564620972
+1.0,Plasma Membrane,"ER, peroxisome",0.5675516724586487
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6152383685112
+3.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.38123154640197754
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.5641708970069885
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.43301311135292053
+5.0,Plasma Membrane,Plasma Membrane,0.6669366955757141
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7423624396324158
+1.0,Mitochondria matrix,Nucleus (speckles),0.5708820223808289
+4.0,"ER, peroxisome","ER, peroxisome",0.6842921376228333
+1.0,Plasma Membrane,Plasma Membrane,0.32273370027542114
+2.0,Plasma Membrane,Plasma Membrane,0.6613418459892273
+1.0,Plasma Membrane,Plasma Membrane,0.7200366854667664
+2.0,Plasma Membrane,Plasma Membrane,0.82366943359375
+5.0,Cytosol_3,Cytosol_3,0.5115034580230713
+2.0,Cytosol_1,Cytosol_4,0.5723820924758911
+4.0,"ER, peroxisome","ER, peroxisome",0.6156491637229919
+4.0,Cytosol_4,Cytosol_5,0.578000009059906
+3.0,"ER, peroxisome","ER, Mitochondrion",0.5590466856956482
+3.0,Cytosol_1,Cytosol_1,0.47124189138412476
+2.0,Mitochondria matrix,Mitochondria matrix,0.9817080497741699
+2.0,Mitochondria matrix,Mitochondria matrix,0.9876123070716858
+3.0,Cytosol_5,Cytosol_3,0.47851407527923584
+5.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.8449413180351257
+1.0,Cytosol_4,Cytosol_4,0.618537425994873
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.8065913915634155
+5.0,Mitochondria matrix,Mitochondria matrix,0.8226627111434937
+5.0,Nucleosol,Nucleosol,0.9968646168708801
+1.0,Cytosol_1,Cytosol_1,0.3837220370769501
+3.0,Cytosol_2,Cytosol_1,0.552511990070343
+5.0,Cytosol_5,Cytosol_5,0.46405500173568726
+5.0,Cytosol_3,Cytosol_4,0.4817584753036499
+4.0,Nucleosol,Nucleosol,0.8952857255935669
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9291724562644958
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.944660484790802
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8783947825431824
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.710361897945404
+4.0,"ER, peroxisome","ER, peroxisome",0.9049288630485535
+5.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.5273158550262451
+2.0,Cytosol_3,Cytosol_3,0.42655080556869507
+4.0,Cytosol_1,Cytosol_3,0.37250247597694397
+1.0,Cytosol_3,Cytosol_4,0.5123230218887329
+2.0,Cytosol_5,Cytosol_5,0.42231258749961853
+4.0,Cytosol_5,Cytosol_5,0.6282756924629211
+3.0,Cytosol_5,Cytosol_5,0.48204976320266724
+4.0,Cytosol_5,Cytosol_5,0.6256164312362671
+5.0,Cytosol_1,Cytosol_1,0.8872053027153015
+2.0,Cytosol_5,Cytosol_3,0.4230203628540039
+5.0,Cytosol_3,Cytosol_3,0.4344852566719055
+3.0,Cytosol_5,Cytosol_5,0.9219502806663513
+1.0,Cytosol_5,Cytosol_5,0.8453473448753357
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7254314422607422
+3.0,Mitochondria membrane,Mitochondria membrane,0.6134652495384216
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7447814345359802
+1.0,"ER, peroxisome","ER, peroxisome",0.5529303550720215
+3.0,"ER, peroxisome","ER, peroxisome",0.6812708973884583
+5.0,"ER, peroxisome","ER, peroxisome",0.5276154279708862
+5.0,Mitochondria membrane,Mitochondria membrane,0.9871068596839905
+3.0,Nucleosol,Nucleosol,0.9907087087631226
+3.0,Nucleus (speckles),Nucleus (speckles),0.9288539290428162
+1.0,Mitochondria membrane,Plasma Membrane,0.5551690459251404
+5.0,Cytosol_4,Cytosol_5,0.6752558946609497
+2.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.5562686324119568
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6000546216964722
+4.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.5695486664772034
+3.0,Cytosol_5,Cytosol_5,0.6852096319198608
+4.0,Nucleosol,"Nucleosol, Ribosome",0.8001174926757812
+5.0,Plasma Membrane,Plasma Membrane,0.5180612206459045
+5.0,Cytosol_1,Cytosol_1,0.609795868396759
+1.0,Cytosol_4,Cytosol_4,0.7162639498710632
+5.0,Cytosol_5,Cytosol_5,0.5956823825836182
+1.0,"ER, peroxisome","ER, peroxisome",0.6196580529212952
+2.0,"ER, peroxisome",Plasma Membrane,0.7426032423973083
+5.0,Mitochondria membrane,Mitochondria membrane,0.7753002643585205
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.44213324785232544
+5.0,Mitochondria membrane,Mitochondria membrane,0.8807469010353088
+4.0,Mitochondria membrane,Mitochondria membrane,0.5384325981140137
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9553005695343018
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9700375199317932
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9399236440658569
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9908112287521362
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9158002138137817
+5.0,Cytosol_5,Cytosol_5,0.5112659335136414
+2.0,Mitochondria matrix,Mitochondria matrix,0.9727569818496704
+1.0,"ER, Mitochondrion","ER, peroxisome",0.44776999950408936
+5.0,Mitochondria membrane,Mitochondria membrane,0.6224974989891052
+3.0,Cytosol_2,Cytosol_2,0.4915238916873932
+4.0,Mitochondria membrane,Mitochondria membrane,0.7864177227020264
+2.0,Mitochondria membrane,Mitochondria membrane,0.6870405673980713
+1.0,Mitochondria membrane,Plasma Membrane,0.49566102027893066
+3.0,Mitochondria membrane,Mitochondria membrane,0.9779219031333923
+4.0,Cytosol_3,Cytosol_3,0.391449898481369
+5.0,Cytosol_3,Cytosol_5,0.5006884932518005
+2.0,Cytosol_4,Cytosol_4,0.6340353488922119
+2.0,"ER, peroxisome","ER, peroxisome",0.809805691242218
+4.0,Cytosol_4,Cytosol_3,0.46919265389442444
+4.0,Nucleosol,Nucleus (speckles),0.7465850710868835
+4.0,Mitochondria matrix,Mitochondria matrix,0.9831488132476807
+5.0,Cytosol_2,Cytosol_2,0.7012876868247986
+1.0,Cytosol_5,Cytosol_3,0.4740084409713745
+4.0,Cytosol_5,Cytosol_3,0.3953399658203125
+2.0,Nucleosol,Nucleosol,0.9466441869735718
+5.0,Nucleosol,Nucleosol,0.9359287619590759
+1.0,"Nucleosol, Ribosome",Nucleus (speckles),0.5850099921226501
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.919601559638977
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5639774799346924
+4.0,Nucleus (speckles),Nucleus (speckles),0.7264889478683472
+1.0,Cytosol_4,Cytosol_4,0.6495490670204163
+5.0,Mitochondria matrix,Mitochondria matrix,0.8727460503578186
+3.0,Mitochondria matrix,Mitochondria matrix,0.7139912247657776
+5.0,Plasma Membrane,Plasma Membrane,0.5851878523826599
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9893904328346252
+3.0,Cytosol_5,Cytosol_5,0.36731475591659546
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.4410751163959503
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.5884656310081482
+5.0,Mitochondria matrix,Mitochondria membrane,0.8159264922142029
+4.0,"ER, Mitochondrion","ER, peroxisome",0.5547850728034973
+1.0,Plasma Membrane,"ER, peroxisome",0.470683753490448
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.46156466007232666
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.7962824702262878
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.8166812062263489
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.40631768107414246
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.45351386070251465
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.39220938086509705
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.5076635479927063
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5453984141349792
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.5567423105239868
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.3890441060066223
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.7391030192375183
+1.0,"ER, Mitochondrion","ER, peroxisome",0.4882684350013733
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.3966536223888397
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6894495487213135
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.4860595464706421
+4.0,"ER, Mitochondrion","ER, peroxisome",0.48004406690597534
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.6319178342819214
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6547492742538452
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.7545926570892334
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8489603996276855
+2.0,Plasma Membrane,Mitochondria matrix,0.4798787534236908
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6911919713020325
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9146147966384888
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6723771095275879
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8073310256004333
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.7090468406677246
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8988728523254395
+5.0,"ER, Mitochondrion","ER, peroxisome",0.412765234708786
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.6059710383415222
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.9759918451309204
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8566896319389343
+2.0,Mitochondria membrane,Mitochondria membrane,0.9415168166160583
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8701801300048828
+3.0,Cytosol_3,Cytosol_1,0.4468943476676941
+5.0,Mitochondria membrane,Mitochondria membrane,0.8213189840316772
+5.0,Mitochondria membrane,Mitochondria membrane,0.9062576293945312
+3.0,"ER, peroxisome","ER, peroxisome",0.5768115520477295
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.7193102836608887
+2.0,Mitochondria matrix,Mitochondria matrix,0.9641423225402832
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6786878705024719
+5.0,Mitochondria membrane,Mitochondria membrane,0.9526511430740356
+1.0,Mitochondria membrane,Mitochondria membrane,0.8149650692939758
+2.0,Mitochondria matrix,Mitochondria matrix,0.9835097193717957
+5.0,Cytosol_2,Cytosol_2,0.6522727608680725
+1.0,Cytosol_1,Cytosol_1,0.6157562732696533
+1.0,Cytosol_1,Cytosol_1,0.8372819423675537
+2.0,Mitochondria membrane,Plasma Membrane,0.5386766791343689
+1.0,Mitochondria membrane,Mitochondria membrane,0.5747583508491516
+1.0,Mitochondria membrane,Mitochondria membrane,0.7281872034072876
+3.0,Mitochondria membrane,Mitochondria membrane,0.577679455280304
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4000873863697052
+3.0,Mitochondria membrane,Mitochondria membrane,0.6158870458602905
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9519068002700806
+1.0,Cytosol_5,Cytosol_4,0.36616241931915283
+3.0,Cytosol_4,Cytosol_5,0.4184451699256897
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9343291521072388
+2.0,"ER, peroxisome","ER, peroxisome",0.5222125053405762
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7473281025886536
+3.0,Nucleosol,Nucleosol,0.9891272187232971
+3.0,Cytosol_1,Cytosol_2,0.57367342710495
+2.0,Mitochondria membrane,Mitochondria membrane,0.8698040843009949
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6938523054122925
+3.0,Cytosol_3,Cytosol_3,0.5586913824081421
+5.0,Cytosol_5,Cytosol_5,0.5136415362358093
+1.0,Cytosol_5,Cytosol_5,0.4629303812980652
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8280121684074402
+5.0,Cytosol_5,Cytosol_5,0.8919580578804016
+4.0,Cytosol_3,Cytosol_3,0.45939570665359497
+2.0,Cytosol_5,Cytosol_5,0.9199039936065674
+3.0,Cytosol_5,Cytosol_4,0.355008065700531
+1.0,Cytosol_1,Cytosol_1,0.8032452464103699
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.7705977559089661
+5.0,Cytosol_5,Cytosol_5,0.5160557627677917
+4.0,Nucleosol,Nucleosol,0.768385112285614
+1.0,Cytosol_5,Cytosol_5,0.3952513337135315
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7376712560653687
+3.0,"ER, peroxisome","ER, peroxisome",0.6088815331459045
+1.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.6140389442443848
+3.0,Nucleosol,Nucleosol,0.9811752438545227
+5.0,Nucleosol,Nucleosol,0.8961272835731506
+4.0,Nucleosol,"Nucleosol, Ribosome",0.6597543954849243
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9154548048973083
+1.0,"ER, peroxisome","ER, peroxisome",0.6361052393913269
+2.0,Cytosol_3,Cytosol_3,0.5488912463188171
+3.0,"ER, peroxisome","ER, peroxisome",0.5219147801399231
+3.0,Nucleus (speckles),Nucleus (speckles),0.9961569905281067
+3.0,Nucleosol,Nucleosol,0.9590299129486084
+5.0,Nucleosol,Nucleosol,0.9942985773086548
+1.0,Nucleosol,Nucleosol,0.9687821269035339
+2.0,Plasma Membrane,Nucleus (Nucleolus),0.5440353751182556
+4.0,Cytosol_3,Cytosol_1,0.36174049973487854
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7913814187049866
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8474620580673218
+3.0,Cytosol_5,Cytosol_5,0.5393159985542297
+3.0,Cytosol_1,Cytosol_3,0.49546605348587036
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9223565459251404
+1.0,Mitochondria membrane,Mitochondria membrane,0.8148238062858582
+3.0,Mitochondria membrane,Mitochondria membrane,0.5940192341804504
+5.0,Mitochondria membrane,Mitochondria membrane,0.9817926287651062
+5.0,Mitochondria membrane,Mitochondria membrane,0.5154701471328735
+2.0,Mitochondria membrane,Mitochondria membrane,0.9143558740615845
+1.0,Mitochondria matrix,Mitochondria matrix,0.9801883697509766
+5.0,Mitochondria membrane,Mitochondria membrane,0.8929840326309204
+4.0,Mitochondria membrane,Mitochondria membrane,0.49953052401542664
+4.0,Mitochondria membrane,Mitochondria membrane,0.8375338912010193
+3.0,Mitochondria matrix,Mitochondria matrix,0.9118173122406006
+4.0,Mitochondria membrane,Mitochondria membrane,0.7873092293739319
+3.0,Mitochondria membrane,Mitochondria membrane,0.9640271067619324
+5.0,Mitochondria membrane,Mitochondria membrane,0.9845243096351624
+3.0,Mitochondria membrane,Mitochondria membrane,0.6040147542953491
+3.0,Mitochondria membrane,Mitochondria membrane,0.8957651853561401
+4.0,Mitochondria membrane,Mitochondria membrane,0.8038771748542786
+1.0,Mitochondria membrane,Mitochondria membrane,0.8476719856262207
+4.0,Mitochondria membrane,Mitochondria membrane,0.8346430063247681
+5.0,Mitochondria membrane,Mitochondria membrane,0.89698326587677
+3.0,Mitochondria membrane,Mitochondria membrane,0.8242490887641907
+5.0,Mitochondria membrane,Mitochondria membrane,0.4934370219707489
+4.0,Mitochondria membrane,Mitochondria membrane,0.90506911277771
+3.0,Mitochondria membrane,Mitochondria membrane,0.9429087042808533
+4.0,Mitochondria membrane,Mitochondria membrane,0.7691122889518738
+4.0,Mitochondria membrane,Mitochondria membrane,0.8200914263725281
+2.0,Mitochondria membrane,Mitochondria membrane,0.5873398780822754
+2.0,Mitochondria membrane,Mitochondria membrane,0.9792238473892212
+3.0,Mitochondria membrane,Mitochondria membrane,0.8865501880645752
+2.0,Cytosol_3,Cytosol_5,0.4870142340660095
+3.0,Nucleosol,Nucleosol,0.9815376996994019
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.7520158290863037
+5.0,"ER, Mitochondrion",Plasma Membrane,0.6737703084945679
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8603747487068176
+2.0,"ER, Mitochondrion",Plasma Membrane,0.43597373366355896
+3.0,Cytosol_3,Cytosol_4,0.48636484146118164
+1.0,Cytosol_3,Cytosol_4,0.5159563422203064
+4.0,Cytosol_4,Cytosol_4,0.5251559019088745
+5.0,Nucleus (speckles),"Nucleosol, Ribosome",0.493853360414505
+3.0,"ER, peroxisome","ER, peroxisome",0.47132742404937744
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6391265988349915
+3.0,Cytosol_2,Cytosol_2,0.5273297429084778
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6089873909950256
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6096270084381104
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6906772255897522
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.4777505099773407
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9712581634521484
+2.0,Cytosol_5,Cytosol_5,0.6528003215789795
+3.0,Cytosol_1,Cytosol_3,0.5201442837715149
+1.0,Cytosol_5,Cytosol_4,0.6462775468826294
+3.0,Mitochondria membrane,Mitochondria membrane,0.5628888010978699
+3.0,Cytosol_5,Cytosol_5,0.4884660840034485
+1.0,Nucleosol,Cytosol_5,0.38460972905158997
+1.0,Cytosol_2,Cytosol_5,0.5121332406997681
+1.0,Mitochondria membrane,Mitochondria membrane,0.7534382939338684
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6027450561523438
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5634610056877136
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.5300134420394897
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7816325426101685
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.581477701663971
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6581799387931824
+4.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.41426628828048706
+2.0,"ER, peroxisome","ER, peroxisome",0.8460307121276855
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.36053168773651123
+5.0,Nucleus (Nucleolus),"ER, peroxisome",0.4187505543231964
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7558605074882507
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.4792318344116211
+1.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.862565815448761
+3.0,"ER, Mitochondrion",Plasma Membrane,0.7865857481956482
+2.0,Plasma Membrane,"ER, Mitochondrion",0.5017436742782593
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9003525376319885
+1.0,Cytosol_5,Cytosol_5,0.5135951638221741
+5.0,Cytosol_5,Cytosol_5,0.7759065628051758
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9469152688980103
+5.0,"Nucleosol, Ribosome",Nucleosol,0.9097700715065002
+3.0,Plasma Membrane,Plasma Membrane,0.7091922163963318
+5.0,Cytosol_4,Cytosol_4,0.5624950528144836
+2.0,Cytosol_4,Cytosol_5,0.4200822114944458
+1.0,Cytosol_3,Cytosol_3,0.3951776325702667
+5.0,Cytosol_5,Cytosol_3,0.4408043920993805
+1.0,Nucleosol,Nucleosol,0.9520501494407654
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8249443173408508
+4.0,"ER, peroxisome","ER, peroxisome",0.7549818158149719
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8929953575134277
+2.0,Nucleosol,Nucleosol,0.935200572013855
+5.0,Cytosol_5,Cytosol_5,0.5364539623260498
+2.0,Cytosol_3,Cytosol_5,0.7667406797409058
+2.0,Cytosol_1,Cytosol_5,0.3970358371734619
+3.0,Cytosol_5,Cytosol_5,0.7533717751502991
+4.0,"ER, peroxisome",Plasma Membrane,0.38297000527381897
+3.0,Cytosol_5,Cytosol_1,0.35821282863616943
+5.0,Nucleus (speckles),Nucleus (speckles),0.9003598093986511
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.49113550782203674
+4.0,Cytosol_5,Cytosol_5,0.6293306350708008
+3.0,Cytosol_4,Cytosol_4,0.5154462456703186
+1.0,Cytosol_5,Cytosol_5,0.5959317684173584
+3.0,Cytosol_4,Cytosol_3,0.6548464298248291
+1.0,Cytosol_3,Cytosol_3,0.5232467651367188
+5.0,Cytosol_4,Cytosol_4,0.5287123918533325
+2.0,Cytosol_5,Cytosol_3,0.373989075422287
+5.0,Cytosol_1,Cytosol_3,0.6057648658752441
+3.0,"ER, Mitochondrion",Plasma Membrane,0.564316987991333
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5632159113883972
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5175063014030457
+1.0,Nucleus (speckles),Nucleus (speckles),0.9386540055274963
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5839086771011353
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6887474656105042
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.582977294921875
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.638657808303833
+2.0,Nucleus (speckles),Nucleus (speckles),0.6435582637786865
+3.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.6844425797462463
+4.0,Nucleus (speckles),Nucleus (speckles),0.49989262223243713
+2.0,Nucleus (speckles),Nucleus (Nucleolus),0.43849125504493713
+3.0,Cytosol_5,Cytosol_1,0.3446762263774872
+3.0,Mitochondria membrane,Mitochondria membrane,0.8506526350975037
+3.0,Mitochondria membrane,Mitochondria membrane,0.5096322894096375
+1.0,Mitochondria membrane,Mitochondria membrane,0.598555862903595
+5.0,Cytosol_4,Cytosol_4,0.8383803963661194
+4.0,Mitochondria membrane,Mitochondria membrane,0.872024416923523
+5.0,Mitochondria membrane,Mitochondria membrane,0.6063939929008484
+2.0,Plasma Membrane,Plasma Membrane,0.730668306350708
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6303917169570923
+2.0,"ER, Mitochondrion","ER, peroxisome",0.5712986588478088
+3.0,Cytosol_3,Cytosol_3,0.5365467071533203
+3.0,"ER, Mitochondrion",Plasma Membrane,0.7563430666923523
+2.0,"ER, peroxisome","ER, peroxisome",0.5846303105354309
+3.0,"ER, peroxisome","ER, peroxisome",0.6766263842582703
+4.0,Cytosol_5,Cytosol_5,0.6116467118263245
+2.0,Cytosol_1,Cytosol_2,0.42098793387413025
+4.0,Mitochondria membrane,Plasma Membrane,0.5067912936210632
+3.0,Cytosol_3,Cytosol_3,0.5595702528953552
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7660403847694397
+1.0,Nucleosol,Nucleosol,0.8950061202049255
+3.0,Cytosol_5,Cytosol_2,0.5643933415412903
+3.0,"Nucleosol, Ribosome",Cytosol_1,0.8885112404823303
+4.0,Nucleosol,Nucleosol,0.6669505834579468
+3.0,Cytosol_1,Cytosol_1,0.7815344929695129
+1.0,Cytosol_1,Cytosol_1,0.7634887099266052
+2.0,Cytosol_3,Cytosol_1,0.35878506302833557
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7575260996818542
+4.0,Cytosol_3,Cytosol_3,0.4470638036727905
+2.0,Cytosol_3,Cytosol_5,0.46213430166244507
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.6538136005401611
+1.0,Cytosol_5,Cytosol_5,0.7869061231613159
+2.0,Cytosol_4,Cytosol_5,0.6232181191444397
+2.0,Cytosol_3,Cytosol_3,0.3452196419239044
+1.0,Plasma Membrane,Plasma Membrane,0.5740138292312622
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7150498628616333
+2.0,Cytosol_5,Cytosol_5,0.5957193970680237
+2.0,Cytosol_5,Cytosol_5,0.34406864643096924
+4.0,Mitochondria membrane,Mitochondria membrane,0.6496902108192444
+3.0,"ER, peroxisome","ER, peroxisome",0.48802006244659424
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8158018589019775
+4.0,Cytosol_3,Cytosol_1,0.47066444158554077
+3.0,Cytosol_1,Cytosol_1,0.9823451638221741
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8246152997016907
+4.0,Nucleus (speckles),Nucleus (speckles),0.9416720867156982
+5.0,Cytosol_3,Cytosol_4,0.5131912231445312
+1.0,Nucleosol,Nucleosol,0.9607317447662354
+5.0,"ER, peroxisome","ER, peroxisome",0.4785403907299042
+4.0,Cytosol_1,Cytosol_2,0.6554637551307678
+5.0,"ER, Mitochondrion",Mitochondria matrix,0.5724506378173828
+3.0,Nucleosol,Nucleosol,0.9630900621414185
+1.0,Nucleus (speckles),Nucleus (speckles),0.7183698415756226
+5.0,Nucleosol,Nucleosol,0.9946172833442688
+5.0,Cytosol_2,Cytosol_1,0.4263850450515747
+4.0,Cytosol_1,Cytosol_1,0.340861439704895
+5.0,Cytosol_5,Cytosol_5,0.7104331254959106
+2.0,"ER, peroxisome",Plasma Membrane,0.630214512348175
+1.0,"ER, peroxisome","ER, peroxisome",0.6479359865188599
+2.0,Cytosol_5,Cytosol_5,0.4782112240791321
+1.0,Cytosol_5,Cytosol_4,0.6299028992652893
+1.0,Cytosol_3,Cytosol_2,0.4506238102912903
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8150957226753235
+4.0,Cytosol_2,Cytosol_1,0.4226645827293396
+1.0,Cytosol_3,Cytosol_5,0.3582753539085388
+4.0,Cytosol_1,Cytosol_1,0.6819501519203186
+3.0,Cytosol_4,Cytosol_4,0.5410162210464478
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.8427788615226746
+2.0,Nucleosol,Nucleosol,0.7073754668235779
+5.0,Nucleus (speckles),Nucleus (speckles),0.9905481934547424
+2.0,Mitochondria matrix,Mitochondria matrix,0.7685128450393677
+4.0,Mitochondria matrix,Mitochondria matrix,0.8504098653793335
+4.0,Cytosol_5,Cytosol_5,0.456788569688797
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.842225968837738
+3.0,Cytosol_4,Cytosol_5,0.4877704679965973
+4.0,Cytosol_4,Cytosol_4,0.5203930139541626
+2.0,Mitochondria membrane,Mitochondria membrane,0.8732178807258606
+2.0,"ER, peroxisome","ER, Mitochondrion",0.372140109539032
+2.0,"ER, peroxisome","ER, peroxisome",0.7901798486709595
+5.0,"ER, peroxisome",Mitochondria membrane,0.4433448314666748
+1.0,Cytosol_5,Cytosol_3,0.5358255505561829
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.7736148834228516
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.39312341809272766
+2.0,Cytosol_5,Cytosol_5,0.774365246295929
+4.0,Cytosol_5,Cytosol_4,0.4511280059814453
+5.0,Cytosol_5,Cytosol_5,0.6360357403755188
+3.0,Cytosol_5,Cytosol_5,0.6830999255180359
+3.0,Cytosol_5,Cytosol_3,0.530037522315979
+5.0,Cytosol_4,Cytosol_4,0.6108728647232056
+3.0,Cytosol_4,Cytosol_5,0.4832496643066406
+3.0,Mitochondria membrane,Mitochondria membrane,0.6662478446960449
+2.0,"ER, peroxisome","ER, peroxisome",0.8017504215240479
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8296509385108948
+5.0,Cytosol_4,Cytosol_5,0.48363786935806274
+2.0,Cytosol_5,Cytosol_5,0.8114299774169922
+3.0,Cytosol_5,Cytosol_5,0.8632659316062927
+2.0,Cytosol_5,Cytosol_5,0.4711209833621979
+1.0,Cytosol_5,Cytosol_4,0.3800526261329651
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.46122169494628906
+4.0,"ER, peroxisome","ER, peroxisome",0.4906790554523468
+4.0,Mitochondria membrane,Plasma Membrane,0.6207444071769714
+1.0,Cytosol_3,Cytosol_1,0.5207878351211548
+5.0,Cytosol_2,Cytosol_3,0.4161163568496704
+3.0,Mitochondria membrane,Mitochondria membrane,0.8423107266426086
+4.0,Mitochondria membrane,Mitochondria membrane,0.758048415184021
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.716388463973999
+4.0,Cytosol_3,Cytosol_3,0.42849382758140564
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7771596908569336
+4.0,Cytosol_1,Cytosol_1,0.9814410209655762
+5.0,Cytosol_1,Cytosol_1,0.9708894491195679
+3.0,Cytosol_1,Cytosol_1,0.9554174542427063
+2.0,Cytosol_2,Cytosol_2,0.4953342378139496
+4.0,Cytosol_2,Cytosol_3,0.33067676424980164
+5.0,Cytosol_4,Cytosol_3,0.5264727473258972
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5513877868652344
+1.0,Cytosol_5,Cytosol_5,0.47860950231552124
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7644685506820679
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9399366974830627
+5.0,Cytosol_3,Cytosol_3,0.5332075357437134
+3.0,Plasma Membrane,"ER, peroxisome",0.3619162142276764
+3.0,"ER, peroxisome","ER, peroxisome",0.5442510843276978
+4.0,"ER, peroxisome","ER, peroxisome",0.7008214592933655
+5.0,"ER, Mitochondrion","ER, peroxisome",0.4882252514362335
+1.0,"ER, peroxisome","ER, peroxisome",0.4555280804634094
+1.0,"ER, peroxisome","ER, peroxisome",0.6368176341056824
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.8467665314674377
+4.0,"ER, peroxisome","ER, peroxisome",0.6197936534881592
+2.0,Cytosol_5,Cytosol_3,0.487134724855423
+5.0,Nucleus (speckles),Nucleus (Nucleolus),0.6040187478065491
+3.0,"ER, Mitochondrion",Plasma Membrane,0.7043880820274353
+3.0,Cytosol_4,Cytosol_4,0.6352431178092957
+3.0,Mitochondria membrane,Mitochondria membrane,0.41014257073402405
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.8895390033721924
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8308368921279907
+5.0,Nucleosol,Nucleosol,0.9768164753913879
+2.0,Mitochondria matrix,Mitochondria matrix,0.6606090664863586
+5.0,"ER, Mitochondrion",Mitochondria matrix,0.33074671030044556
+5.0,Cytosol_5,Cytosol_5,0.7562563419342041
+1.0,"ER, peroxisome","ER, Mitochondrion",0.44604894518852234
+1.0,Cytosol_2,Cytosol_2,0.5217400193214417
+5.0,"ER, Mitochondrion",Mitochondria matrix,0.9547359347343445
+2.0,Plasma Membrane,Plasma Membrane,0.8572662472724915
+4.0,Cytosol_3,Cytosol_2,0.5725606083869934
+5.0,Cytosol_5,Cytosol_5,0.639371931552887
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.9446713328361511
+3.0,Mitochondria membrane,Mitochondria membrane,0.9965288043022156
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9235925674438477
+5.0,Cytosol_3,Cytosol_4,0.7379775047302246
+5.0,"ER, peroxisome",Plasma Membrane,0.7072410583496094
+1.0,"ER, peroxisome","ER, peroxisome",0.45269280672073364
+1.0,"ER, peroxisome","ER, peroxisome",0.38115057349205017
+4.0,Cytosol_5,Cytosol_5,0.34061765670776367
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.5361226797103882
+2.0,Cytosol_4,Cytosol_4,0.5841864347457886
+1.0,Cytosol_3,Cytosol_3,0.35776907205581665
+1.0,Mitochondria membrane,Mitochondria membrane,0.7541052103042603
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5275516510009766
+3.0,"ER, Mitochondrion","ER, peroxisome",0.4799592196941376
+2.0,Mitochondria membrane,Mitochondria membrane,0.6700402498245239
+5.0,Cytosol_5,Cytosol_3,0.439017117023468
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6076381206512451
+5.0,Nucleus (speckles),Nucleus (speckles),0.8873689770698547
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7271566390991211
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8796876072883606
+2.0,Nucleus (speckles),Nucleus (speckles),0.5511878132820129
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9543130397796631
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.5256399512290955
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.8054620623588562
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6655197739601135
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9087300300598145
+1.0,"ER, peroxisome","ER, peroxisome",0.6607496738433838
+4.0,"ER, peroxisome","ER, peroxisome",0.44781479239463806
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9947810769081116
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9719253778457642
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.4222630262374878
+5.0,Cytosol_4,Cytosol_4,0.5643376708030701
+1.0,Cytosol_4,Cytosol_4,0.6111440062522888
+2.0,Cytosol_3,Cytosol_4,0.7774136662483215
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5174993276596069
+5.0,Cytosol_5,Cytosol_5,0.46448883414268494
+5.0,Nucleosol,Nucleosol,0.7829869389533997
+2.0,Cytosol_1,Cytosol_1,0.8010194301605225
+5.0,Cytosol_3,Cytosol_5,0.5051009058952332
+1.0,Cytosol_3,Cytosol_3,0.3520174026489258
+3.0,Cytosol_1,Cytosol_1,0.4453417658805847
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9549329876899719
+3.0,Cytosol_4,Cytosol_4,0.41621285676956177
+3.0,Cytosol_2,Cytosol_2,0.6590172648429871
+1.0,Cytosol_5,Cytosol_5,0.48807549476623535
+4.0,Cytosol_5,Cytosol_4,0.3723286986351013
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5028607249259949
+3.0,Cytosol_5,Cytosol_4,0.47827577590942383
+5.0,Cytosol_5,Cytosol_5,0.5452688336372375
+3.0,Cytosol_3,Cytosol_3,0.5913340449333191
+1.0,Cytosol_5,Cytosol_5,0.38909149169921875
+1.0,Cytosol_1,Cytosol_3,0.6107791066169739
+5.0,Cytosol_5,Cytosol_5,0.7219527959823608
+1.0,Cytosol_2,Cytosol_1,0.39245250821113586
+3.0,Cytosol_3,Cytosol_3,0.4039643704891205
+1.0,Cytosol_1,Cytosol_1,0.40361541509628296
+4.0,Cytosol_5,Cytosol_5,0.7111647129058838
+4.0,Cytosol_3,Cytosol_3,0.4078792333602905
+4.0,Cytosol_3,Cytosol_1,0.3915817439556122
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9223731160163879
+5.0,Cytosol_5,Cytosol_5,0.6331133842468262
+4.0,Cytosol_4,Cytosol_4,0.5100733637809753
+5.0,Cytosol_4,Cytosol_4,0.7453610897064209
+5.0,Cytosol_1,Cytosol_1,0.7403475046157837
+1.0,Cytosol_1,Cytosol_3,0.3850313127040863
+5.0,Cytosol_1,Cytosol_2,0.43549904227256775
+5.0,Cytosol_2,Cytosol_1,0.4766397476196289
+5.0,Cytosol_1,Cytosol_1,0.6086733937263489
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9854688048362732
+1.0,Cytosol_4,Cytosol_3,0.4943639039993286
+2.0,Cytosol_2,Cytosol_2,0.6522562503814697
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.556451141834259
+4.0,Cytosol_5,Cytosol_1,0.29429781436920166
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7619621753692627
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9876407980918884
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.7052955627441406
+2.0,Nucleosol,Nucleosol,0.6679487824440002
+4.0,Cytosol_4,Cytosol_5,0.43681856989860535
+5.0,"ER, peroxisome",Mitochondria membrane,0.3132527768611908
+2.0,Cytosol_3,Cytosol_4,0.6058527827262878
+4.0,Plasma Membrane,"ER, peroxisome",0.4945222735404968
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8408125042915344
+3.0,Cytosol_1,Cytosol_1,0.9789132475852966
+3.0,Cytosol_1,Cytosol_1,0.9782341122627258
+4.0,Cytosol_1,Cytosol_1,0.8299170136451721
+4.0,Cytosol_1,Cytosol_1,0.9264475107192993
+3.0,Cytosol_1,Cytosol_1,0.9972629547119141
+4.0,Cytosol_1,Cytosol_1,0.857963502407074
+4.0,Cytosol_1,Cytosol_1,0.8449627161026001
+5.0,Cytosol_1,Cytosol_1,0.9760480523109436
+5.0,Cytosol_1,Cytosol_1,0.9899791479110718
+5.0,Cytosol_1,Cytosol_1,0.9903566241264343
+3.0,Cytosol_1,Cytosol_1,0.9978430271148682
+4.0,Cytosol_1,Cytosol_1,0.9644339680671692
+5.0,Cytosol_1,Cytosol_1,0.8447967767715454
+5.0,Cytosol_1,Cytosol_1,0.987136960029602
+2.0,Cytosol_1,Cytosol_1,0.9938058853149414
+4.0,Cytosol_1,Cytosol_1,0.9502592086791992
+3.0,Cytosol_1,Cytosol_1,0.9970699548721313
+1.0,Cytosol_1,Cytosol_1,0.9152552485466003
+4.0,Cytosol_1,Cytosol_1,0.8963505029678345
+1.0,Cytosol_1,Cytosol_1,0.7871772646903992
+3.0,Cytosol_5,Cytosol_4,0.6138785481452942
+5.0,Cytosol_1,Cytosol_1,0.9849895238876343
+3.0,Cytosol_5,Cytosol_5,0.4480929374694824
+2.0,Cytosol_5,Cytosol_5,0.6971070766448975
+4.0,Nucleosol,Nucleosol,0.6521281599998474
+5.0,"ER, peroxisome","ER, peroxisome",0.8062765002250671
+2.0,"ER, peroxisome","ER, peroxisome",0.5092385411262512
+1.0,Mitochondria matrix,Mitochondria matrix,0.7937316298484802
+2.0,Cytosol_5,Cytosol_4,0.4948582351207733
+3.0,Plasma Membrane,Plasma Membrane,0.8002936244010925
+2.0,Cytosol_4,Cytosol_4,0.43243351578712463
+5.0,Plasma Membrane,Mitochondria membrane,0.7475361227989197
+3.0,Cytosol_2,Cytosol_2,0.5122424364089966
+5.0,"ER, peroxisome","ER, peroxisome",0.667647659778595
+5.0,"ER, peroxisome","ER, peroxisome",0.5853416323661804
+3.0,Cytosol_3,Cytosol_3,0.3710632920265198
+3.0,Cytosol_3,Cytosol_3,0.6127892732620239
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.7459635138511658
+5.0,Plasma Membrane,Plasma Membrane,0.7935245037078857
+2.0,Plasma Membrane,"ER, Mitochondrion",0.7306089997291565
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.627223789691925
+3.0,"ER, Mitochondrion",Mitochondria matrix,0.4929453134536743
+3.0,"ER, Mitochondrion",Plasma Membrane,0.595842182636261
+2.0,"ER, peroxisome",Plasma Membrane,0.4713430404663086
+4.0,Cytosol_1,Cytosol_2,0.538770854473114
+4.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.663939893245697
+1.0,Nucleosol,Nucleosol,0.7513105869293213
+1.0,"ER, Mitochondrion",Plasma Membrane,0.5460327863693237
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8702495098114014
+5.0,Plasma Membrane,Plasma Membrane,0.6324394345283508
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7634158730506897
+5.0,Cytosol_4,Cytosol_4,0.5525314211845398
+1.0,Mitochondria matrix,Mitochondria matrix,0.9672565460205078
+5.0,Cytosol_5,Cytosol_2,0.7429416179656982
+1.0,Cytosol_5,Cytosol_3,0.3433385193347931
+2.0,Cytosol_5,Cytosol_5,0.66205894947052
+3.0,"ER, Mitochondrion","ER, peroxisome",0.38767334818840027
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.8629104495048523
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9204090237617493
+5.0,Cytosol_1,Cytosol_1,0.5779292583465576
+1.0,Cytosol_1,Cytosol_1,0.8505726456642151
+3.0,"ER, peroxisome","ER, peroxisome",0.5935103297233582
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.5608818531036377
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.764570951461792
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.8933810591697693
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9169619083404541
+3.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.5991964340209961
+3.0,"ER, peroxisome","ER, peroxisome",0.5860816836357117
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5546764731407166
+1.0,"ER, peroxisome","ER, peroxisome",0.6753512024879456
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.43546298146247864
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.6550696492195129
+1.0,Plasma Membrane,"ER, peroxisome",0.4058336019515991
+2.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.6414505243301392
+3.0,"ER, peroxisome","ER, peroxisome",0.593386173248291
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6042948365211487
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8023236393928528
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6451385617256165
+2.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.6029756665229797
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8036298155784607
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8692082762718201
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5460155010223389
+5.0,"ER, peroxisome","ER, peroxisome",0.5964521169662476
+1.0,"ER, peroxisome","ER, peroxisome",0.5038904547691345
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.4795856475830078
+2.0,"ER, peroxisome","ER, peroxisome",0.47077494859695435
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7048555612564087
+2.0,Cytosol_5,Cytosol_5,0.43091121315956116
+5.0,Cytosol_5,Cytosol_5,0.5044501423835754
+5.0,Cytosol_1,Cytosol_1,0.5388191342353821
+2.0,Cytosol_3,Cytosol_3,0.6092104911804199
+1.0,Cytosol_4,Cytosol_4,0.6359634399414062
+1.0,Cytosol_3,Cytosol_3,0.4422647953033447
+4.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.5094161033630371
+5.0,Cytosol_1,Cytosol_2,0.3779914677143097
+3.0,Cytosol_3,Cytosol_3,0.5174212455749512
+4.0,Nucleus (speckles),Nucleus (speckles),0.9283902049064636
+4.0,Cytosol_5,Cytosol_5,0.8034517765045166
+4.0,Cytosol_5,Cytosol_5,0.7879528999328613
+1.0,Cytosol_2,Cytosol_5,0.37937453389167786
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6043704748153687
+5.0,Cytosol_2,Cytosol_2,0.5934962034225464
+2.0,Cytosol_3,Cytosol_3,0.4138284921646118
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7146185636520386
+2.0,Cytosol_5,Cytosol_2,0.6010432839393616
+2.0,Cytosol_4,Cytosol_4,0.6261288523674011
+3.0,Nucleus (speckles),Nucleus (speckles),0.9812819957733154
+5.0,Nucleosol,Nucleosol,0.9952137470245361
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.4554024040699005
+4.0,"ER, Mitochondrion","ER, peroxisome",0.48725226521492004
+3.0,Cytosol_4,Cytosol_4,0.6159213781356812
+3.0,"ER, Mitochondrion",Plasma Membrane,0.44453445076942444
+4.0,"ER, peroxisome","ER, peroxisome",0.5462347269058228
+4.0,Plasma Membrane,Plasma Membrane,0.7641957998275757
+4.0,Cytosol_3,Cytosol_3,0.46328914165496826
+2.0,Cytosol_3,Cytosol_2,0.4717080593109131
+4.0,Nucleosol,Nucleosol,0.6364392042160034
+5.0,Cytosol_4,Cytosol_4,0.5068889260292053
+4.0,Cytosol_3,Cytosol_1,0.45645779371261597
+2.0,Cytosol_4,Cytosol_4,0.8487928509712219
+4.0,Nucleus (speckles),Nucleus (speckles),0.987166702747345
+2.0,Nucleus (speckles),Nucleus (speckles),0.5066432356834412
+2.0,Nucleus (speckles),Nucleus (speckles),0.5090957880020142
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.5682180523872375
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5190927386283875
+1.0,Nucleosol,Nucleosol,0.8877242207527161
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8130369782447815
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9621320366859436
+3.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.6872437596321106
+1.0,Nucleus (speckles),Nucleus (speckles),0.5097158551216125
+1.0,"Nucleosol, Ribosome","Golgi, Endo/Lyosome",0.5004837512969971
+3.0,Nucleus (speckles),Nucleus (Nucleolus),0.6677669286727905
+1.0,Nucleosol,Nucleosol,0.8752323985099792
+4.0,Cytosol_2,Cytosol_5,0.49177220463752747
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8027022480964661
+3.0,Nucleosol,Nucleosol,0.9869799613952637
+2.0,Nucleosol,Nucleosol,0.7214129567146301
+4.0,Nucleosol,Nucleosol,0.7700127363204956
+1.0,"ER, Mitochondrion","ER, peroxisome",0.5137961506843567
+2.0,"ER, peroxisome","ER, peroxisome",0.53673255443573
+5.0,Mitochondria membrane,Mitochondria membrane,0.7257803678512573
+3.0,"ER, peroxisome","ER, Mitochondrion",0.3559163510799408
+2.0,Cytosol_2,Cytosol_2,0.3765352666378021
+3.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.40437689423561096
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.647376537322998
+1.0,Cytosol_3,Cytosol_3,0.4442513883113861
+2.0,Cytosol_3,Cytosol_3,0.39381715655326843
+1.0,Plasma Membrane,Mitochondria membrane,0.742730438709259
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6603063344955444
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.4790709614753723
+2.0,Cytosol_1,Cytosol_1,0.5187522768974304
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7911298274993896
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7726975679397583
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5600710511207581
+3.0,Nucleosol,Nucleosol,0.8958537578582764
+4.0,"ER, Mitochondrion","ER, peroxisome",0.5748851299285889
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5148665904998779
+2.0,Plasma Membrane,Plasma Membrane,0.801289439201355
+2.0,Plasma Membrane,Plasma Membrane,0.6170107126235962
+3.0,Cytosol_3,Cytosol_2,0.3917894661426544
+5.0,"ER, peroxisome",Plasma Membrane,0.442087322473526
+5.0,Mitochondria membrane,Mitochondria membrane,0.5498172640800476
+4.0,Mitochondria membrane,Mitochondria membrane,0.8178272843360901
+2.0,Cytosol_1,Cytosol_1,0.9954966306686401
+2.0,Nucleus (speckles),Nucleus (speckles),0.9967799782752991
+5.0,Cytosol_3,Cytosol_1,0.4673602879047394
+5.0,Nucleosol,Nucleosol,0.9925091862678528
+5.0,Mitochondria membrane,Mitochondria membrane,0.8654650449752808
+5.0,Mitochondria membrane,Mitochondria membrane,0.994531512260437
+1.0,Cytosol_3,Cytosol_3,0.47436296939849854
+5.0,Cytosol_2,Cytosol_2,0.4982399046421051
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7769846320152283
+3.0,Cytosol_4,Cytosol_4,0.45257872343063354
+2.0,Nucleus (speckles),Nucleus (speckles),0.9861509203910828
+3.0,"ER, peroxisome","ER, peroxisome",0.49607715010643005
+4.0,"Nucleosol, Ribosome",Nucleus (speckles),0.7420714497566223
+1.0,Cytosol_3,Cytosol_2,0.4081769585609436
+5.0,Nucleosol,Nucleosol,0.995902955532074
+4.0,"ER, peroxisome","ER, peroxisome",0.7966635227203369
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.5061485171318054
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7165189385414124
+4.0,Cytosol_5,Cytosol_4,0.4689394235610962
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5459321737289429
+1.0,Cytosol_3,Cytosol_3,0.31950104236602783
+4.0,Cytosol_3,Cytosol_3,0.3408012390136719
+3.0,"ER, peroxisome",Plasma Membrane,0.746636152267456
+5.0,Cytosol_4,Cytosol_5,0.4630531072616577
+3.0,Nucleosol,Nucleosol,0.826606273651123
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7706948518753052
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8384092450141907
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9295849204063416
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9563313722610474
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9894024133682251
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9287188053131104
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8498942852020264
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8317208290100098
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8877233862876892
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8253656029701233
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7186972498893738
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9407238960266113
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9904595613479614
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9939204454421997
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9698663949966431
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9792030453681946
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7676231265068054
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9859181642532349
+4.0,"Nucleosol, Ribosome","Golgi, Endo/Lyosome",0.6087746024131775
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8427987694740295
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9931755661964417
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8339705467224121
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8330984115600586
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9839621782302856
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9086506962776184
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9722480773925781
+4.0,"ER, peroxisome","ER, peroxisome",0.6797544360160828
+1.0,"ER, peroxisome","ER, peroxisome",0.675417959690094
+5.0,Nucleosol,Nucleosol,0.7333841919898987
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9701175093650818
+4.0,Cytosol_3,Cytosol_3,0.503057599067688
+3.0,Cytosol_1,Cytosol_3,0.4014682173728943
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7067452073097229
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9209762215614319
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.45798900723457336
+2.0,"ER, peroxisome","ER, Mitochondrion",0.5202209949493408
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.6244480013847351
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8506585955619812
+4.0,Cytosol_3,Cytosol_3,0.4152257442474365
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.5103744268417358
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7933845520019531
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.9192817807197571
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7843384742736816
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6129531860351562
+5.0,Nucleus (Nucleolus),Mitochondria matrix,0.4313494861125946
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7863802909851074
+5.0,Plasma Membrane,Plasma Membrane,0.7357112765312195
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9613763093948364
+2.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.6259549260139465
+5.0,Cytosol_1,Cytosol_2,0.3787641227245331
+1.0,Cytosol_4,Cytosol_4,0.8226722478866577
+2.0,Cytosol_3,Cytosol_5,0.4072948396205902
+5.0,Cytosol_5,Cytosol_5,0.42284849286079407
+4.0,Nucleosol,Nucleosol,0.8737370371818542
+4.0,Cytosol_5,Cytosol_5,0.406093031167984
+1.0,"ER, peroxisome","ER, peroxisome",0.4550819396972656
+3.0,"ER, peroxisome","ER, peroxisome",0.47629454731941223
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5610050559043884
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6291069388389587
+1.0,Mitochondria membrane,Mitochondria membrane,0.7812416553497314
+5.0,Cytosol_3,Cytosol_3,0.47020432353019714
+4.0,Cytosol_3,Cytosol_3,0.4809128940105438
+5.0,"Nucleosol, Ribosome",Nucleosol,0.9801573157310486
+2.0,Cytosol_3,Cytosol_4,0.6669938564300537
+1.0,Cytosol_1,Cytosol_1,0.39538589119911194
+3.0,Cytosol_5,Cytosol_5,0.6050332188606262
+5.0,Nucleosol,Nucleosol,0.8416584730148315
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9409769177436829
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7835940718650818
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8388962745666504
+2.0,"ER, Mitochondrion","ER, peroxisome",0.5032576322555542
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.815805196762085
+1.0,Mitochondria membrane,Plasma Membrane,0.48141399025917053
+4.0,"ER, peroxisome","ER, peroxisome",0.7803371548652649
+1.0,"ER, peroxisome","ER, peroxisome",0.6185944080352783
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6017950773239136
+5.0,Cytosol_2,Cytosol_2,0.3791888952255249
+3.0,Nucleosol,Nucleosol,0.6095726490020752
+5.0,Mitochondria membrane,Mitochondria membrane,0.9956215023994446
+5.0,Mitochondria matrix,Mitochondria matrix,0.9346185326576233
+3.0,Cytosol_4,Cytosol_4,0.7365005612373352
+5.0,Cytosol_5,Cytosol_5,0.6556863784790039
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.44715118408203125
+4.0,Plasma Membrane,Plasma Membrane,0.7000673413276672
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.9883525967597961
+4.0,Mitochondria membrane,Mitochondria membrane,0.6563030481338501
+1.0,"ER, peroxisome","ER, peroxisome",0.6150344014167786
+5.0,Cytosol_1,Cytosol_1,0.9834555983543396
+4.0,"ER, peroxisome",Plasma Membrane,0.6515937447547913
+3.0,"ER, peroxisome","ER, peroxisome",0.5688695311546326
+5.0,"ER, peroxisome","ER, peroxisome",0.6111540794372559
+5.0,"ER, peroxisome","ER, peroxisome",0.7593153119087219
+2.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.7196662425994873
+3.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.4307434558868408
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7125493884086609
+3.0,Nucleus (speckles),Nucleus (speckles),0.9972502589225769
+1.0,"ER, Mitochondrion","ER, peroxisome",0.5452404022216797
+4.0,Cytosol_4,Cytosol_1,0.36856183409690857
+2.0,Mitochondria membrane,Mitochondria membrane,0.649844765663147
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9483109712600708
+3.0,"ER, peroxisome","ER, peroxisome",0.49144113063812256
+1.0,Cytosol_5,Cytosol_5,0.6006113886833191
+5.0,Cytosol_1,Cytosol_3,0.46787387132644653
+4.0,Nucleosol,Nucleosol,0.5760623812675476
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9910234212875366
+4.0,Nucleus (speckles),Nucleus (speckles),0.7097805738449097
+5.0,Nucleus (speckles),Nucleus (speckles),0.6989478468894958
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5409998297691345
+5.0,Mitochondria membrane,Mitochondria membrane,0.7662534117698669
+4.0,Mitochondria membrane,Mitochondria membrane,0.7910721898078918
+3.0,Mitochondria membrane,Mitochondria membrane,0.8393110036849976
+3.0,Mitochondria membrane,Plasma Membrane,0.8224557638168335
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9653334021568298
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9052348732948303
+2.0,Nucleus (speckles),Nucleus (speckles),0.47560372948646545
+1.0,"Nucleosol, Ribosome","Golgi, Endo/Lyosome",0.44661667943000793
+3.0,"ER, peroxisome","ER, peroxisome",0.4254281222820282
+3.0,"ER, peroxisome","ER, peroxisome",0.6884012818336487
+3.0,Cytosol_5,Cytosol_3,0.5780141353607178
+3.0,Cytosol_3,Cytosol_3,0.4227166771888733
+3.0,Plasma Membrane,Plasma Membrane,0.5847663283348083
+3.0,Cytosol_1,Cytosol_1,0.6727201342582703
+1.0,Cytosol_5,Cytosol_2,0.4742547869682312
+2.0,Cytosol_3,Cytosol_3,0.5361899137496948
+1.0,Cytosol_3,Cytosol_3,0.5435675382614136
+4.0,Cytosol_4,Cytosol_4,0.5075567960739136
+2.0,Cytosol_2,Cytosol_2,0.8962116241455078
+2.0,Cytosol_1,Cytosol_1,0.8658846020698547
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5773429274559021
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9897262454032898
+3.0,Cytosol_3,Cytosol_5,0.4525926411151886
+1.0,Cytosol_3,Cytosol_5,0.31648677587509155
+3.0,Cytosol_1,Cytosol_2,0.6252370476722717
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9801908731460571
+1.0,"Golgi, Endo/Lyosome",Nucleus (Nucleolus),0.6275216937065125
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9454172849655151
+5.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.5358530282974243
+3.0,Plasma Membrane,Plasma Membrane,0.7998844385147095
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8672263622283936
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8330775499343872
+5.0,Plasma Membrane,Plasma Membrane,0.652911365032196
+3.0,Plasma Membrane,Plasma Membrane,0.7829388380050659
+3.0,Plasma Membrane,Plasma Membrane,0.7617948651313782
+1.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.6887151002883911
+5.0,"ER, Mitochondrion",Plasma Membrane,0.5269097685813904
+4.0,"ER, peroxisome","ER, peroxisome",0.5279160141944885
+4.0,"ER, peroxisome",Plasma Membrane,0.7663840651512146
+4.0,Mitochondria membrane,Mitochondria membrane,0.45315128564834595
+2.0,Mitochondria membrane,Nucleus (Nucleolus),0.3965572416782379
+3.0,Mitochondria membrane,Mitochondria membrane,0.3787888288497925
+5.0,Mitochondria membrane,Mitochondria membrane,0.6774535775184631
+4.0,Mitochondria membrane,Mitochondria membrane,0.5142863988876343
+3.0,Mitochondria membrane,Mitochondria membrane,0.5627077221870422
+2.0,Mitochondria membrane,Mitochondria membrane,0.9399867057800293
+5.0,Mitochondria membrane,Mitochondria membrane,0.6850394606590271
+1.0,Mitochondria membrane,Mitochondria membrane,0.4989798665046692
+3.0,Plasma Membrane,Mitochondria membrane,0.5765657424926758
+1.0,Plasma Membrane,Plasma Membrane,0.5423160195350647
+1.0,"ER, peroxisome","ER, peroxisome",0.519183337688446
+4.0,"ER, peroxisome","ER, peroxisome",0.5947282314300537
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9525580406188965
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.968451738357544
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4000275135040283
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9835028052330017
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.8976593017578125
+2.0,Mitochondria membrane,Mitochondria membrane,0.9864093065261841
+5.0,"ER, peroxisome","ER, peroxisome",0.7012640833854675
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9914736747741699
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9981482028961182
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9695879220962524
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9596164226531982
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9281715154647827
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8699795603752136
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8449534177780151
+3.0,"ER, peroxisome","Golgi, Endo/Lyosome",0.8290732502937317
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9514385461807251
+5.0,"ER, peroxisome","ER, peroxisome",0.5120439529418945
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.38388046622276306
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9089243412017822
+3.0,"ER, peroxisome","ER, peroxisome",0.5147060751914978
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8421788811683655
+5.0,Plasma Membrane,Plasma Membrane,0.8192546367645264
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.41611406207084656
+3.0,Plasma Membrane,Plasma Membrane,0.7773522734642029
+5.0,"ER, peroxisome","ER, peroxisome",0.7285555005073547
+3.0,Plasma Membrane,Plasma Membrane,0.6371419429779053
+1.0,Plasma Membrane,Plasma Membrane,0.734569251537323
+4.0,Nucleosol,Nucleosol,0.8839167952537537
+2.0,Plasma Membrane,Plasma Membrane,0.8079671263694763
+3.0,Plasma Membrane,Plasma Membrane,0.4586396813392639
+5.0,Plasma Membrane,Plasma Membrane,0.5349435210227966
+2.0,Plasma Membrane,Plasma Membrane,0.7395243644714355
+5.0,Plasma Membrane,Plasma Membrane,0.7877365946769714
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6938952803611755
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9607124924659729
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9387466311454773
+3.0,Cytosol_3,Cytosol_3,0.5781237483024597
+5.0,"ER, peroxisome","ER, peroxisome",0.5579251646995544
+4.0,Cytosol_3,Cytosol_4,0.33522602915763855
+5.0,Cytosol_5,Cytosol_3,0.42958131432533264
+2.0,Cytosol_2,Cytosol_2,0.6102975606918335
+3.0,Cytosol_4,Cytosol_3,0.5121636390686035
+3.0,Nucleus (speckles),Nucleus (speckles),0.9008356928825378
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.8696076273918152
+3.0,Nucleosol,Nucleosol,0.9735476970672607
+2.0,Nucleus (speckles),Nucleosol,0.5357445478439331
+5.0,Nucleus (speckles),Nucleus (speckles),0.9295079112052917
+3.0,Nucleus (speckles),Nucleus (speckles),0.9703112840652466
+2.0,Nucleosol,Nucleosol,0.7368592023849487
+4.0,Mitochondria membrane,Mitochondria membrane,0.7652629613876343
+5.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.5518208146095276
+5.0,"ER, peroxisome","ER, peroxisome",0.5483570098876953
+1.0,Mitochondria membrane,Mitochondria membrane,0.4223766326904297
+1.0,"ER, peroxisome","ER, peroxisome",0.5395128726959229
+5.0,Nucleus (speckles),Nucleus (Nucleolus),0.5728347897529602
+4.0,Cytosol_4,Cytosol_4,0.5217288732528687
+1.0,Cytosol_1,Cytosol_1,0.829467236995697
+4.0,Cytosol_4,Cytosol_4,0.3940865397453308
+5.0,Cytosol_4,Cytosol_1,0.6936805844306946
+2.0,Plasma Membrane,Plasma Membrane,0.6066719889640808
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.6682087779045105
+5.0,Nucleosol,Nucleosol,0.9978931546211243
+1.0,Cytosol_1,Cytosol_1,0.6414932608604431
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6865192651748657
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6784787178039551
+3.0,Cytosol_2,Cytosol_2,0.6767994165420532
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7943049073219299
+3.0,Cytosol_1,Cytosol_1,0.617784857749939
+3.0,Cytosol_1,Cytosol_3,0.4974254071712494
+2.0,Cytosol_2,Cytosol_2,0.6346813440322876
+2.0,"ER, peroxisome","ER, peroxisome",0.76938796043396
+1.0,Cytosol_4,Cytosol_4,0.5836511850357056
+1.0,Cytosol_5,Cytosol_5,0.4360949993133545
+4.0,Cytosol_5,Cytosol_4,0.33131682872772217
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9830747246742249
+2.0,Cytosol_3,Cytosol_2,0.45338180661201477
+4.0,Nucleosol,Nucleosol,0.9029226899147034
+1.0,Cytosol_5,Cytosol_4,0.6503727436065674
+4.0,Cytosol_4,Cytosol_3,0.36769598722457886
+1.0,Cytosol_1,"Nucleosol, Ribosome",0.7639997601509094
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.48910486698150635
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5479979515075684
+2.0,Mitochondria membrane,Mitochondria membrane,0.8186677694320679
+5.0,Nucleosol,Nucleosol,0.7184141874313354
+1.0,Nucleus (speckles),Nucleus (speckles),0.37617403268814087
+3.0,Cytosol_1,Cytosol_2,0.4656807482242584
+4.0,Plasma Membrane,Mitochondria membrane,0.5130201578140259
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9265428781509399
+1.0,"ER, Mitochondrion","ER, peroxisome",0.4843730032444
+2.0,"ER, peroxisome","ER, peroxisome",0.7350542545318604
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5642006397247314
+4.0,"ER, peroxisome","ER, peroxisome",0.7421455979347229
+2.0,Mitochondria membrane,Mitochondria membrane,0.8621813654899597
+5.0,Nucleus (speckles),Nucleus (speckles),0.9947726130485535
+1.0,"ER, peroxisome","ER, peroxisome",0.6378472447395325
+2.0,"ER, peroxisome","ER, Mitochondrion",0.742266058921814
+2.0,Nucleus (Nucleolus),"Nucleosol, Ribosome",0.5159962177276611
+3.0,Cytosol_2,Cytosol_2,0.5192369818687439
+2.0,Cytosol_5,Cytosol_1,0.35112929344177246
+2.0,Cytosol_2,Cytosol_2,0.8118579387664795
+1.0,Cytosol_2,Cytosol_2,0.4862060844898224
+2.0,"ER, peroxisome","ER, peroxisome",0.6853294372558594
+2.0,"ER, peroxisome","ER, peroxisome",0.7252672910690308
+2.0,Cytosol_3,Cytosol_1,0.8144640922546387
+3.0,Nucleosol,Nucleosol,0.9674832224845886
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7275140285491943
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9936327338218689
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8528692722320557
+4.0,Cytosol_3,Cytosol_5,0.47869935631752014
+1.0,Cytosol_5,Cytosol_5,0.5286191701889038
+4.0,"ER, peroxisome","ER, peroxisome",0.7017818689346313
+5.0,"ER, peroxisome","ER, peroxisome",0.7739112973213196
+1.0,"ER, peroxisome","ER, peroxisome",0.6678309440612793
+4.0,Cytosol_5,Nucleosol,0.431077241897583
+2.0,Cytosol_5,Cytosol_4,0.7062724828720093
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9606673717498779
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.48371145129203796
+5.0,Nucleus (speckles),Nucleus (speckles),0.9918394088745117
+4.0,Nucleus (speckles),Nucleus (speckles),0.9576506614685059
+4.0,Cytosol_5,Cytosol_2,0.34218859672546387
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8749852776527405
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6633161306381226
+1.0,Cytosol_3,Cytosol_3,0.5131490230560303
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7296214699745178
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9024052023887634
+1.0,Cytosol_5,Cytosol_4,0.6075442433357239
+5.0,Cytosol_1,Cytosol_5,0.6412754654884338
+1.0,Cytosol_4,Cytosol_4,0.6477705836296082
+3.0,Cytosol_4,Cytosol_4,0.6073627471923828
+1.0,Mitochondria membrane,Mitochondria membrane,0.8441793918609619
+1.0,Cytosol_2,Cytosol_1,0.7835069894790649
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8315324187278748
+5.0,"ER, peroxisome","ER, peroxisome",0.4740275740623474
+5.0,"ER, peroxisome",Plasma Membrane,0.47136110067367554
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.922061026096344
+5.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.6136670708656311
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.7064016461372375
+1.0,"ER, peroxisome","ER, peroxisome",0.41949424147605896
+2.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.510075569152832
+3.0,Plasma Membrane,Plasma Membrane,0.5636171102523804
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8092707991600037
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9878901839256287
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7925482392311096
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8299371600151062
+3.0,Plasma Membrane,Plasma Membrane,0.4867590665817261
+1.0,"ER, peroxisome","ER, peroxisome",0.6583169102668762
+5.0,Nucleosol,Nucleosol,0.993233859539032
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8275229334831238
+5.0,Cytosol_3,Cytosol_3,0.5205066800117493
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.575599730014801
+2.0,Nucleosol,Nucleosol,0.9166793823242188
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6732071042060852
+3.0,Nucleosol,Nucleosol,0.8045300841331482
+2.0,Nucleosol,Nucleosol,0.8768523335456848
+4.0,Mitochondria matrix,Mitochondria matrix,0.8808316588401794
+2.0,Mitochondria membrane,Mitochondria membrane,0.9594623446464539
+1.0,"ER, peroxisome","ER, peroxisome",0.4594685733318329
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5552566647529602
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.701381266117096
+3.0,Nucleus (speckles),Nucleus (speckles),0.9906829595565796
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.511890172958374
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.65659499168396
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9688212871551514
+1.0,Cytosol_2,Cytosol_2,0.4116097688674927
+1.0,Mitochondria membrane,Mitochondria membrane,0.7502882480621338
+3.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.5064964294433594
+4.0,"ER, peroxisome","ER, peroxisome",0.45174697041511536
+5.0,Cytosol_3,Cytosol_3,0.38565245270729065
+3.0,Cytosol_5,Cytosol_4,0.36300763487815857
+4.0,Cytosol_4,Cytosol_4,0.4724956154823303
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8697230219841003
+1.0,Nucleosol,Nucleosol,0.9176688194274902
+1.0,Cytosol_2,Cytosol_2,0.5361334681510925
+4.0,Cytosol_4,Cytosol_4,0.6140699982643127
+4.0,Cytosol_5,Cytosol_5,0.5270489454269409
+4.0,Mitochondria membrane,Plasma Membrane,0.5649688839912415
+1.0,Cytosol_2,Cytosol_2,0.4310525357723236
+5.0,Cytosol_5,Cytosol_1,0.6599271297454834
+3.0,Cytosol_3,Cytosol_4,0.3804677128791809
+5.0,"ER, peroxisome","ER, peroxisome",0.7763605117797852
+3.0,"ER, peroxisome","ER, peroxisome",0.7723960280418396
+3.0,Cytosol_4,Cytosol_4,0.7835137844085693
+3.0,Mitochondria matrix,Mitochondria matrix,0.9465211629867554
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9043264389038086
+4.0,Cytosol_5,Cytosol_1,0.3509969413280487
+5.0,Cytosol_5,Cytosol_1,0.4087175726890564
+2.0,Cytosol_3,Cytosol_1,0.7255849242210388
+1.0,Cytosol_5,Cytosol_5,0.47193199396133423
+5.0,Cytosol_3,Cytosol_3,0.45396143198013306
+5.0,"ER, peroxisome","ER, peroxisome",0.42262330651283264
+1.0,Cytosol_1,Cytosol_1,0.438987135887146
+3.0,Cytosol_3,Cytosol_3,0.6024631261825562
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8706628680229187
+4.0,Cytosol_3,Cytosol_3,0.43601536750793457
+5.0,Cytosol_4,Cytosol_3,0.48319488763809204
+5.0,Cytosol_1,Cytosol_2,0.5573265552520752
+4.0,Cytosol_1,Cytosol_1,0.42008405923843384
+2.0,Nucleosol,Nucleosol,0.7481005191802979
+3.0,"ER, peroxisome","ER, peroxisome",0.6588141322135925
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6046239137649536
+4.0,Mitochondria matrix,Mitochondria matrix,0.90601646900177
+1.0,Cytosol_5,Cytosol_4,0.669668972492218
+4.0,Nucleosol,Nucleosol,0.7948736548423767
+3.0,Nucleus (speckles),Nucleus (speckles),0.9397931694984436
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.3647618591785431
+1.0,Nucleosol,Nucleosol,0.7003059387207031
+4.0,Cytosol_1,Cytosol_1,0.8219321966171265
+1.0,"ER, Mitochondrion","ER, peroxisome",0.5309378504753113
+5.0,Mitochondria membrane,Mitochondria membrane,0.6953766345977783
+3.0,Cytosol_5,Cytosol_2,0.4679083824157715
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9489908814430237
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8513384461402893
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9600757360458374
+3.0,"ER, peroxisome","ER, peroxisome",0.5671087503433228
+2.0,Cytosol_5,Cytosol_5,0.6220352649688721
+5.0,Mitochondria membrane,Nucleus (Nucleolus),0.6168351769447327
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6777579188346863
+1.0,Cytosol_4,Cytosol_4,0.3923245370388031
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7688132524490356
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.6400003433227539
+1.0,"ER, Mitochondrion","ER, peroxisome",0.41064855456352234
+5.0,Cytosol_2,Cytosol_2,0.7152428030967712
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.962711751461029
+4.0,Cytosol_3,Cytosol_3,0.4102465510368347
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6860653758049011
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.854191243648529
+4.0,Cytosol_5,Cytosol_5,0.6597167253494263
+4.0,Cytosol_1,Cytosol_1,0.5334417819976807
+3.0,Cytosol_4,Cytosol_4,0.7483605146408081
+4.0,Nucleus (speckles),Nucleus (Nucleolus),0.5218465924263
+2.0,Mitochondria membrane,Mitochondria membrane,0.9992289543151855
+3.0,Mitochondria membrane,Mitochondria membrane,0.7528661489486694
+3.0,Mitochondria membrane,Mitochondria membrane,0.8956272602081299
+2.0,Mitochondria membrane,Mitochondria membrane,0.8276594281196594
+4.0,Mitochondria membrane,Mitochondria membrane,0.4618164300918579
+5.0,Mitochondria membrane,Mitochondria membrane,0.5612763166427612
+5.0,Mitochondria membrane,Mitochondria membrane,0.9835665822029114
+4.0,"ER, Mitochondrion","ER, Mitochondrion",0.7204857468605042
+1.0,Nucleosol,Nucleosol,0.9115170836448669
+2.0,Cytosol_3,Cytosol_5,0.34772583842277527
+3.0,Cytosol_5,Cytosol_3,0.4868044853210449
+4.0,Nucleosol,Nucleosol,0.8502869606018066
+1.0,Nucleosol,Nucleosol,0.9744874238967896
+5.0,Cytosol_3,Cytosol_3,0.5155788660049438
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9884353876113892
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9525600671768188
+4.0,Plasma Membrane,Plasma Membrane,0.5298430323600769
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.4344438314437866
+4.0,"ER, Mitochondrion","ER, peroxisome",0.5049958825111389
+2.0,"ER, peroxisome",Plasma Membrane,0.41497737169265747
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9108619689941406
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7105944156646729
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6441020965576172
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8264549374580383
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9824336767196655
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7556769847869873
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8464320302009583
+5.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.507302463054657
+1.0,Mitochondria membrane,Mitochondria membrane,0.8169651031494141
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9200658798217773
+1.0,"ER, peroxisome","ER, peroxisome",0.5300619602203369
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7362766861915588
+2.0,Mitochondria membrane,Mitochondria membrane,0.5208088755607605
+2.0,"ER, peroxisome","ER, peroxisome",0.5454289317131042
+2.0,"ER, peroxisome","ER, peroxisome",0.6811396479606628
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.559073805809021
+2.0,Mitochondria membrane,Mitochondria matrix,0.6878266930580139
+3.0,"ER, peroxisome","ER, peroxisome",0.879101574420929
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8747859001159668
+3.0,Mitochondria membrane,Nucleus (speckles),0.3937605321407318
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9544873833656311
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9784497618675232
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.4792954623699188
+1.0,Mitochondria membrane,Mitochondria membrane,0.5093681812286377
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9394108057022095
+4.0,Nucleus (Nucleolus),Mitochondria membrane,0.3916773200035095
+1.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.6677336096763611
+3.0,Plasma Membrane,Plasma Membrane,0.7613623142242432
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7095438241958618
+4.0,"ER, Mitochondrion",Plasma Membrane,0.40680572390556335
+4.0,Plasma Membrane,Plasma Membrane,0.7841289043426514
+3.0,"ER, peroxisome","ER, peroxisome",0.7891858816146851
+5.0,Mitochondria membrane,Mitochondria membrane,0.5244516134262085
+2.0,"ER, peroxisome","ER, peroxisome",0.5960031747817993
+2.0,Plasma Membrane,Plasma Membrane,0.6502460837364197
+2.0,"ER, peroxisome","ER, peroxisome",0.790864109992981
+2.0,"ER, Mitochondrion","ER, peroxisome",0.6048629879951477
+5.0,"ER, Mitochondrion","ER, Mitochondrion",0.5154545903205872
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.43881142139434814
+2.0,"ER, peroxisome",Mitochondria membrane,0.5768156051635742
+5.0,"ER, peroxisome","ER, peroxisome",0.6715425848960876
+4.0,"ER, peroxisome","ER, peroxisome",0.4682375490665436
+1.0,Plasma Membrane,Plasma Membrane,0.6257297992706299
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.578576385974884
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7964109778404236
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.4383866786956787
+4.0,Mitochondria membrane,Plasma Membrane,0.5674058794975281
+5.0,"ER, peroxisome",Plasma Membrane,0.5541994571685791
+2.0,Mitochondria membrane,Mitochondria membrane,0.5867146849632263
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9429507851600647
+5.0,"Golgi, Endo/Lyosome",Plasma Membrane,0.5912609100341797
+2.0,"ER, peroxisome","Nucleosol, Ribosome",0.6106805801391602
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8127796053886414
+5.0,Nucleus (speckles),Nucleus (speckles),0.975471019744873
+2.0,"ER, peroxisome","ER, Mitochondrion",0.4622194468975067
+3.0,"ER, peroxisome","ER, Mitochondrion",0.5511978268623352
+5.0,"ER, peroxisome","ER, peroxisome",0.39184442162513733
+1.0,"ER, peroxisome","ER, peroxisome",0.6038879156112671
+4.0,"ER, peroxisome","ER, peroxisome",0.7690221071243286
+1.0,Plasma Membrane,Plasma Membrane,0.6664236187934875
+2.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.6360694766044617
+1.0,Cytosol_3,Cytosol_5,0.3270071744918823
+1.0,Mitochondria membrane,Mitochondria membrane,0.8560552000999451
+2.0,Cytosol_5,Cytosol_5,0.3534814417362213
+5.0,Mitochondria membrane,Mitochondria membrane,0.9132181406021118
+2.0,Mitochondria membrane,Mitochondria membrane,0.8700934052467346
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8887962102890015
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7666744589805603
+5.0,Nucleus (speckles),"Nucleosol, Ribosome",0.9474657773971558
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7353179454803467
+1.0,"ER, peroxisome","ER, peroxisome",0.5297080278396606
+5.0,"ER, Mitochondrion","Nucleosol, Ribosome",0.6431816220283508
+1.0,Cytosol_4,Cytosol_5,0.6944296360015869
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8622793555259705
+1.0,Cytosol_1,Cytosol_1,0.925284206867218
+3.0,Cytosol_5,Cytosol_5,0.7599673271179199
+1.0,Cytosol_5,Cytosol_5,0.7329617142677307
+2.0,Cytosol_5,Cytosol_5,0.7788828015327454
+4.0,Cytosol_5,Cytosol_5,0.4245746433734894
+2.0,Cytosol_4,Cytosol_4,0.85637366771698
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9386891722679138
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9644321799278259
+2.0,Cytosol_4,Cytosol_4,0.6051403880119324
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7593202590942383
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6537357568740845
+1.0,Mitochondria membrane,Mitochondria membrane,0.7834882140159607
+5.0,Cytosol_3,Cytosol_3,0.4152263104915619
+2.0,Cytosol_2,Cytosol_2,0.49468761682510376
+3.0,Cytosol_3,Cytosol_3,0.6699258685112
+4.0,"ER, peroxisome","ER, peroxisome",0.8868148922920227
+3.0,"ER, peroxisome","ER, peroxisome",0.6441583037376404
+1.0,Mitochondria matrix,Mitochondria matrix,0.9647735953330994
+3.0,Cytosol_1,Cytosol_1,0.5484307408332825
+1.0,Cytosol_5,Cytosol_3,0.27885565161705017
+4.0,Cytosol_1,Cytosol_1,0.8700350522994995
+4.0,Nucleosol,Nucleosol,0.8496435284614563
+3.0,Nucleosol,Nucleosol,0.988681435585022
+2.0,Cytosol_1,Cytosol_1,0.6386399269104004
+4.0,Cytosol_3,Cytosol_1,0.3795792758464813
+5.0,Cytosol_4,Cytosol_4,0.4558264911174774
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9718789458274841
+5.0,Cytosol_3,Cytosol_5,0.4816359877586365
+4.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.5927039980888367
+3.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.6079156994819641
+4.0,Mitochondria matrix,Mitochondria matrix,0.9317741394042969
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7579494714736938
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7010009288787842
+4.0,Plasma Membrane,Plasma Membrane,0.6986926198005676
+1.0,"ER, Mitochondrion","ER, Mitochondrion",0.4125772714614868
+3.0,Cytosol_4,Cytosol_5,0.4710434377193451
+5.0,Cytosol_4,Cytosol_4,0.36471885442733765
+5.0,"ER, peroxisome","ER, peroxisome",0.6439016461372375
+1.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.4938194751739502
+3.0,"Golgi, Endo/Lyosome","ER, peroxisome",0.4151163101196289
+2.0,Mitochondria membrane,Mitochondria membrane,0.4969604015350342
+1.0,Cytosol_5,Cytosol_4,0.5238915681838989
+3.0,Cytosol_3,Cytosol_1,0.5789718627929688
+4.0,Cytosol_1,Cytosol_1,0.6347776651382446
+2.0,"ER, peroxisome","ER, peroxisome",0.7206214666366577
+1.0,"ER, Mitochondrion","ER, peroxisome",0.5351525545120239
+3.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.8512113690376282
+5.0,Cytosol_1,Cytosol_1,0.486911803483963
+5.0,Cytosol_3,Cytosol_3,0.5543398857116699
+5.0,Cytosol_2,Cytosol_5,0.5072885155677795
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8778331875801086
+3.0,Cytosol_4,Cytosol_3,0.5738363265991211
+4.0,Cytosol_5,Cytosol_5,0.6495179533958435
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8999844193458557
+2.0,Cytosol_4,Cytosol_4,0.5740447640419006
+4.0,Cytosol_4,Cytosol_3,0.3943910598754883
+1.0,Cytosol_4,Cytosol_3,0.4572988748550415
+2.0,Cytosol_1,"Nucleosol, Ribosome",0.6749104261398315
+1.0,Mitochondria matrix,Mitochondria matrix,0.9810158014297485
+1.0,Cytosol_3,Cytosol_3,0.5044480562210083
+4.0,"ER, Mitochondrion","Golgi, Endo/Lyosome",0.3985147476196289
+5.0,Nucleosol,Nucleosol,0.9961302280426025
+1.0,Cytosol_5,Cytosol_5,0.5650940537452698
+4.0,Cytosol_5,Cytosol_5,0.7123792767524719
+1.0,Cytosol_5,Cytosol_5,0.6870695948600769
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.959564208984375
+5.0,"ER, peroxisome",Plasma Membrane,0.5816351771354675
+2.0,Nucleosol,Nucleosol,0.8643768429756165
+2.0,Cytosol_1,Cytosol_1,0.9436324238777161
+1.0,Cytosol_5,Cytosol_5,0.36243897676467896
+2.0,Cytosol_1,Cytosol_1,0.49246641993522644
+4.0,Cytosol_4,Cytosol_4,0.45037442445755005
+3.0,Plasma Membrane,"ER, peroxisome",0.5228133797645569
+4.0,"ER, peroxisome","ER, peroxisome",0.7648204565048218
+5.0,Cytosol_5,Cytosol_4,0.5025773644447327
+2.0,Nucleosol,Nucleosol,0.842953622341156
+3.0,Nucleosol,Nucleosol,0.9636954069137573
+3.0,Cytosol_4,Cytosol_4,0.6460760831832886
+5.0,Cytosol_5,Cytosol_2,0.8088202476501465
+4.0,Cytosol_5,Cytosol_5,0.7919142246246338
+2.0,Cytosol_5,Cytosol_4,0.4654165804386139
+4.0,Cytosol_5,Cytosol_1,0.318228155374527
+3.0,"ER, peroxisome","ER, peroxisome",0.7772200107574463
+1.0,Cytosol_3,Cytosol_3,0.49535009264945984
+5.0,Cytosol_5,Cytosol_5,0.7086321711540222
+3.0,Cytosol_5,Cytosol_5,0.6102845072746277
+2.0,Cytosol_5,Cytosol_5,0.4092652201652527
+5.0,Cytosol_1,Cytosol_1,0.6383565664291382
+2.0,Cytosol_5,Cytosol_5,0.39490532875061035
+1.0,"ER, peroxisome","ER, peroxisome",0.4253389537334442
+1.0,Cytosol_5,Cytosol_2,0.3834053874015808
+5.0,Cytosol_5,Cytosol_5,0.48672792315483093
+4.0,Cytosol_5,Cytosol_5,0.3933403789997101
+4.0,Cytosol_1,Cytosol_1,0.492523193359375
+1.0,Cytosol_1,Cytosol_3,0.5616427063941956
+1.0,Cytosol_4,Cytosol_3,0.4179458022117615
+2.0,Cytosol_3,Cytosol_4,0.6536076664924622
+2.0,Cytosol_5,Cytosol_5,0.6497196555137634
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8830530047416687
+5.0,"ER, Mitochondrion","ER, peroxisome",0.7549641728401184
+3.0,Cytosol_5,Cytosol_5,0.8026688098907471
+1.0,Nucleus (speckles),Nucleus (speckles),0.6144030690193176
+1.0,Cytosol_2,Cytosol_2,0.4072647988796234
+5.0,Cytosol_2,Cytosol_2,0.5279135704040527
+4.0,Cytosol_2,Cytosol_2,0.40629398822784424
+5.0,Cytosol_2,Cytosol_2,0.4723915457725525
+2.0,Cytosol_1,Cytosol_1,0.9953716397285461
+3.0,Cytosol_5,Cytosol_5,0.8712802529335022
+1.0,Cytosol_3,Cytosol_4,0.6198270916938782
+3.0,"ER, peroxisome","ER, peroxisome",0.6879931092262268
+1.0,Cytosol_1,Cytosol_1,0.8930016160011292
+2.0,Cytosol_5,Cytosol_5,0.7701100707054138
+3.0,Cytosol_1,Cytosol_1,0.30956631898880005
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.7681161761283875
+5.0,Cytosol_1,Cytosol_2,0.44724011421203613
+3.0,Nucleosol,Nucleosol,0.9604437351226807
+5.0,Cytosol_5,Cytosol_2,0.6318094730377197
+3.0,Cytosol_5,Cytosol_2,0.4876638352870941
+1.0,Cytosol_1,Cytosol_3,0.5206658840179443
+2.0,Cytosol_5,Cytosol_1,0.621610701084137
+4.0,Mitochondria membrane,Mitochondria membrane,0.7991754412651062
+4.0,Mitochondria membrane,Mitochondria membrane,0.47471994161605835
+2.0,Mitochondria membrane,Mitochondria membrane,0.8216845393180847
+4.0,Mitochondria membrane,Mitochondria membrane,0.7491492033004761
+4.0,Mitochondria membrane,Mitochondria membrane,0.9102025628089905
+2.0,Mitochondria membrane,Mitochondria membrane,0.6912036538124084
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.682691216468811
+1.0,Cytosol_4,Cytosol_4,0.5486330389976501
+2.0,"ER, peroxisome","ER, peroxisome",0.47337156534194946
+3.0,Mitochondria membrane,Mitochondria membrane,0.8258322477340698
+2.0,Nucleosol,Nucleosol,0.962775707244873
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.46074023842811584
+2.0,Cytosol_5,Cytosol_2,0.7029590606689453
+4.0,Cytosol_5,Cytosol_5,0.39482516050338745
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.554746150970459
+2.0,Cytosol_3,Cytosol_3,0.4871038794517517
+5.0,Mitochondria membrane,Mitochondria membrane,0.9753463864326477
+4.0,"ER, peroxisome","ER, peroxisome",0.5986862778663635
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7181376814842224
+4.0,Cytosol_4,Cytosol_4,0.5698294043540955
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8606277704238892
+3.0,Cytosol_5,Cytosol_5,0.889202356338501
+4.0,Cytosol_5,Cytosol_1,0.3336193859577179
+4.0,Cytosol_1,Cytosol_1,0.4654879570007324
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6316487193107605
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6008592247962952
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5719454884529114
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.4926746189594269
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.8556622266769409
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.6394829750061035
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6966016888618469
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5504280924797058
+5.0,Mitochondria matrix,Mitochondria matrix,0.8014076352119446
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.940002977848053
+1.0,Nucleosol,Nucleosol,0.9341564178466797
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.930486261844635
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9422898292541504
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9850000143051147
+2.0,"ER, peroxisome","ER, peroxisome",0.8431858420372009
+1.0,Nucleosol,Nucleosol,0.9646720886230469
+4.0,"ER, peroxisome","ER, peroxisome",0.7056027054786682
+3.0,Cytosol_2,Cytosol_2,0.641610860824585
+1.0,Cytosol_4,Cytosol_4,0.6807775497436523
+1.0,Mitochondria matrix,Mitochondria matrix,0.9857168197631836
+2.0,Cytosol_3,Cytosol_4,0.4675391614437103
+4.0,Cytosol_5,Cytosol_5,0.5097089409828186
+2.0,Nucleosol,Nucleus (speckles),0.7906656265258789
+1.0,Cytosol_4,Cytosol_3,0.4325677752494812
+3.0,Cytosol_5,Cytosol_5,0.692299485206604
+2.0,Mitochondria membrane,Mitochondria membrane,0.9925548434257507
+1.0,Mitochondria membrane,Mitochondria membrane,0.6743067502975464
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9333954453468323
+1.0,Cytosol_5,Cytosol_5,0.3595277667045593
+5.0,Nucleus (speckles),Nucleus (speckles),0.4905471205711365
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6920920014381409
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.538030207157135
+2.0,Cytosol_5,Cytosol_5,0.5826478004455566
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.566085159778595
+4.0,Cytosol_5,Cytosol_5,0.3465496897697449
+5.0,Cytosol_1,Cytosol_1,0.9864039421081543
+2.0,Cytosol_2,Cytosol_2,0.5550889372825623
+4.0,Cytosol_2,Cytosol_1,0.6614890098571777
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7486797571182251
+5.0,Cytosol_2,Cytosol_1,0.46117955446243286
+1.0,Cytosol_1,Cytosol_1,0.7149708271026611
+3.0,Cytosol_2,Cytosol_2,0.7309642434120178
+2.0,Cytosol_2,Cytosol_2,0.7403257489204407
+2.0,"ER, peroxisome","ER, peroxisome",0.8877672553062439
+5.0,Nucleus (speckles),Nucleus (speckles),0.6125850677490234
+5.0,"ER, peroxisome","ER, peroxisome",0.7720419764518738
+1.0,Cytosol_3,Cytosol_3,0.5527083873748779
+4.0,Cytosol_3,Cytosol_1,0.4888915717601776
+4.0,Nucleus (speckles),Nucleus (speckles),0.7425963282585144
+5.0,"ER, peroxisome","ER, Mitochondrion",0.4884576201438904
+3.0,Cytosol_3,Cytosol_3,0.39081093668937683
+3.0,Nucleosol,Nucleosol,0.9732829332351685
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.6086009740829468
+3.0,Cytosol_2,Cytosol_1,0.6373605132102966
+5.0,Cytosol_3,Cytosol_3,0.3020460903644562
+3.0,Cytosol_4,Cytosol_3,0.5616132020950317
+3.0,Cytosol_1,Cytosol_1,0.40538713335990906
+4.0,Cytosol_4,Cytosol_4,0.36684924364089966
+4.0,Cytosol_2,Cytosol_2,0.6066969037055969
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9477381706237793
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.775222897529602
+2.0,Cytosol_3,Cytosol_2,0.5192143321037292
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9442738890647888
+5.0,Mitochondria matrix,Mitochondria matrix,0.6859862804412842
+1.0,Cytosol_1,Cytosol_3,0.5627696514129639
+2.0,Cytosol_2,Cytosol_1,0.8640267252922058
+3.0,"ER, Mitochondrion","ER, Mitochondrion",0.8225809335708618
+3.0,"Golgi, Endo/Lyosome","ER, Mitochondrion",0.567899227142334
+2.0,Cytosol_5,Cytosol_5,0.35397079586982727
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.6069706678390503
+2.0,Cytosol_4,Cytosol_4,0.5600231885910034
+1.0,Cytosol_2,Cytosol_2,0.4044969081878662
+3.0,Nucleosol,Nucleosol,0.8761069178581238
+5.0,Nucleosol,Nucleosol,0.9758804440498352
+1.0,Cytosol_4,Cytosol_4,0.5775661468505859
+1.0,Cytosol_5,Cytosol_4,0.4581834673881531
+1.0,Mitochondria matrix,Mitochondria matrix,0.8516978621482849
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5604854226112366
+2.0,"Golgi, Endo/Lyosome","Nucleosol, Ribosome",0.5336735248565674
+1.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.8258147239685059
+5.0,Cytosol_3,Cytosol_3,0.616138756275177
+3.0,Nucleus (speckles),Nucleus (speckles),0.9817164540290833
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9857520461082458
+2.0,Cytosol_5,Cytosol_5,0.5133205652236938
+2.0,Cytosol_5,Cytosol_5,0.4022107422351837
+2.0,Cytosol_4,Cytosol_4,0.6143370866775513
+4.0,Cytosol_4,Cytosol_4,0.5842092037200928
+2.0,"ER, Mitochondrion","ER, Mitochondrion",0.8055692911148071
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8916919231414795
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7001271843910217
+3.0,Nucleus (speckles),Nucleus (speckles),0.9863163828849792
+3.0,Nucleus (speckles),Nucleus (speckles),0.873720109462738
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9621492624282837
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.42613059282302856
+1.0,Cytosol_4,Cytosol_5,0.7354947924613953
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9909610152244568
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.6408125162124634
+2.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.77427077293396
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5229219794273376
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9778178930282593
+2.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9413965940475464
+5.0,Plasma Membrane,Plasma Membrane,0.7179598212242126
+4.0,"ER, peroxisome","ER, peroxisome",0.9089329838752747
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5055837035179138
+2.0,Plasma Membrane,Plasma Membrane,0.74538254737854
+5.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.9282053709030151
+4.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.5322569608688354
+4.0,Cytosol_5,Cytosol_4,0.3900960683822632
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7088283896446228
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.888801097869873
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5808529257774353
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5217901468276978
+5.0,Cytosol_1,Cytosol_1,0.7720651030540466
+3.0,Cytosol_3,Cytosol_5,0.4679301381111145
+3.0,"Golgi, Endo/Lyosome","Golgi, Endo/Lyosome",0.6090915203094482
+1.0,Nucleosol,Nucleosol,0.8765828013420105
+3.0,Nucleosol,Nucleosol,0.9884878993034363
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9122896194458008
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7515695095062256
+3.0,Nucleus (speckles),Nucleus (speckles),0.791491687297821
+5.0,Nucleosol,Nucleosol,0.9905875325202942
+3.0,Nucleosol,Nucleosol,0.5389233827590942
+2.0,Nucleus (speckles),Mitochondria matrix,0.8854053020477295
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9068406820297241
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.5642949938774109
+2.0,Nucleosol,Nucleosol,0.9541305303573608
+4.0,Nucleus (speckles),Nucleus (speckles),0.8115358352661133
+3.0,Cytosol_4,Cytosol_3,0.5281385779380798
+2.0,Nucleus (Nucleolus),Nucleus (speckles),0.5080327391624451
+3.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7023042440414429
+2.0,Nucleosol,Nucleosol,0.5525172352790833
+1.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.7392348051071167
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8054826259613037
+2.0,Nucleus (speckles),Mitochondria membrane,0.5209628939628601
+5.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5704848170280457
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9771106243133545
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8848921060562134
+1.0,Cytosol_2,Cytosol_2,0.3884674906730652
+2.0,"Nucleosol, Ribosome",Nucleus (Nucleolus),0.5828591585159302
+1.0,Nucleus (speckles),Nucleus (Nucleolus),0.603002667427063
+2.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9866718649864197
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9896360039710999
+1.0,Nucleus (speckles),Nucleus (speckles),0.26330044865608215
+4.0,Nucleus (speckles),Nucleus (speckles),0.920133650302887
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.8586315512657166
+1.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9139209389686584
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.7827786207199097
+4.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.940210223197937
+4.0,Nucleus (Nucleolus),Nucleus (Nucleolus),0.5050567984580994
+5.0,"Nucleosol, Ribosome",Nucleosol,0.7531815767288208
+2.0,Cytosol_1,Cytosol_4,0.4105950593948364
+5.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.9802982211112976
+3.0,"Nucleosol, Ribosome","Nucleosol, Ribosome",0.983141303062439
+2.0,Cytosol_1,Cytosol_1,0.9993174076080322

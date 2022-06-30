@@ -1,0 +1,162 @@
+true_label,pred_label,pred_prob
+Mitochondria,Mitochondria,0.7320906668901443
+Mitochondria,Mitochondria,0.9087437838315964
+Mitochondria,Mitochondria,0.9041818380355835
+Mitochondria,Mitochondria,0.8824110329151154
+Mitochondria,Mitochondria,0.8637872487306595
+Mitochondria,Mitochondria,0.82056924700737
+Mitochondria,Mitochondria,0.930971771478653
+Mitochondria,Mitochondria,0.9058301001787186
+Mitochondria,Mitochondria,0.5807872116565704
+Mitochondria,Mitochondria,0.8094021379947662
+Mitochondria,Mitochondria,0.8810275048017502
+Mitochondria,Mitochondria,0.845416709780693
+Mitochondria,Mitochondria,0.884046733379364
+Mitochondria,Mitochondria,0.9279936999082565
+Mitochondria,Mitochondria,0.9285011738538742
+Mitochondria,Mitochondria,0.8328305184841156
+Mitochondria,Mitochondria,0.8319007903337479
+Mitochondria,Mitochondria,0.8902095556259155
+Mitochondria,Mitochondria,0.8089117258787155
+Mitochondria,Mitochondria,0.8584081381559372
+Mitochondria,Mitochondria,0.9000172913074493
+Mitochondria,Mitochondria,0.64162477850914
+Mitochondria,Mitochondria,0.8686602413654327
+Mitochondria,Mitochondria,0.88931904733181
+Mitochondria,Mitochondria,0.7803270071744919
+Mitochondria,Mitochondria,0.6843390837311745
+Mitochondria,Mitochondria,0.8927836418151855
+Mitochondria,Mitochondria,0.692342959344387
+Mitochondria,Mitochondria,0.8070959597826004
+Mitochondria,Mitochondria,0.9055917263031006
+Mitochondria,Mitochondria,0.544529989361763
+Mitochondria,Mitochondria,0.7915077060461044
+Mitochondria,Mitochondria,0.889027550816536
+Mitochondria,Mitochondria,0.8617790639400482
+Mitochondria,Mitochondria,0.8388025909662247
+Mitochondria,Mitochondria,0.9322641044855118
+Mitochondria,Mitochondria,0.8214283436536789
+Mitochondria,Mitochondria,0.7611573189496994
+Mitochondria,Mitochondria,0.8993383646011353
+Mitochondria,Mitochondria,0.7197791263461113
+Cytosol,Cytosol,0.9984917640686035
+Cytosol,Cytosol,0.9960802495479584
+Cytosol,Cytosol,0.9471101611852646
+Cytosol,Cytosol,0.5514700822532177
+Cytosol,Cytosol,0.9834621101617813
+Cytosol,Cytosol,0.9937092214822769
+Cytosol,Cytosol,0.9980649948120117
+Cytosol,Cytosol,0.9999092668294907
+Cytosol,Cytosol,0.6003892254084349
+Cytosol,Cytosol,0.9625659584999084
+Cytosol,Cytosol,0.8813472762703896
+Chromatin,Chromatin,0.971965879201889
+Chromatin,Chromatin,0.5390315130352974
+Chromatin,Chromatin,0.9801725596189499
+Chromatin,Chromatin,0.9818209409713745
+Chromatin,Chromatin,0.9087703078985214
+Chromatin,Chromatin,0.9894151091575623
+Chromatin,Chromatin,0.8850634843111038
+Chromatin,Chromatin,0.9867555797100067
+Chromatin,Chromatin,0.9762312769889832
+Chromatin,Chromatin,0.996684655547142
+Chromatin,Chromatin,0.9660757184028625
+Chromatin,Chromatin,0.6372504383325577
+Chromatin,Chromatin,0.9804457426071167
+Chromatin,Chromatin,0.9508074223995209
+Chromatin,Chromatin,0.9929674714803696
+Peroxisome,Peroxisome,0.8564133942127228
+Peroxisome,Peroxisome,0.6202405393123627
+Peroxisome,Peroxisome,0.68267922103405
+Peroxisome,Golgi Apparatus,0.622194230556488
+Peroxisome,Peroxisome,0.7326992452144623
+Peroxisome,Peroxisome,0.9061277657747269
+Plasma Membrane,Plasma Membrane,0.9997833669185638
+Plasma Membrane,Plasma Membrane,0.9997687637805939
+Plasma Membrane,Plasma Membrane,0.9999935030937195
+Plasma Membrane,Plasma Membrane,0.9999838024377823
+Plasma Membrane,Plasma Membrane,0.9999730139970779
+Plasma Membrane,Plasma Membrane,0.9998881071805954
+Plasma Membrane,Plasma Membrane,0.9999508410692215
+Plasma Membrane,Plasma Membrane,0.9999711811542511
+Plasma Membrane,Plasma Membrane,0.9887125790119171
+Plasma Membrane,Plasma Membrane,0.9998918175697327
+Plasma Membrane,Plasma Membrane,0.999887228012085
+Plasma Membrane,Plasma Membrane,0.9962446689605713
+Plasma Membrane,Plasma Membrane,0.9999754279851913
+Plasma Membrane,Plasma Membrane,0.9999063909053802
+Plasma Membrane,Plasma Membrane,0.9998324066400528
+Nucleus,Nucleus,0.8361541032791138
+Nucleus,Nucleus,0.8758511692285538
+Nucleus,Nucleus,0.9702601730823517
+Nucleus,Nucleus,0.9912829995155334
+Nucleus,Nucleus,0.8295712321996689
+Nucleus,Nucleus,0.9975222051143646
+Nucleus,Nucleus,0.8249832689762115
+Nucleus,Nucleus,0.9977571368217468
+Nucleus,Nucleus,0.9957593083381653
+Nucleus,Nucleus,0.7830704897642136
+Nucleus,Nucleus,0.9960261732339859
+Nucleus,Nucleus,0.9403590708971024
+Nucleus,Nucleus,0.9918343275785446
+Nucleus,Nucleus,0.6627813205122948
+Nucleus,Nucleus,0.9810900390148163
+Nucleus,Nucleus,0.752158310264349
+Nucleus,Nucleus,0.7998549863696098
+Nucleus,Nucleus,0.9970897287130356
+Nucleus,Nucleus,0.7012097164988518
+Lysosome,Lysosome,0.704596072435379
+Lysosome,Lysosome,0.4484659843146801
+Lysosome,Lysosome,0.7688515558838844
+Lysosome,Lysosome,0.8096180707216263
+Lysosome,Lysosome,0.8191265016794205
+Lysosome,Lysosome,0.7459790259599686
+Lysosome,Lysosome,0.9194233417510986
+Lysosome,Endoplasmic Reticulum,0.7579021453857422
+Lysosome,Endoplasmic Reticulum,0.5944812297821045
+Lysosome,Lysosome,0.9135402292013168
+Endoplasmic Reticulum,Lysosome,0.7299723997712135
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.8290142118930817
+Endoplasmic Reticulum,Golgi Apparatus,0.9057134538888931
+Endoplasmic Reticulum,Peroxisome,0.3701329529285431
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.5306263342499733
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.9400580823421478
+Endoplasmic Reticulum,Lysosome,0.4893477112054825
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.9099056571722031
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.7729088664054871
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.33374639973044395
+Endoplasmic Reticulum,Lysosome,0.8582459092140198
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.9493901431560516
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.6778135225176811
+Endoplasmic Reticulum,Endoplasmic Reticulum,0.6273346915841103
+Golgi Apparatus,Golgi Apparatus,0.9711008965969086
+Golgi Apparatus,Golgi Apparatus,0.9221254140138626
+Golgi Apparatus,Golgi Apparatus,0.9215684980154037
+Golgi Apparatus,Golgi Apparatus,0.8691159933805466
+Golgi Apparatus,Golgi Apparatus,0.7922376990318298
+Golgi Apparatus,Golgi Apparatus,0.41025908291339874
+Golgi Apparatus,Golgi Apparatus,0.8876798897981644
+Golgi Apparatus,Golgi Apparatus,0.9879233539104462
+Nucleolus,Nucleolus,0.977282240986824
+Nucleolus,Nucleolus,0.9440350383520126
+Nucleolus,Nucleolus,0.9032385945320129
+Nucleolus,Nucleus,0.5545354187488556
+Nucleolus,Nucleolus,0.9659002423286438
+Nucleolus,Nucleolus,0.9491523504257202
+Nucleolus,Nucleolus,0.9197631478309631
+Nucleolus,Nucleolus,0.9819125384092331
+40S/60S Ribosome,40S/60S Ribosome,0.9685046076774597
+40S/60S Ribosome,40S/60S Ribosome,0.9841382652521133
+40S/60S Ribosome,40S/60S Ribosome,0.9944204986095428
+40S/60S Ribosome,40S/60S Ribosome,0.8586455211043358
+40S/60S Ribosome,40S/60S Ribosome,0.9818240851163864
+40S/60S Ribosome,40S/60S Ribosome,0.9915410429239273
+40S/60S Ribosome,40S/60S Ribosome,0.9929618984460831
+40S/60S Ribosome,40S/60S Ribosome,0.9454655051231384
+40S/60S Ribosome,40S/60S Ribosome,0.9891810119152069
+40S/60S Ribosome,40S/60S Ribosome,0.9817156493663788
+40S/60S Ribosome,40S/60S Ribosome,0.9810539931058884
+40S/60S Ribosome,40S/60S Ribosome,0.9419934749603271
+40S/60S Ribosome,40S/60S Ribosome,0.9940819293260574
+40S/60S Ribosome,40S/60S Ribosome,0.9085817337036133
+40S/60S Ribosome,40S/60S Ribosome,0.9926760494709015

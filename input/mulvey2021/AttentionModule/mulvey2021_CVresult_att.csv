@@ -1,0 +1,628 @@
+cv_index,true_label,pred_label,pred_prob
+1.0,Mitochondria,Mitochondria,0.8836621046066284
+1.0,Cytosol,Cytosol,0.9975886344909668
+5.0,Peroxisome,Mitochondria,0.7508673071861267
+4.0,Plasma Membrane,Plasma Membrane,0.9999724626541138
+4.0,Nucleus,40S/60S Ribosome,0.9938082098960876
+3.0,Lysosome,Lysosome,0.6030911207199097
+4.0,Peroxisome,Peroxisome,0.7999246120452881
+5.0,Endoplasmic Reticulum,Lysosome,0.562580943107605
+2.0,Mitochondria,Mitochondria,0.9914188385009766
+2.0,Golgi Apparatus,Golgi Apparatus,0.6587193608283997
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5301609039306641
+4.0,Mitochondria,Mitochondria,0.7485395073890686
+4.0,Golgi Apparatus,Golgi Apparatus,0.49564310908317566
+4.0,Mitochondria,Mitochondria,0.7219930291175842
+1.0,Nucleus,Nucleolus,0.9959576725959778
+4.0,Nucleolus,Nucleolus,0.49503764510154724
+3.0,Nucleolus,Nucleolus,0.9853897094726562
+4.0,Lysosome,Lysosome,0.8593584895133972
+4.0,Chromatin,Nucleus,0.76151043176651
+4.0,Chromatin,Chromatin,0.9922198057174683
+1.0,Peroxisome,Peroxisome,0.6524873375892639
+1.0,Lysosome,Lysosome,0.6796817779541016
+2.0,Cytosol,Cytosol,0.999950647354126
+2.0,Mitochondria,Mitochondria,0.84154212474823
+4.0,Mitochondria,Mitochondria,0.5359753370285034
+2.0,Plasma Membrane,Plasma Membrane,0.9983781576156616
+2.0,Lysosome,Endoplasmic Reticulum,0.8757724165916443
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.6737329959869385
+5.0,Nucleolus,Nucleolus,0.9006665349006653
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9638216495513916
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5979089736938477
+2.0,Chromatin,Chromatin,0.9778409600257874
+1.0,Chromatin,Chromatin,0.9856809377670288
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9323198199272156
+4.0,Nucleus,Nucleus,0.9855936169624329
+3.0,Nucleus,Nucleus,0.9072502255439758
+4.0,Mitochondria,Mitochondria,0.8332204222679138
+5.0,Nucleus,Nucleus,0.7203660607337952
+1.0,Nucleus,Nucleus,0.9993607401847839
+3.0,Mitochondria,Mitochondria,0.9303836822509766
+3.0,Nucleolus,Nucleolus,0.9829406142234802
+3.0,Chromatin,Chromatin,0.9584019780158997
+4.0,Chromatin,Chromatin,0.9957054257392883
+1.0,Nucleus,Nucleus,0.8347190618515015
+4.0,Mitochondria,Mitochondria,0.715667724609375
+1.0,Chromatin,Chromatin,0.9427253603935242
+2.0,Plasma Membrane,Plasma Membrane,0.9985185265541077
+1.0,Plasma Membrane,Plasma Membrane,0.9999899864196777
+4.0,Endoplasmic Reticulum,Lysosome,0.9356618523597717
+5.0,Golgi Apparatus,Golgi Apparatus,0.9120396971702576
+2.0,Plasma Membrane,Plasma Membrane,0.9839539527893066
+4.0,Golgi Apparatus,Golgi Apparatus,0.9303591251373291
+5.0,Nucleolus,Nucleolus,0.7722757458686829
+4.0,Chromatin,Chromatin,0.9964855909347534
+5.0,Chromatin,Chromatin,0.8952991962432861
+3.0,Nucleus,Nucleus,0.9787729978561401
+3.0,Golgi Apparatus,Golgi Apparatus,0.8797044157981873
+2.0,Nucleus,Nucleus,0.9718536138534546
+1.0,Nucleus,Nucleus,0.6203494668006897
+4.0,Mitochondria,Mitochondria,0.8280777335166931
+2.0,Chromatin,Chromatin,0.9986447691917419
+4.0,Peroxisome,Peroxisome,0.6163790822029114
+3.0,Nucleus,Nucleus,0.9958920478820801
+1.0,Mitochondria,Mitochondria,0.9004644751548767
+5.0,Chromatin,Chromatin,0.9805039167404175
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7503278255462646
+5.0,Nucleus,Nucleus,0.9871456623077393
+1.0,Nucleus,Nucleus,0.992778480052948
+4.0,Plasma Membrane,Plasma Membrane,0.999996542930603
+5.0,Mitochondria,Mitochondria,0.6411251425743103
+1.0,Mitochondria,Mitochondria,0.6805862784385681
+3.0,Nucleolus,Nucleolus,0.9100366830825806
+2.0,Mitochondria,Mitochondria,0.9821292161941528
+3.0,Golgi Apparatus,Golgi Apparatus,0.9500307440757751
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8176957368850708
+1.0,Nucleus,Nucleus,0.9850631952285767
+4.0,Mitochondria,Mitochondria,0.5626737475395203
+5.0,Mitochondria,Mitochondria,0.7857664227485657
+4.0,Golgi Apparatus,Golgi Apparatus,0.6879550218582153
+4.0,Endoplasmic Reticulum,Lysosome,0.6983281970024109
+5.0,Mitochondria,Mitochondria,0.5861963033676147
+3.0,Cytosol,Cytosol,0.9999693632125854
+2.0,Chromatin,Chromatin,0.9421101212501526
+4.0,Plasma Membrane,Plasma Membrane,0.9999656677246094
+4.0,Mitochondria,Mitochondria,0.7582136392593384
+4.0,Peroxisome,Peroxisome,0.6074967980384827
+5.0,Mitochondria,Mitochondria,0.7865784764289856
+5.0,Cytosol,Cytosol,0.9992944002151489
+5.0,Plasma Membrane,Plasma Membrane,0.9999698400497437
+2.0,Lysosome,Lysosome,0.7625402808189392
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9226404428482056
+5.0,Plasma Membrane,Plasma Membrane,0.9999974966049194
+5.0,Plasma Membrane,Plasma Membrane,0.9999810457229614
+2.0,Mitochondria,Mitochondria,0.963290274143219
+5.0,Chromatin,Chromatin,0.9350679516792297
+2.0,Mitochondria,Mitochondria,0.9819620251655579
+3.0,Chromatin,Nucleus,0.5931306481361389
+4.0,Plasma Membrane,Plasma Membrane,0.9999972581863403
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9154778718948364
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9838391542434692
+2.0,Plasma Membrane,Plasma Membrane,0.9998218417167664
+4.0,Lysosome,Lysosome,0.7974424362182617
+2.0,Mitochondria,Mitochondria,0.9200894236564636
+2.0,Cytosol,Cytosol,0.9999680519104004
+5.0,Chromatin,Chromatin,0.9458087086677551
+1.0,Lysosome,Lysosome,0.8982090950012207
+5.0,Lysosome,Lysosome,0.8456631302833557
+1.0,Lysosome,Lysosome,0.6439242362976074
+1.0,Lysosome,Lysosome,0.9588553309440613
+4.0,Nucleus,Nucleus,0.9330617785453796
+2.0,Mitochondria,Mitochondria,0.9874252676963806
+5.0,Lysosome,Lysosome,0.5672054886817932
+4.0,Cytosol,Cytosol,0.9986603260040283
+1.0,Cytosol,Cytosol,0.9995654225349426
+1.0,Mitochondria,Mitochondria,0.9041918516159058
+2.0,Mitochondria,Mitochondria,0.9664671421051025
+4.0,Plasma Membrane,Plasma Membrane,0.9999995231628418
+3.0,Nucleus,Nucleus,0.9793426990509033
+3.0,Nucleus,Nucleus,0.9866277575492859
+2.0,Plasma Membrane,Plasma Membrane,0.9999589920043945
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9962365031242371
+2.0,Mitochondria,Mitochondria,0.9854825735092163
+1.0,Peroxisome,Peroxisome,0.685997724533081
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7569030523300171
+4.0,Mitochondria,Mitochondria,0.8470062017440796
+1.0,Chromatin,Chromatin,0.9569036960601807
+5.0,Lysosome,Lysosome,0.8286657929420471
+2.0,Chromatin,Chromatin,0.9983042478561401
+1.0,Mitochondria,Mitochondria,0.7797369956970215
+2.0,Plasma Membrane,Plasma Membrane,0.9999326467514038
+1.0,Plasma Membrane,Plasma Membrane,0.9999885559082031
+3.0,Plasma Membrane,Plasma Membrane,0.9999949932098389
+3.0,Mitochondria,Mitochondria,0.959274172782898
+2.0,Plasma Membrane,Plasma Membrane,0.9992244243621826
+5.0,Plasma Membrane,Plasma Membrane,0.9999525547027588
+3.0,Lysosome,Endoplasmic Reticulum,0.6517962217330933
+4.0,Mitochondria,Mitochondria,0.7827563285827637
+3.0,Plasma Membrane,Plasma Membrane,0.9999949932098389
+4.0,Nucleus,Nucleus,0.9791498780250549
+2.0,Nucleus,Nucleus,0.9887189269065857
+2.0,Mitochondria,Mitochondria,0.9326738119125366
+5.0,Lysosome,Lysosome,0.7355087399482727
+5.0,Plasma Membrane,Plasma Membrane,0.9999755620956421
+2.0,Mitochondria,Mitochondria,0.9610978364944458
+1.0,Plasma Membrane,Plasma Membrane,0.9998964071273804
+1.0,Mitochondria,Mitochondria,0.95257169008255
+5.0,Nucleus,Nucleus,0.9682797193527222
+2.0,Plasma Membrane,Plasma Membrane,0.9999139308929443
+5.0,Plasma Membrane,Plasma Membrane,0.999942421913147
+3.0,Lysosome,Endoplasmic Reticulum,0.6080693006515503
+4.0,Lysosome,Lysosome,0.9122978448867798
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9732376933097839
+1.0,Chromatin,Chromatin,0.9968294501304626
+1.0,Cytosol,Cytosol,0.8750272393226624
+3.0,Mitochondria,Mitochondria,0.49815869331359863
+3.0,Lysosome,Lysosome,0.714653491973877
+4.0,Plasma Membrane,Plasma Membrane,0.9999980926513672
+3.0,Chromatin,Chromatin,0.9953267574310303
+1.0,Chromatin,Chromatin,0.9982422590255737
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9194762706756592
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7688676118850708
+2.0,Cytosol,Cytosol,0.9999797344207764
+5.0,Lysosome,Lysosome,0.5629717707633972
+4.0,Cytosol,Cytosol,0.9981120824813843
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8491432666778564
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.8461874127388
+5.0,Plasma Membrane,Plasma Membrane,0.9998605251312256
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9901444911956787
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9972096085548401
+3.0,Chromatin,Chromatin,0.9928273558616638
+3.0,Nucleus,Nucleus,0.9909448623657227
+4.0,Mitochondria,Mitochondria,0.8645855188369751
+3.0,Plasma Membrane,Plasma Membrane,0.9999967813491821
+3.0,Cytosol,Cytosol,0.999565064907074
+2.0,Plasma Membrane,Plasma Membrane,0.9993859529495239
+3.0,Lysosome,Lysosome,0.8093500137329102
+1.0,Plasma Membrane,Plasma Membrane,0.9999643564224243
+1.0,Mitochondria,Mitochondria,0.8906106948852539
+3.0,Mitochondria,Mitochondria,0.8582768440246582
+4.0,Golgi Apparatus,Lysosome,0.5003411173820496
+5.0,Nucleolus,Nucleolus,0.8428316116333008
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.6221787929534912
+3.0,Mitochondria,Mitochondria,0.780310869216919
+3.0,Plasma Membrane,Plasma Membrane,0.9999998807907104
+5.0,Mitochondria,Mitochondria,0.6644858717918396
+1.0,Nucleus,Nucleus,0.9996297359466553
+3.0,Mitochondria,Mitochondria,0.8315339088439941
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9188871383666992
+1.0,Mitochondria,Mitochondria,0.9683918356895447
+4.0,Mitochondria,Mitochondria,0.843917727470398
+3.0,Mitochondria,Mitochondria,0.9595530033111572
+4.0,Lysosome,Lysosome,0.9608951807022095
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9702853560447693
+3.0,Mitochondria,Mitochondria,0.9322038888931274
+3.0,Golgi Apparatus,Golgi Apparatus,0.9692868590354919
+2.0,Chromatin,Chromatin,0.9964313507080078
+1.0,Mitochondria,Mitochondria,0.9339725375175476
+3.0,Nucleus,Nucleus,0.988734245300293
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.992749810218811
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9824079871177673
+2.0,Mitochondria,Mitochondria,0.9578413367271423
+4.0,Cytosol,Cytosol,0.9999946355819702
+1.0,Mitochondria,Mitochondria,0.9570282101631165
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.982677161693573
+5.0,Mitochondria,Mitochondria,0.8305172324180603
+2.0,Mitochondria,Mitochondria,0.9763355851173401
+1.0,Mitochondria,Mitochondria,0.9135237336158752
+3.0,Cytosol,Cytosol,0.9998569488525391
+4.0,Mitochondria,Mitochondria,0.704681932926178
+2.0,Mitochondria,Mitochondria,0.9887928366661072
+1.0,Plasma Membrane,Plasma Membrane,0.999563992023468
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.957750678062439
+3.0,Plasma Membrane,Plasma Membrane,0.9999871253967285
+3.0,Peroxisome,Peroxisome,0.5060560703277588
+5.0,Golgi Apparatus,Golgi Apparatus,0.8900043964385986
+3.0,Cytosol,Cytosol,0.9998947381973267
+5.0,Mitochondria,Mitochondria,0.6909707188606262
+5.0,Nucleus,Nucleus,0.8851461410522461
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.8813740611076355
+4.0,Nucleus,Nucleus,0.9949264526367188
+2.0,Lysosome,Lysosome,0.5492857694625854
+4.0,Nucleus,Nucleus,0.9998249411582947
+4.0,Nucleus,Nucleus,0.8604250550270081
+3.0,Chromatin,Chromatin,0.993907630443573
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.99324631690979
+1.0,Mitochondria,Mitochondria,0.9539826512336731
+5.0,Cytosol,Cytosol,0.9997304081916809
+5.0,Cytosol,Cytosol,0.9998631477355957
+3.0,Mitochondria,Mitochondria,0.9010714888572693
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9904927611351013
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9921634197235107
+4.0,Cytosol,Cytosol,0.9999278783798218
+3.0,Nucleus,Nucleus,0.9585244059562683
+1.0,Nucleus,Nucleus,0.631016194820404
+5.0,Mitochondria,Mitochondria,0.8276216983795166
+3.0,Chromatin,Chromatin,0.9939941763877869
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.943466305732727
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9326013922691345
+2.0,Lysosome,Lysosome,0.9560471177101135
+5.0,Nucleus,Nucleus,0.8628810048103333
+5.0,Mitochondria,Mitochondria,0.7043352723121643
+5.0,Mitochondria,Mitochondria,0.68025803565979
+5.0,Mitochondria,Mitochondria,0.632497251033783
+3.0,Chromatin,Chromatin,0.9964234232902527
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9918305277824402
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9661725759506226
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9832294583320618
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9400309920310974
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9968331456184387
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9934062957763672
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.6874050498008728
+2.0,Cytosol,Cytosol,0.9997318387031555
+5.0,Mitochondria,Mitochondria,0.7997607588768005
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9752203822135925
+3.0,Mitochondria,Mitochondria,0.817838191986084
+4.0,Mitochondria,Mitochondria,0.7746886014938354
+2.0,Cytosol,Cytosol,0.9995613694190979
+4.0,Chromatin,Chromatin,0.9974244832992554
+3.0,Mitochondria,Mitochondria,0.9515482783317566
+5.0,Mitochondria,Mitochondria,0.8345416188240051
+4.0,Chromatin,Chromatin,0.9842101335525513
+2.0,Plasma Membrane,Plasma Membrane,0.9998136162757874
+5.0,Mitochondria,Mitochondria,0.7930672764778137
+1.0,Cytosol,Cytosol,0.9998103976249695
+5.0,Cytosol,Cytosol,0.9989609718322754
+4.0,Plasma Membrane,Plasma Membrane,0.999991774559021
+5.0,Lysosome,Lysosome,0.8118126392364502
+4.0,Mitochondria,Mitochondria,0.8893546462059021
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9143615365028381
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5019353032112122
+5.0,Mitochondria,Mitochondria,0.7728388905525208
+4.0,Peroxisome,Peroxisome,0.8497212529182434
+2.0,Mitochondria,Mitochondria,0.8360323309898376
+2.0,Nucleus,Nucleus,0.7996270060539246
+4.0,Cytosol,Cytosol,0.9998071789741516
+1.0,Cytosol,Cytosol,0.999935507774353
+2.0,Chromatin,Nucleus,0.733055055141449
+1.0,Cytosol,Cytosol,0.9989721775054932
+3.0,Mitochondria,Mitochondria,0.527209460735321
+1.0,Cytosol,Cytosol,0.9094708561897278
+3.0,Mitochondria,Peroxisome,0.5506224036216736
+2.0,Plasma Membrane,Plasma Membrane,0.999868631362915
+2.0,Nucleolus,Nucleolus,0.9808923602104187
+5.0,Mitochondria,Mitochondria,0.8810170888900757
+1.0,Nucleolus,Nucleolus,0.9893651008605957
+2.0,Peroxisome,Golgi Apparatus,0.840247392654419
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9655801653862
+2.0,Cytosol,Cytosol,0.9999549388885498
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9955847859382629
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9746695160865784
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9685477018356323
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9643183350563049
+4.0,Mitochondria,Mitochondria,0.8495001792907715
+5.0,Lysosome,Lysosome,0.5770573616027832
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.7602761387825012
+3.0,Mitochondria,Mitochondria,0.978598415851593
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9956067204475403
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9727606177330017
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9970904588699341
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9165031909942627
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9865933656692505
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9948012828826904
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9943400025367737
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.994340181350708
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9919853210449219
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9453601837158203
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9917888045310974
+3.0,Chromatin,Chromatin,0.9968420267105103
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.8541161417961121
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9624562859535217
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9144726991653442
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9970045685768127
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.9916480779647827
+4.0,40S/60S Ribosome,40S/60S Ribosome,0.989500105381012
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9859397411346436
+2.0,40S/60S Ribosome,40S/60S Ribosome,0.9894049763679504
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9956424236297607
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9980520009994507
+1.0,Cytosol,Cytosol,0.9915596842765808
+2.0,Mitochondria,Mitochondria,0.9811236262321472
+2.0,Mitochondria,Mitochondria,0.9479561448097229
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9843347668647766
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9842644333839417
+2.0,Lysosome,Lysosome,0.844099760055542
+1.0,Mitochondria,Mitochondria,0.8858516812324524
+4.0,Endoplasmic Reticulum,Lysosome,0.8826794028282166
+4.0,Nucleus,Nucleus,0.9777061343193054
+5.0,Nucleus,Nucleus,0.9967045187950134
+2.0,Lysosome,Lysosome,0.9687678217887878
+1.0,Chromatin,Chromatin,0.996960461139679
+1.0,Nucleus,Nucleus,0.6075494885444641
+4.0,Mitochondria,Mitochondria,0.8050336837768555
+4.0,Mitochondria,Mitochondria,0.7629618644714355
+1.0,Mitochondria,Mitochondria,0.9683822393417358
+1.0,40S/60S Ribosome,40S/60S Ribosome,0.9962776303291321
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9821833372116089
+1.0,Plasma Membrane,Plasma Membrane,0.9985331296920776
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9157417416572571
+3.0,Cytosol,Cytosol,0.9997362494468689
+5.0,Cytosol,Cytosol,0.9994567036628723
+4.0,Nucleus,Nucleus,0.9729182124137878
+2.0,Nucleus,Nucleus,0.9715229272842407
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.9929938912391663
+1.0,Plasma Membrane,Plasma Membrane,0.9833754897117615
+1.0,Peroxisome,Peroxisome,0.8848220705986023
+1.0,Golgi Apparatus,Golgi Apparatus,0.9605860710144043
+3.0,Golgi Apparatus,Golgi Apparatus,0.9854180812835693
+2.0,Golgi Apparatus,Golgi Apparatus,0.9884936213493347
+5.0,Nucleus,Nucleus,0.9840078353881836
+1.0,Mitochondria,Mitochondria,0.9562069177627563
+2.0,Golgi Apparatus,Golgi Apparatus,0.7966915369033813
+3.0,Nucleolus,Nucleolus,0.9929184317588806
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8993921279907227
+3.0,Mitochondria,Mitochondria,0.7691426873207092
+1.0,Nucleus,Nucleus,0.7361116409301758
+5.0,Cytosol,Cytosol,0.9982845187187195
+5.0,Plasma Membrane,Plasma Membrane,0.9760830402374268
+2.0,Mitochondria,Mitochondria,0.9853073358535767
+5.0,Nucleus,Nucleus,0.9913734793663025
+5.0,Nucleus,Nucleus,0.9658896923065186
+1.0,Nucleus,Nucleus,0.9937102794647217
+4.0,Nucleus,Nucleus,0.9973830580711365
+1.0,Nucleus,Nucleus,0.9593652486801147
+4.0,Nucleus,Nucleus,0.9859500527381897
+5.0,Cytosol,Cytosol,0.9937859773635864
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8802909851074219
+2.0,Nucleolus,Nucleolus,0.711414635181427
+2.0,Lysosome,Endoplasmic Reticulum,0.8626066446304321
+5.0,Nucleolus,Nucleolus,0.6726040840148926
+5.0,Chromatin,Chromatin,0.8993332386016846
+1.0,Nucleolus,Nucleolus,0.998554527759552
+3.0,Plasma Membrane,Plasma Membrane,0.9999969005584717
+1.0,Chromatin,Chromatin,0.9723816514015198
+5.0,Chromatin,Chromatin,0.8966711759567261
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.4693036675453186
+2.0,Nucleus,Nucleus,0.9885602593421936
+1.0,Chromatin,Chromatin,0.9960256814956665
+1.0,Peroxisome,Peroxisome,0.8094332218170166
+3.0,Mitochondria,Mitochondria,0.7697349786758423
+1.0,Mitochondria,Mitochondria,0.8611212372779846
+4.0,Cytosol,Cytosol,0.9999395608901978
+3.0,Nucleus,Nucleus,0.5966471433639526
+2.0,Nucleus,Nucleus,0.9988746047019958
+5.0,Nucleus,Nucleus,0.9914512038230896
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.4786452353000641
+4.0,Plasma Membrane,Plasma Membrane,0.9999983310699463
+1.0,Chromatin,Chromatin,0.9558470249176025
+5.0,Mitochondria,Mitochondria,0.7181252241134644
+5.0,Mitochondria,Mitochondria,0.7548336982727051
+4.0,Golgi Apparatus,Golgi Apparatus,0.9335131645202637
+1.0,Mitochondria,Mitochondria,0.9247342348098755
+3.0,Mitochondria,Mitochondria,0.9352556467056274
+4.0,Mitochondria,Mitochondria,0.8999311923980713
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8525082468986511
+4.0,Peroxisome,Peroxisome,0.6241655945777893
+3.0,Nucleus,Nucleus,0.9435694813728333
+5.0,Cytosol,Cytosol,0.6831448078155518
+3.0,Mitochondria,Mitochondria,0.9479538798332214
+4.0,Mitochondria,Mitochondria,0.8316901326179504
+1.0,Mitochondria,Mitochondria,0.927498996257782
+2.0,Nucleus,Nucleus,0.9961997866630554
+4.0,Mitochondria,Mitochondria,0.6688693165779114
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5331274271011353
+4.0,Nucleolus,Nucleolus,0.9686574935913086
+1.0,Mitochondria,Mitochondria,0.9590690732002258
+1.0,Chromatin,Chromatin,0.9980747699737549
+4.0,Mitochondria,Mitochondria,0.5571035742759705
+2.0,Chromatin,Chromatin,0.9965372085571289
+1.0,Nucleus,Nucleus,0.9937547445297241
+1.0,Nucleus,Nucleus,0.9990664124488831
+3.0,Plasma Membrane,Plasma Membrane,0.9999966621398926
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8628600239753723
+2.0,Endoplasmic Reticulum,Lysosome,0.5903996825218201
+3.0,Plasma Membrane,Plasma Membrane,0.9999970197677612
+3.0,Mitochondria,Mitochondria,0.7717837691307068
+5.0,Mitochondria,Mitochondria,0.7944623231887817
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7981881499290466
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5158693194389343
+2.0,Mitochondria,Mitochondria,0.9338456988334656
+4.0,Cytosol,Cytosol,0.9971082806587219
+3.0,Peroxisome,Mitochondria,0.9283051490783691
+1.0,Mitochondria,Mitochondria,0.7502148747444153
+4.0,Chromatin,Chromatin,0.881881058216095
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9453311562538147
+2.0,Plasma Membrane,Plasma Membrane,0.9980922341346741
+4.0,Mitochondria,Mitochondria,0.8420737981796265
+4.0,Chromatin,Chromatin,0.9964985847473145
+4.0,Plasma Membrane,Plasma Membrane,0.9998536109924316
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5475562214851379
+5.0,Golgi Apparatus,Golgi Apparatus,0.9374096393585205
+5.0,Chromatin,Chromatin,0.9716890454292297
+2.0,Mitochondria,Mitochondria,0.9805317521095276
+1.0,Plasma Membrane,Plasma Membrane,0.9999972581863403
+4.0,Nucleus,Nucleus,0.9901549816131592
+5.0,Peroxisome,Peroxisome,0.6653428077697754
+2.0,Mitochondria,Mitochondria,0.6342820525169373
+2.0,Chromatin,Chromatin,0.9019802212715149
+3.0,Golgi Apparatus,Golgi Apparatus,0.8772108554840088
+1.0,Nucleolus,Nucleolus,0.9982526898384094
+2.0,Nucleus,Nucleus,0.9987155199050903
+3.0,Mitochondria,Mitochondria,0.876392662525177
+3.0,Nucleus,Nucleus,0.9510137438774109
+3.0,Nucleus,Nucleus,0.9023640155792236
+5.0,Peroxisome,Mitochondria,0.7428690195083618
+5.0,Golgi Apparatus,Golgi Apparatus,0.8574649691581726
+2.0,Peroxisome,Mitochondria,0.8703621625900269
+1.0,Mitochondria,Mitochondria,0.6142284870147705
+2.0,Lysosome,Lysosome,0.7701272964477539
+5.0,Mitochondria,Mitochondria,0.721815288066864
+2.0,Golgi Apparatus,Golgi Apparatus,0.982104480266571
+5.0,Mitochondria,Mitochondria,0.8711799383163452
+5.0,Golgi Apparatus,Golgi Apparatus,0.8355135917663574
+3.0,Plasma Membrane,Plasma Membrane,0.9999897480010986
+1.0,Plasma Membrane,Plasma Membrane,0.9999939203262329
+3.0,Lysosome,Lysosome,0.9834834337234497
+3.0,Nucleolus,Nucleolus,0.9630396366119385
+2.0,Mitochondria,Mitochondria,0.8742232322692871
+4.0,Mitochondria,Mitochondria,0.6192080974578857
+1.0,Golgi Apparatus,Golgi Apparatus,0.9991415739059448
+2.0,Golgi Apparatus,Golgi Apparatus,0.48016321659088135
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9136385321617126
+4.0,Nucleolus,Nucleolus,0.9803529977798462
+1.0,Mitochondria,Mitochondria,0.9731408953666687
+3.0,Nucleus,Nucleus,0.9941388368606567
+2.0,Nucleus,Nucleus,0.8866130709648132
+2.0,Chromatin,Chromatin,0.9370183348655701
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5566163659095764
+4.0,Chromatin,Chromatin,0.8072999715805054
+4.0,Golgi Apparatus,Golgi Apparatus,0.895291268825531
+3.0,Chromatin,Chromatin,0.9775470495223999
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9517239332199097
+1.0,Chromatin,Chromatin,0.9492928981781006
+5.0,Lysosome,Lysosome,0.6269788146018982
+3.0,Chromatin,Chromatin,0.9662799835205078
+3.0,Chromatin,Chromatin,0.9819955825805664
+5.0,Mitochondria,Mitochondria,0.6576054096221924
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.6058935523033142
+1.0,Plasma Membrane,Plasma Membrane,0.9975300431251526
+1.0,Mitochondria,Mitochondria,0.8570957779884338
+2.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9495706558227539
+4.0,Mitochondria,Mitochondria,0.5811207890510559
+1.0,Lysosome,Endoplasmic Reticulum,0.8745311498641968
+2.0,Mitochondria,Mitochondria,0.9719630479812622
+1.0,Mitochondria,Mitochondria,0.9119152426719666
+3.0,Golgi Apparatus,Golgi Apparatus,0.5907794237136841
+2.0,Mitochondria,Mitochondria,0.9893186688423157
+3.0,Plasma Membrane,Plasma Membrane,0.9983674883842468
+2.0,Nucleus,Chromatin,0.7571573257446289
+5.0,Mitochondria,Mitochondria,0.8249303698539734
+4.0,Nucleolus,Nucleolus,0.9889117479324341
+5.0,Plasma Membrane,Plasma Membrane,0.9992097616195679
+5.0,Mitochondria,Mitochondria,0.889877200126648
+1.0,Mitochondria,Mitochondria,0.9003682136535645
+2.0,Chromatin,Chromatin,0.9949749708175659
+3.0,Peroxisome,Peroxisome,0.7042026519775391
+3.0,Cytosol,Cytosol,0.999991774559021
+5.0,Chromatin,Chromatin,0.9825602173805237
+1.0,Golgi Apparatus,Golgi Apparatus,0.9669275283813477
+2.0,Mitochondria,Mitochondria,0.9608076810836792
+4.0,Plasma Membrane,Plasma Membrane,0.9999920129776001
+3.0,Chromatin,Chromatin,0.9680987000465393
+1.0,Mitochondria,Mitochondria,0.9193455576896667
+2.0,Mitochondria,Mitochondria,0.9273379445075989
+4.0,Lysosome,Lysosome,0.6674246191978455
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7238234281539917
+1.0,Nucleus,Nucleus,0.6020897626876831
+4.0,Mitochondria,Mitochondria,0.7421359419822693
+2.0,Chromatin,Chromatin,0.9987258315086365
+3.0,Mitochondria,Mitochondria,0.9003459811210632
+4.0,Lysosome,Lysosome,0.9673479199409485
+5.0,Nucleus,Nucleus,0.6745677590370178
+5.0,Nucleus,Nucleus,0.9542443156242371
+2.0,Mitochondria,Mitochondria,0.9785803556442261
+1.0,Mitochondria,Mitochondria,0.9644746780395508
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9603073000907898
+5.0,Chromatin,Chromatin,0.5778195858001709
+1.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.7361307144165039
+3.0,Endoplasmic Reticulum,Lysosome,0.6344790458679199
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5228980183601379
+2.0,Peroxisome,Mitochondria,0.9011653065681458
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8830775618553162
+2.0,Nucleus,Nucleus,0.9995635151863098
+1.0,Nucleolus,Nucleus,0.6355552077293396
+4.0,Mitochondria,Mitochondria,0.8874577879905701
+3.0,Mitochondria,Mitochondria,0.9037238359451294
+1.0,Mitochondria,Mitochondria,0.9190039038658142
+5.0,Mitochondria,Mitochondria,0.6985456943511963
+2.0,Nucleolus,Nucleus,0.9104434847831726
+5.0,Nucleus,Nucleus,0.9658925533294678
+5.0,Peroxisome,Peroxisome,0.8037284016609192
+5.0,Mitochondria,Peroxisome,0.6512036323547363
+2.0,Nucleolus,Nucleolus,0.9770979881286621
+5.0,Mitochondria,Mitochondria,0.8528885841369629
+5.0,Nucleolus,Nucleolus,0.6458484530448914
+2.0,Nucleus,Nucleus,0.9957656860351562
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5699465870857239
+5.0,Plasma Membrane,Plasma Membrane,0.9999822378158569
+1.0,Golgi Apparatus,Golgi Apparatus,0.9893921613693237
+5.0,Nucleolus,Nucleolus,0.8705621361732483
+3.0,Plasma Membrane,Plasma Membrane,0.9999871253967285
+2.0,Mitochondria,Mitochondria,0.962280809879303
+2.0,Nucleus,Nucleus,0.945949137210846
+1.0,Mitochondria,Mitochondria,0.9146016240119934
+4.0,Mitochondria,Mitochondria,0.5604869723320007
+1.0,Golgi Apparatus,Endoplasmic Reticulum,0.49249204993247986
+3.0,Mitochondria,Mitochondria,0.6386142373085022
+4.0,Nucleus,Nucleus,0.860360324382782
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.777619481086731
+3.0,Mitochondria,Mitochondria,0.750525176525116
+4.0,Mitochondria,Mitochondria,0.5450032949447632
+5.0,Mitochondria,Mitochondria,0.5365804433822632
+3.0,Mitochondria,Mitochondria,0.8766669034957886
+4.0,Cytosol,Cytosol,0.9998365640640259
+3.0,Mitochondria,Mitochondria,0.9664396047592163
+3.0,Cytosol,Cytosol,0.9999827146530151
+3.0,Lysosome,Lysosome,0.7504342198371887
+2.0,Golgi Apparatus,Golgi Apparatus,0.5750824809074402
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.9389743208885193
+1.0,Mitochondria,Mitochondria,0.9578178524971008
+3.0,Mitochondria,Mitochondria,0.8733983635902405
+5.0,Mitochondria,Mitochondria,0.7740679979324341
+1.0,Nucleolus,Nucleolus,0.9986248016357422
+3.0,Nucleus,Nucleus,0.9859485626220703
+3.0,Cytosol,Cytosol,0.999790608882904
+3.0,Nucleolus,Nucleolus,0.9186349511146545
+4.0,Lysosome,Endoplasmic Reticulum,0.749195396900177
+5.0,Chromatin,Chromatin,0.9909381866455078
+5.0,Plasma Membrane,Plasma Membrane,0.9999865293502808
+5.0,Mitochondria,Mitochondria,0.8103981018066406
+2.0,Cytosol,Cytosol,0.9974901676177979
+1.0,Chromatin,Chromatin,0.9983404874801636
+4.0,Chromatin,Chromatin,0.8773952126502991
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8160775303840637
+1.0,Peroxisome,Peroxisome,0.8390241861343384
+1.0,Lysosome,Golgi Apparatus,0.8284468650817871
+2.0,Nucleolus,Nucleolus,0.8179391622543335
+2.0,Nucleolus,Nucleolus,0.9877673387527466
+1.0,Plasma Membrane,Plasma Membrane,0.9998095631599426
+2.0,Mitochondria,Mitochondria,0.9904735684394836
+1.0,Nucleolus,Nucleolus,0.9921980500221252
+5.0,Golgi Apparatus,Golgi Apparatus,0.943547248840332
+2.0,Cytosol,Cytosol,0.9999421834945679
+4.0,Nucleolus,Nucleolus,0.9951463341712952
+4.0,Nucleus,Nucleus,0.9975899457931519
+2.0,Mitochondria,Mitochondria,0.9280418157577515
+5.0,Mitochondria,Mitochondria,0.7399696707725525
+2.0,Endoplasmic Reticulum,Golgi Apparatus,0.4832517206668854
+3.0,Peroxisome,Peroxisome,0.27431243658065796
+1.0,Golgi Apparatus,Golgi Apparatus,0.9888104200363159
+4.0,Nucleus,Nucleus,0.8739053606987
+2.0,Nucleus,Nucleus,0.6743248701095581
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8971973657608032
+1.0,Lysosome,Lysosome,0.8838507533073425
+4.0,Chromatin,Chromatin,0.9931040406227112
+3.0,Mitochondria,Mitochondria,0.9269027709960938
+3.0,Mitochondria,Peroxisome,0.6481263041496277
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.8358797430992126
+4.0,Lysosome,Lysosome,0.9317053556442261
+3.0,Plasma Membrane,Plasma Membrane,0.9999915361404419
+5.0,Chromatin,Chromatin,0.98208087682724
+2.0,Chromatin,Chromatin,0.9891529083251953
+4.0,Plasma Membrane,Plasma Membrane,0.999997615814209
+2.0,Peroxisome,Peroxisome,0.6461033821105957
+3.0,Mitochondria,Mitochondria,0.8799448013305664
+5.0,Chromatin,Chromatin,0.964988112449646
+2.0,Mitochondria,Mitochondria,0.9467907547950745
+4.0,Chromatin,Chromatin,0.9671300053596497
+3.0,Lysosome,Lysosome,0.811103880405426
+5.0,Peroxisome,Peroxisome,0.5260868668556213
+1.0,Mitochondria,Mitochondria,0.9749718308448792
+2.0,Nucleolus,Nucleolus,0.9983294606208801
+5.0,Nucleus,Nucleus,0.9959197044372559
+4.0,Nucleolus,Nucleolus,0.861308217048645
+1.0,Mitochondria,Mitochondria,0.7999228835105896
+5.0,Nucleus,Nucleus,0.9929759502410889
+3.0,40S/60S Ribosome,40S/60S Ribosome,0.8671967387199402
+4.0,Mitochondria,Mitochondria,0.7748785614967346
+1.0,Golgi Apparatus,Endoplasmic Reticulum,0.5097705125808716
+5.0,40S/60S Ribosome,40S/60S Ribosome,0.9842472076416016
+3.0,Mitochondria,Mitochondria,0.9165793061256409
+4.0,Mitochondria,Endoplasmic Reticulum,0.624686598777771
+3.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.42893218994140625
+3.0,Cytosol,Cytosol,0.9998078942298889
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.6000952124595642
+5.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5534147620201111
+4.0,Endoplasmic Reticulum,Endoplasmic Reticulum,0.5262858867645264
+2.0,Mitochondria,Mitochondria,0.952522337436676

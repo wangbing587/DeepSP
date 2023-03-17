@@ -1,0 +1,86 @@
+Data,markers,Count
+nikolovski2014,Cytosol,15
+nikolovski2014,ER,63
+nikolovski2014,Golgi,26
+nikolovski2014,Mitochondrion,51
+nikolovski2014,PM,27
+nikolovski2014,Plastid,31
+nikolovski2014,Ribosome,27
+nikolovski2014,Vacuole,12
+nikolovski2014,unknown,1133
+E14TG2aR,40S Ribosome,23
+E14TG2aR,60S Ribosome,35
+E14TG2aR,Cytosol,24
+E14TG2aR,Endoplasmic reticulum,48
+E14TG2aR,Lysosome,15
+E14TG2aR,Mitochondrion,140
+E14TG2aR,Nucleus - Chromatin,15
+E14TG2aR,Nucleus - Nucleolus,15
+E14TG2aR,Plasma membrane,41
+E14TG2aR,Proteasome,12
+E14TG2aR,unknown,1663
+itzhak2017,Actin binding proteins,25
+itzhak2017,ER,93
+itzhak2017,ER_high_curvature,7
+itzhak2017,Endosome,68
+itzhak2017,Ergic/cisGolgi,20
+itzhak2017,Golgi,22
+itzhak2017,Large Protein Complex,284
+itzhak2017,Lysosome,28
+itzhak2017,Mitochondrion,201
+itzhak2017,Nuclear pore complex,18
+itzhak2017,Peroxisome,16
+itzhak2017,Plasma membrane,52
+itzhak2017,unknown,8151
+hirst2018,Actin binding proteins,27
+hirst2018,ER,100
+hirst2018,ER_Tubular,6
+hirst2018,Endosome,59
+hirst2018,Ergic/cisGolgi,21
+hirst2018,Golgi,20
+hirst2018,Large Protein Complex,252
+hirst2018,Lysosome,31
+hirst2018,Mitochondrion,156
+hirst2018,Nuclear pore complex,11
+hirst2018,Peroxisome,11
+hirst2018,Plasma membrane,54
+hirst2018,unknown,1298
+LOPITDC2019,CYTOSOL,49
+LOPITDC2019,ER,82
+LOPITDC2019,GA,34
+LOPITDC2019,LYSOSOME,35
+LOPITDC2019,MITOCHONDRION,122
+LOPITDC2019,NUCLEUS/CHROMATIN,94
+LOPITDC2019,PEROXISOME,14
+LOPITDC2019,PM,56
+LOPITDC2019,PROTEASOME,26
+LOPITDC2019,RIBOSOME,67
+LOPITDC2019,unknown,6258
+orre2019,Cytosol_1,242
+orre2019,Cytosol_2,132
+orre2019,Cytosol_3,220
+orre2019,Cytosol_4,215
+orre2019,Cytosol_5,335
+orre2019,"ER, Mitochondrion",251
+orre2019,"ER, peroxisome",351
+orre2019,"Golgi, Endo/Lyosome",358
+orre2019,Mitochondria matrix,69
+orre2019,Mitochondria membrane,267
+orre2019,Nucleosol,197
+orre2019,"Nucleosol, Ribosome",192
+orre2019,Nucleus (Nucleolus),231
+orre2019,Nucleus (speckles),121
+orre2019,Plasma Membrane,174
+orre2019,unknown,6552
+mulvey2021,40S/60S Ribosome,75
+mulvey2021,Chromatin,74
+mulvey2021,Cytosol,52
+mulvey2021,Endoplasmic Reticulum,69
+mulvey2021,Golgi Apparatus,39
+mulvey2021,Lysosome,49
+mulvey2021,Mitochondria,197
+mulvey2021,Nucleolus,38
+mulvey2021,Nucleus,91
+mulvey2021,Peroxisome,29
+mulvey2021,Plasma Membrane,72
+mulvey2021,unknown,3282

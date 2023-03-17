@@ -1,6 +1,6 @@
 # DeepSP
 DeepSP: A Deep Learning Framework for Spatial Proteomics
-<img src="workflow.jpg">
+<img src="workflow.png">
 
 ## DeepSP.py
 DeepSP.py is is a python script that requires python software and some python modules to be installed.
